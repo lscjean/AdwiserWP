@@ -1,0 +1,4245 @@
+# Translation of Plugins - Strong Testimonials - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Strong Testimonials - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-04 20:15:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Strong Testimonials - Stable (latest release)\n"
+
+#: admin/views.php:752
+msgid "You are not authorized to modify this value."
+msgstr "Je bent niet gemachtigd om deze waarde te wijzigen."
+
+#: admin/settings/class-strong-testimonials-settings-form.php:235
+#: admin/view-list-order.php:17 admin/views-ajax.php:20 admin/views-ajax.php:47
+#: admin/views-ajax.php:76 admin/views-ajax.php:107 admin/views-ajax.php:132
+#: admin/views-ajax.php:161 admin/views-ajax.php:195 admin/views-ajax.php:222
+#: admin/views-ajax.php:246 admin/views-ajax.php:271
+msgid "Insufficient capabilities."
+msgstr "Onvoldoende rechten."
+
+#: admin/class-strong-testimonials-upsell.php:954
+msgid "25% OFF for Christmas"
+msgstr "25% KORTING voor Kerstmis"
+
+#: admin/class-strong-testimonials-upsell.php:945
+msgid "40% OFF for Black Friday"
+msgstr "40% KORTING voor Black Friday"
+
+#: admin/views.php:807
+msgid "Only child categories"
+msgstr "Alleen subcategorieën"
+
+#: admin/views.php:806
+msgid "Only parent categories"
+msgstr "Alleen hoofdcategorieën"
+
+#: admin/views.php:805
+msgid "Parent & child categories"
+msgstr "Hoofd & subcategorieën"
+
+#: admin/settings/class-strong-testimonials-settings-form.php:230
+#: admin/view-list-order.php:12 admin/views-ajax.php:15 admin/views-ajax.php:42
+#: admin/views-ajax.php:71 admin/views-ajax.php:102 admin/views-ajax.php:127
+#: admin/views-ajax.php:155 admin/views-ajax.php:190 admin/views-ajax.php:217
+#: admin/views-ajax.php:241 admin/views-ajax.php:266 admin/views.php:747
+msgid "Nonce does not exist."
+msgstr "Nonce bestaat niet."
+
+#: admin/class-strong-testimonials-addons.php:343
+msgid "Action"
+msgstr "Actie"
+
+#: admin/class-strong-testimonials-addons.php:336
+msgid "Sometimes there can be problems with the activation server, in which case please try the alternative one."
+msgstr "Soms kunnen er problemen zijn met de activatieserver, in dat geval probeer dan de alternatieve server."
+
+#: admin/class-strong-testimonials-addons.php:312
+msgid "Use Alternative Server"
+msgstr "Gebruik alternatieve server"
+
+#: admin/class-strong-testimonials-addons.php:290
+msgid "The email address used for license acquisition."
+msgstr "Het e-mailadres dat wordt gebruikt voor het verkrijgen van de licentie."
+
+#: includes/submodules/license-checker/class-wpchill-license-checker.php:346
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: admin/class-strong-testimonials-license-activator.php:461
+msgid "Email not set"
+msgstr "E-mail niet ingesteld"
+
+#: admin/class-strong-testimonials-license-activator.php:431
+msgid "License successfully deactivated"
+msgstr "Licentie succesvol gedeactiveerd"
+
+#: admin/class-strong-testimonials-license-activator.php:430
+msgid "License successfully activated"
+msgstr "Licentie succesvol geactiveerd"
+
+#: admin/class-strong-testimonials-license-activator.php:407
+msgid "License not set"
+msgstr "Licentie is niet geldig"
+
+#: admin/class-strong-testimonials-license-activator.php:399
+msgid "Action not set"
+msgstr "Actie niet ingesteld"
+
+#: admin/class-strong-testimonials-license-activator.php:389
+#: admin/class-strong-testimonials-license-activator.php:453
+msgid "Nonce not set"
+msgstr "Nonce niet ingesteld"
+
+#: admin/class-strong-testimonials-license-activator.php:297
+msgid "License deactivated."
+msgstr "Licentie gedeactiveerd."
+
+#: admin/class-strong-testimonials-license-activator.php:215
+msgid "License activated."
+msgstr "Licentie geactiveerd."
+
+#: admin/class-strong-testimonials-admin-scripts.php:274
+msgid "Please enter your license key."
+msgstr "Voer je licentiesleutel in."
+
+#: admin/class-strong-testimonials-admin-scripts.php:273
+msgid "Retrieving data..."
+msgstr "Gegevens ophalen..."
+
+#: admin/class-strong-testimonials-admin-scripts.php:272
+msgid "Deactivating..."
+msgstr "Aan het deactiveren..."
+
+#: admin/class-strong-testimonials-admin-scripts.php:271
+msgid "Activating..."
+msgstr "Aan het activeren..."
+
+#: admin/class-strong-testimonials-admin-scripts.php:270
+msgid "Please enter your email address."
+msgstr "Voer je e-mailadres in."
+
+#: admin/class-strong-testimonials-admin-scripts.php:267
+msgid "An email containing the license was sent."
+msgstr "Een e-mail met de licentie werd verzonden."
+
+#: admin/class-strong-testimonials-admin-scripts.php:266
+msgid "Something went wrong. Please try again."
+msgstr "Er is iets fout gegaan. Probeer het opnieuw."
+
+#: admin/class-strong-testimonials-addons.php:371
+msgid "Download extension"
+msgstr "Download extensie"
+
+#: admin/class-strong-testimonials-addons.php:301
+msgid "Forgot your license?"
+msgstr "Ben je je licentie vergeten?"
+
+#: admin/class-strong-testimonials-addons.php:346
+#: admin/class-strong-testimonials-admin-scripts.php:269
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: admin/class-strong-testimonials-addons.php:346
+#: admin/class-strong-testimonials-admin-scripts.php:268
+msgid "Activate"
+msgstr "Activeer"
+
+#: admin/class-strong-testimonials-addons.php:265
+msgid "You have %s week(s) untill your license will expire."
+msgstr "Je hebt nog %s weken tot je licentie verloopt."
+
+#: admin/class-strong-testimonials-addons.php:232
+msgid "Your license has expired"
+msgstr "Je licentie is verlopen"
+
+#: admin/class-strong-testimonials-addons.php:231
+msgid "You have a lifetime license."
+msgstr "Je hebt een levenslange licentie."
+
+#: admin/class-strong-testimonials-addons.php:230
+msgid "Your license is active until <strong>%s</strong>"
+msgstr "Je licentie is actief tot <strong>%s</strong>"
+
+#: admin/class-strong-testimonials-addons.php:229
+msgid "Activate your license key"
+msgstr "Activeer je licentiesleutel"
+
+#: admin/class-strong-testimonials-addons.php:228
+msgid "Enter your license key"
+msgstr "Vul je licentiesleutel in"
+
+#: includes/class-strong-form.php:286
+msgid "(no title)"
+msgstr "(Geen titel)"
+
+#: includes/submodules/banner/class-wpchill-welcome.php:89
+msgid "Upgrade to unlock"
+msgstr "Upgrade om te ontgrendelen"
+
+#: admin/class-strong-testimonials-onboarding.php:32
+msgid "Need help? Check out %s our documentation%s."
+msgstr "Hulp nodig? Bekijk %s onze documentatie%s."
+
+#: admin/class-strong-testimonials-onboarding.php:29
+msgid "Create your first testimonial"
+msgstr "Maak je eerste aanbeveling!"
+
+#: admin/class-strong-testimonials-onboarding.php:23
+msgid "In just a few steps, you will be collecting and publishing your testimonials or reviews. Beginners and pros alike will appreciate the wealth of flexible features refined over 4 years from user feedback and requests."
+msgstr "In slechts enkele stappen verzamel en publiceer je je aanbevelingen of beoordelingen. Zowel beginners als professionals zullen de rijkdom aan flexibele functies waarderen die in 4 jaar zijn verfijnd op basis van feedback en aanvragen van gebruikers."
+
+#: admin/class-strong-testimonials-onboarding.php:20
+msgid "Hi, there!"
+msgstr "Hallo, daar!"
+
+#: admin/class-strong-testimonials-admin-helper.php:102
+msgid "Contact us for support!"
+msgstr "Neem contact met ons op voor ondersteuning!"
+
+#: admin/class-strong-testimonials-addons.php:137 strong-testimonials.php:686
+msgid "Suggest a feature"
+msgstr "Stel een functie voor"
+
+#: includes/logs/html-strong-testimonials-logs-viewer.php:82
+msgid "There are currently no logs to view."
+msgstr "Er zijn momenteel geen log bestanden om weer te bekijken."
+
+#: includes/logs/html-strong-testimonials-logs-viewer.php:73
+msgid "View"
+msgstr "Bekijken"
+
+#: includes/logs/html-strong-testimonials-logs-viewer.php:65
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: includes/logs/html-strong-testimonials-logs-viewer.php:54
+msgid "Download log"
+msgstr "Log downloaden"
+
+#: includes/logs/html-strong-testimonials-logs-viewer.php:38
+msgid "Delete log"
+msgstr "Log verwijderen"
+
+#: includes/logs/html-strong-testimonials-logs-viewer.php:8
+msgid "Strong Testimonials Debug Logs"
+msgstr "Strong Testimonials debug logs"
+
+#: includes/logs/class-strong-testimonials-logger.php:203
+#: includes/logs/class-strong-testimonials-logger.php:207
+#: includes/logs/class-strong-testimonials-logger.php:252
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Actie mislukt. Vernieuw de pagina en probeer het opnieuw."
+
+#: includes/logs/class-strong-testimonials-logger.php:78
+#: includes/logs/class-strong-testimonials-logger.php:79
+msgid "Logs"
+msgstr "Logs"
+
+#: admin/settings/partials/advanced-settings.php:16
+msgid "Creates debug logs for Strong Testimonial module and it 's addons."
+msgstr "Maakt debug logs aan voor de Strong Testimonial module en de add-ons ervan."
+
+#: admin/settings/partials/advanced-settings.php:15
+msgid "Enable debug log. Off by default."
+msgstr "Activeer debug log. Standaard uitgeschakeld."
+
+#: admin/settings/partials/advanced-settings.php:11
+msgid "Debug log"
+msgstr "Debug log"
+
+#: admin/settings/class-strong-testimonials-advanced-settings.php:24
+msgid "Advanced Settings"
+msgstr "Geavanceerde instellingen"
+
+#: admin/class-strong-testimonials-upsell.php:142
+msgid "Publish"
+msgstr "Publiceren"
+
+#: admin/class-strong-testimonials-addons.php:284
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: includes/class-strong-view-form.php:52
+msgid "Strong Testimonials form submission spinner."
+msgstr "Strong Testimonials formulier inzending spinner."
+
+#: admin/class-strong-testimonials-wpchill-upsells.php:452
+msgid "Sites"
+msgstr "Sites"
+
+#: admin/class-strong-testimonials-wpchill-upsells.php:368
+msgid "Current package"
+msgstr "Huidige pakket"
+
+#: admin/class-strong-testimonials-wpchill-upsells.php:325
+msgid "Strong Testimonials - LITE"
+msgstr "Strong Testimonials - LITE"
+
+#: admin/challenge/modal.php:57
+msgid "Create First Gallery"
+msgstr "Maak de eerste galerij"
+
+#: admin/challenge/modal.php:47
+msgid "Al 5-lea lucru din lista"
+msgstr "Vijfde item op de lijst"
+
+#: admin/challenge/modal.php:46
+msgid "Al 4-lea lucru din lista"
+msgstr "Vierde item op de lijst"
+
+#: admin/challenge/modal.php:45
+msgid "Al 3-lea lucru din lista"
+msgstr "Derde item op de lijst"
+
+#: admin/challenge/modal.php:44
+msgid "Al 2-lea lucru din lista"
+msgstr "Tweede item op de lijst"
+
+#: admin/challenge/modal.php:43
+msgid "Primul lucru din lista"
+msgstr "Tweede item op de lijst"
+
+#: admin/challenge/modal.php:40
+msgid "Start enjoying <strong>Strong Testimonials</strong> by adding your first testimonial."
+msgstr "Begin te genieten van <strong>Strong Testimonials</strong> door je eerste aanbeveling toe te voegen."
+
+#: admin/about/class-strong-testimonials-welcome.php:119
+msgid "Happy users of Strong Testimonials"
+msgstr "Blije gebruikers van Strong Testimonials"
+
+#: admin/about/class-strong-testimonials-welcome.php:103
+msgid "Properties "
+msgstr "Eigenschappen "
+
+#: admin/about/class-strong-testimonials-welcome.php:102
+msgid "Increase workflow and user experience by filtering testimonials by category, product/service, or star rating."
+msgstr "Verhoog de workflow en gebruiker ervaring door aanbevelingen te filteren op categorie, product/dienst of sterren waardering."
+
+#: admin/about/class-strong-testimonials-welcome.php:102
+msgid "Testimonial category filters"
+msgstr "Aanbeveling categorie filters"
+
+#: admin/about/class-strong-testimonials-welcome.php:101
+msgid "Assign testimonials to certain custom post types."
+msgstr "Aanbevelingen toewijzen aan bepaalde aangepaste bericht types."
+
+#: admin/about/class-strong-testimonials-welcome.php:100
+msgid "Manually verify and approve your incoming testimonials, or make use of the auto-approve feature to save time."
+msgstr "Controleer en keur je inkomende aanbevelingen handmatig goed, of maak gebruik van de automatische goedkeuring functie om tijd te besparen."
+
+#: admin/about/class-strong-testimonials-welcome.php:100
+msgid "Pending testimonials"
+msgstr "In afwachting van aanbevelingen"
+
+#: admin/about/class-strong-testimonials-welcome.php:99
+msgid "Include rating markup to encourage search engines to display rich snippets - whether or not you use a star rating field on your testimonials."
+msgstr "Neem waardering markup op om zoekmachines aan te moedigen rich snippets weer te geven - of je nu wel of niet een ster waardering veld gebruikt op je aanbevelingen."
+
+#: admin/about/class-strong-testimonials-welcome.php:99
+msgid "SEO-friendly markup"
+msgstr "SEO vriendelijke markup"
+
+#: admin/about/class-strong-testimonials-welcome.php:98
+msgid "Unlock more marketing and automation potential by sending users a targeted message or a coupon to thank them for leaving a good review and subscribing to a MailChimp email list"
+msgstr "Ontgrendel meer marketing en automatisering potentieel door gebruikers een gericht bericht of een waardebon te verzenden om hen te bedanken voor het achterlaten van een goede beoordeling en het inschrijven op een Mailchimp e-maillijst"
+
+#: admin/about/class-strong-testimonials-welcome.php:98
+msgid "Email integration"
+msgstr "E-mail integratie"
+
+#: admin/about/class-strong-testimonials-welcome.php:97
+msgid "Add spam control to your forms with our Captcha extension."
+msgstr "Voeg spam controle toe aan je formulieren met onze Captcha extensie."
+
+#: admin/about/class-strong-testimonials-welcome.php:97
+msgid "Spam protection"
+msgstr "Spam bescherming"
+
+#: admin/about/class-strong-testimonials-welcome.php:96
+msgid "As, an admin, easily decide which user roles are worthy of adding, editing, or removing testimonials."
+msgstr "Als beheerder kun je gemakkelijk beslissen welke gebruiker rollen het waard zijn om aanbevelingen toe te voegen, te bewerken of te verwijderen."
+
+#: admin/about/class-strong-testimonials-welcome.php:96
+msgid "User role management"
+msgstr "Gebruiker rol beheer"
+
+#: admin/about/class-strong-testimonials-welcome.php:95
+msgid "Collect testimonials from customers via different types of forms along with their data - name, email, company name, company website, featured image, star rating."
+msgstr "Verzamel aanbevelingen van klanten via verschillende soorten formulieren samen met hun gegevens - naam, e-mail, bedrijfsnaam, bedrijf site, uitgelichte afbeelding, ster waardering."
+
+#: admin/about/class-strong-testimonials-welcome.php:95
+msgid "Testimonial forms"
+msgstr "Aanbevelingsformulieren"
+
+#: admin/about/class-strong-testimonials-welcome.php:94
+msgid "Keep all your testimonials in one single place by importing reviews from third-party websites/plugins, such as: Google, Facebook, Yelp, Zomato, Woocommerce."
+msgstr "Houd al je aanbevelingen op één plek door beoordelingen van derde partijen te importeren van sites/plugins zoals: Google, Facebook, Yelp, Zomato, WooCommerce."
+
+#: admin/about/class-strong-testimonials-welcome.php:93
+msgid "Choose a built-in template, layout, background, and font color to showcase your testimonials in a visually-appealing way."
+msgstr "Selecteer een ingebouwde template, lay-out, achtergrond en lettertype kleur om je aanbevelingen op een visueel aantrekkelijke manier te presenteren."
+
+#: admin/about/class-strong-testimonials-welcome.php:93
+msgid "Predesigned templates"
+msgstr "Voorontworpen templates"
+
+#: admin/about/class-strong-testimonials-welcome.php:92
+msgid "Take advantage of our three testimonial views - display, slider, and form, and use them to apply custom settings to multiple testimonials."
+msgstr "Profiteer van onze drie aanbeveling weergaven - weergave, slider en formulier, en gebruik ze om aangepaste instellingen toe te passen op meerdere aanbevelingen."
+
+#: admin/about/class-strong-testimonials-welcome.php:92
+msgid "Multiple views"
+msgstr "Meerdere weergaven"
+
+#: admin/about/class-strong-testimonials-welcome.php:90
+msgid "Features&Add-ons"
+msgstr "Functies & add-ons"
+
+#: admin/about/class-strong-testimonials-welcome.php:79
+msgid "Read our step-by-step guide to get started"
+msgstr "Lees onze stapsgewijze handleiding om aan de slag te gaan"
+
+#: admin/about/class-strong-testimonials-welcome.php:75
+msgid "You're just a few steps away from adding and displaying your first testimonial on your website with the easiest to use WordPress review and testimonial plugin on the market."
+msgstr "Je bent slechts een paar stappen verwijderd van het toevoegen en weergeven van je eerste aanbeveling op je site met de makkelijkst te gebruiken WordPress beoordeling en aanbeveling plugin op de markt."
+
+#: admin/about/class-strong-testimonials-welcome.php:74
+msgid "Thank you for installing Strong Testimonials"
+msgstr "Bedankt voor het installeren van Strong Testimonials"
+
+#: admin/class-strong-testimonials-lite-vs-pro-page.php:125
+msgid "Upgrade now!"
+msgstr "Upgrade nu!"
+
+#: admin/class-strong-testimonials-lite-vs-pro-page.php:70
+msgid "LITE vs PRO"
+msgstr "LITE versus PRO"
+
+#: admin/class-strong-testimonials-lite-vs-pro-page.php:56
+#: admin/class-strong-testimonials-lite-vs-pro-page.php:57
+msgid "Lite vs Pro"
+msgstr "Lite versus Pro"
+
+#: admin/views.php:342
+msgid "video_record"
+msgstr "video_record"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:126
+#: admin/class-strong-testimonials-page-shortcodes.php:152
+#: admin/class-strong-testimonials-page-shortcodes.php:315
+#: admin/class-strong-testimonials-page-shortcodes.php:338
+#: admin/class-strong-testimonials-page-shortcodes.php:361
+#: admin/class-strong-testimonials-page-shortcodes.php:408
+#: admin/class-strong-testimonials-page-shortcodes.php:432
+msgid "4.3 stars (based on 9 ratings)"
+msgstr "4,3 sterren (gebaseerd op 9 waarderingen)"
+
+#: admin/views.php:394
+msgid "select a field"
+msgstr "selecteer een veld"
+
+#: admin/class-strong-testimonials-helper.php:606
+#: admin/class-strong-testimonials-helper.php:644
+msgid "copied"
+msgstr "gekopieerd"
+
+#: admin/class-strong-testimonials-helper.php:271
+msgid " Pagination"
+msgstr " Pagineren"
+
+#: admin/class-strong-testimonials-helper.php:242
+msgid " Custom Fields"
+msgstr " Aangepaste velden"
+
+#: admin/class-strong-testimonials-helper.php:230
+msgid " Content"
+msgstr " Inhoud"
+
+#: admin/class-strong-testimonials-helper.php:219
+msgid " Featured Image"
+msgstr " Uitgelichte afbeelding"
+
+#: admin/class-strong-testimonials-helper.php:139
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: admin/class-strong-testimonials-upsell.php:179
+msgid "and more..."
+msgstr "en meer..."
+
+#: admin/class-strong-testimonials-upsell.php:178
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/class-strong-testimonials-upsell.php:177
+msgid "Zomato"
+msgstr "Zomato"
+
+#: admin/class-strong-testimonials-upsell.php:176
+msgid "Yelp"
+msgstr "Yelp"
+
+#: admin/class-strong-testimonials-upsell.php:175
+msgid "Google"
+msgstr "Google"
+
+#: admin/class-strong-testimonials-upsell.php:174
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:374
+msgid "Round the rating(ex.: from 4.3 -> 4 or 4.7->5)"
+msgstr "Rond de waardering af (bijv.: van 4,3 -> 4 of 4,7->5)"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:301
+msgid "If using multiple rating fields, you can use \"all\" to use all the rating fields."
+msgstr "Als je meerdere waardering velden gebruikt, kun je \"alle\" gebruiken om alle waardering velden te gebruiken."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:300
+msgid "If using multiple rating fields, you can specify the specific field you need."
+msgstr "Indien meerdere waardering velden worden gebruikt, kun je het specifieke veld specificeren dat je nodig hebt."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:288
+msgid "9"
+msgstr "9"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:267
+msgid "4.333 stars (based on 9 ratings)"
+msgstr "4.333 sterren (gebaseerd op 9 waarderingen)"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:255
+msgid "If you need to display multiple decimals for average rating you have to set a number to decimal."
+msgstr "Als je meerdere decimalen moet weergeven voor de gemiddelde waardering moet je een getal achter de komma zetten."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:243
+msgid "4.3"
+msgstr "4.3"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:200
+msgid "Our average rating is "
+msgstr "Onze gemiddelde waardering is "
+
+#: admin/class-strong-testimonials-page-shortcodes.php:177
+#: admin/class-strong-testimonials-page-shortcodes.php:200
+msgid "4.3 stars"
+msgstr "4.3 sterren"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:175
+msgid "Average of 9 Ratings:"
+msgstr "Gemiddelde van 9 waarderingen:"
+
+#: includes/functions.php:562
+msgid "No submit date"
+msgstr "Geen inleverdatum"
+
+#: admin/views.php:341
+msgid "video"
+msgstr "video"
+
+#: admin/class-strong-testimonials-defaults.php:319
+msgid "Would you like to include star rating?"
+msgstr "Wil je een sterren waardering toevoegen?"
+
+#: admin/about/class-strong-testimonials-welcome.php:108
+#: admin/about/class-strong-testimonials-welcome.php:130
+#: admin/class-strong-testimonials-addons.php:68
+#: admin/class-strong-testimonials-upsell.php:198
+#: admin/class-strong-testimonials-upsell.php:211
+msgid "Upgrade now"
+msgstr "Nu upgraden"
+
+#: includes/strong-testimonials-beaver-block/includes/frontend.php:12
+msgid "No view was selected"
+msgstr "Geen weergave geselecteerd"
+
+#: includes/strong-testimonials-beaver-block/class-strong-beaver-block.php:30
+msgid "Select Strong Testimonials View"
+msgstr "Selecteer weergave van sterke aanbevelingen"
+
+#: includes/strong-testimonials-beaver-block/class-strong-beaver-block.php:26
+msgid "Select the Strong Testimonials View you want"
+msgstr "Selecteer de Strong Testimonials weergave die je wilt"
+
+#: includes/strong-testimonials-beaver-block/class-strong-beaver-block.php:11
+msgid "A block for Strong Testimonials Views"
+msgstr "Een blok voor Strong Testimonials Views"
+
+#: includes/elementor/class-strong-elementor.php:46
+#: includes/elementor/class-strong-elementor.php:69
+msgid "Select/Search View"
+msgstr "Selecteer/zoek weergave"
+
+#: includes/elementor/class-strong-elementor-check.php:104
+msgid "PHP"
+msgstr "PHP"
+
+#: includes/elementor/class-strong-elementor-check.php:88
+msgid "Elementor"
+msgstr "Elementor"
+
+#: includes/elementor/class-strong-elementor-check.php:88
+#: includes/elementor/class-strong-elementor-check.php:104
+msgid "Strong Testimonials Elementor widget"
+msgstr "Strong Testimonials Elementor widget"
+
+#: includes/elementor/class-strong-elementor-check.php:88
+#: includes/elementor/class-strong-elementor-check.php:104
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" vereist \"%2$s\" versie %3$s of hoger."
+
+#: admin/about/class-strong-testimonials-welcome.php:122
+msgid "I have used various testimonials plugins. What I get here for free is just amazing. The support is great. And updates fresh. Looking at the ability to get reviews indexed by Google is more than enough reason to get an upgrade."
+msgstr "Ik heb verschillende aanbevelingen plugins gebruikt. Wat ik hier gratis krijg is gewoon geweldig. De ondersteuning is geweldig. En verse updates. Kijken naar de mogelijkheid om beoordelingen geïndexeerd te krijgen door Google is meer dan genoeg reden om een upgrade te krijgen."
+
+#: admin/about/class-strong-testimonials-welcome.php:121
+msgid "Strong Testimonials is my new, go-to resource for creating pages with multiple staff bios or testimonials. It's extremely easy to use, update, and customize, and that makes it an invaluable asset. Highly recommend!."
+msgstr "Strong Testimonials is mijn nieuwe gegevensbron voor het maken van pagina's met meerdere personeel biografieën of aanbevelingen. Het is uiterst gemakkelijk te gebruiken, bij te werken en aan te passen, en dat maakt het van onschatbare waarde. Een echte aanrader!."
+
+#: admin/about/class-strong-testimonials-welcome.php:94
+msgid "Testimonial Importer"
+msgstr "Testimonial importeerfunctie"
+
+#: admin/about/class-strong-testimonials-welcome.php:101
+msgid "Testimonial assignment"
+msgstr "Testimonial opdracht"
+
+#: admin/about/class-strong-testimonials-welcome.php:103
+msgid "Change properties of the testimonial post type: labels, permalink structure, admin options and post editor features."
+msgstr "Eigenschappen van het aanbeveling berichttype wijzigen: labels, permalink structuur, beheerder opties en bericht editor functies."
+
+#: admin/about/class-strong-testimonials-welcome.php:127
+msgid "Start Adding Testimonials"
+msgstr "Begin met het toevoegen van aanbevelingen"
+
+#: admin/about/class-strong-testimonials-welcome.php:85
+msgid "Watch how to"
+msgstr "Kijk hoe je moet"
+
+#: admin/about/class-strong-testimonials-welcome.php:70
+msgid "Strong Testimonials Mascot"
+msgstr "Strong Testimonials mascotte"
+
+#. Author URI of the plugin
+#: strong-testimonials.php
+msgid "https://wpchill.com/"
+msgstr "https://wpchill.com/"
+
+#. Author of the plugin
+#: strong-testimonials.php
+msgid "WPChill"
+msgstr "WPChill"
+
+#: admin/views.php:82 admin/views.php:84
+msgid " <span class=\"count\">(%s)</span>"
+msgstr " <span class=\"count\">(%s)</span>"
+
+#: admin/views.php:82
+msgid "All"
+msgstr "Alle"
+
+#: admin/views.php:80
+msgid "Filter view list"
+msgstr "Filter weergave lijst"
+
+#: admin/class-strong-testimonials-upsell.php:519
+msgid "Protect your form against spam. Add Google reCAPTCHA or honeypot anti-spam with the %s extension."
+msgstr "Bescherm je formulier tegen spam. Voeg Google reCAPTCHA of honeypot anti spam toe met de %s extensie."
+
+#: admin/class-strong-views-list-table.php:241
+#: admin/class-strong-views-list-table.php:243
+msgid "Search"
+msgstr "Zoeken"
+
+#: admin/class-strong-testimonials-defaults.php:487
+msgid "You need to be logged in to access this form."
+msgstr "Je moet ingelogd zijn om toegang te krijgen tot dit formulier."
+
+#: admin/class-strong-testimonials-upsell.php:860
+msgid "Strong Testimonials: Properties"
+msgstr "Strong Testimonials:eigenschappen"
+
+#: admin/class-strong-testimonials-upsell.php:856
+msgid "Easily customize default testimonial attributes such as labels, permalink structure, icons and more with the %s extension."
+msgstr "Pas eenvoudig standaard aanbeveling attributen zoals labels, permalink structuur, pictogrammen en meer aan met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:841
+msgctxt "adjective"
+msgid "Properties"
+msgstr "Eigenschappen"
+
+#: admin/class-strong-testimonials-upsell.php:820
+msgid "%s provides you with a lot of new functionalities in one plugin, such as choosing the HTML tag you’d like to display for your testimonial titles or prefilling the forms from $_GET parameters. Moreover, if no image is provided for your testimonial, you can display the author’s initials or a default picture. Get started with Strong Testimonials Pro today!"
+msgstr "%s biedt je veel nieuwe functionaliteiten in één plugin, zoals het kiezen van de HTML tag die je wil weergeven voor je aanbeveling titels of het vooraf invullen van formulieren vanuit $_GET parameters. Bovendien, als er geen afbeelding wordt geleverd voor je aanbeveling, kun je de initialen van de auteur of een standaardafbeelding weergeven. Begin vandaag nog met Strong Testimonials Pro!"
+
+#: admin/class-strong-testimonials-upsell.php:810
+msgid "Show testimonial form only for logged-in users."
+msgstr "Toon aanbeveling formulier alleen voor ingelogde gebruikers."
+
+#: admin/class-strong-testimonials-upsell.php:809
+msgid "Prefill testimonial forms from $_GET parameters;"
+msgstr "Aanbeveling formulieren vooraf invullen van $_GET parameters;"
+
+#: admin/class-strong-testimonials-upsell.php:808
+msgid "Choose the Single Testimonial Template settings;"
+msgstr "Selecteer de Single Testimonial Template instellingen;"
+
+#: admin/class-strong-testimonials-upsell.php:807
+msgid "Choose the HTML tag you’d like to use for your testimonial titles;"
+msgstr "Selecteer de HTML tag die je wil gebruiken voor je aanbeveling titels;"
+
+#: admin/class-strong-testimonials-upsell.php:806
+msgid "Use author initials as the testimonial image;"
+msgstr "Gebruik de initialen van de auteur als aanbeveling afbeelding;"
+
+#: admin/class-strong-testimonials-upsell.php:805
+msgid "Display a default image when no image has been provided for the testimonial;"
+msgstr "Laat een standaard afbeelding zien wanneer er geen afbeelding is opgegeven voor de aanbeveling;"
+
+#: admin/class-strong-testimonials-upsell.php:800
+#: admin/class-strong-testimonials-upsell.php:824
+msgid "Strong Testimonials PRO"
+msgstr "Strong Testimonials PRO"
+
+#: admin/class-strong-testimonials-upsell.php:796
+msgid "With %s you can:"
+msgstr "Met %s kun je:"
+
+#: admin/class-strong-testimonials-upsell.php:783
+msgctxt "adjective"
+msgid "Single Testimonial Template"
+msgstr "Single Testimonial Template"
+
+#: admin/class-strong-testimonials-upsell.php:763
+msgid "Strong Testimonials: Assignment"
+msgstr "Strong Testimonials: opdracht"
+
+#: admin/class-strong-testimonials-upsell.php:759
+msgid "The %s extension is perfect if you want to easily assign testimonials to certain custom post types."
+msgstr "De %s extensie is perfect als je gemakkelijk aanbevelingen wil toewijzen aan bepaalde extra berichttypes."
+
+#: admin/class-strong-testimonials-upsell.php:745
+msgctxt "adjective"
+msgid "Assignment"
+msgstr "Opdracht"
+
+#: admin/class-strong-testimonials-upsell.php:728
+msgid "Filters"
+msgstr "Filters"
+
+#: admin/class-strong-testimonials-upsell.php:724
+msgid "Add category-like filters for testimonials, group testimonials by associated product/service, and help potential clients appreciate the great work you do by showcasing reviews from other clients with %s extension."
+msgstr "Voeg categorie achtige filters toe voor aanbevelingen, groepeer aanbevelingen per geassocieerd product/dienst, en help potentiële klanten het geweldige werk dat je doet te waarderen door beoordelingen van andere klanten te tonen met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:714
+msgid "help potential clients appreciate the great work you do by showcasing reviews from other clients"
+msgstr "potentiële klanten helpen het goede werk dat je doet te waarderen door beoordelingen van andere klanten te laten zien"
+
+#: admin/class-strong-testimonials-upsell.php:713
+msgid "group testimonials by associated product or service"
+msgstr "groep aanbevelingen per geassocieerd product of dienst"
+
+#: admin/class-strong-testimonials-upsell.php:712
+msgid "create category-like filters for your testimonials"
+msgstr "categorie achtige filters maken voor je aanbevelingen"
+
+#: admin/class-strong-testimonials-upsell.php:707
+msgid "Strong Testimonials: Filters"
+msgstr "Strong Testimonials: filters"
+
+#: admin/class-strong-testimonials-upsell.php:703
+msgid "Use the %s extensions to:"
+msgstr "Gebruik de %s extensies om:"
+
+#: admin/class-strong-testimonials-upsell.php:686
+msgid "Infinite Scroll"
+msgstr "Oneindig scrollen"
+
+#: admin/class-strong-testimonials-upsell.php:682
+msgid "Reduce your page’s initial load time - display a fixed number of testimonials on the first view and have more loading when you scroll down with %s extension."
+msgstr "Verkort de eerste laadtijd van je pagina - toon een vast aantal aanbevelingen bij de eerste aanblik en laat meer laden als je naar beneden scrolt met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:671
+msgid "reduce your page's initial load time, making your site faster in the process and not driving clients away because of a slow loading website"
+msgstr "de aanvankelijke laadtijd van je pagina verkorten, waardoor je site sneller wordt en klanten niet worden weg gejaagd door een traag ladende site"
+
+#: admin/class-strong-testimonials-upsell.php:670
+msgid "display a fixed number of testimonials on first view and have more of them load when the user starts scrolling"
+msgstr "een vast aantal aanbevelingen tonen bij de eerste aanblik en er meer laten laden als de gebruiker begint te scrollen"
+
+#: admin/class-strong-testimonials-upsell.php:665
+msgid "Strong Testimonials: Infinite Scroll"
+msgstr "Strong Testimonials: Oneindige rol"
+
+#: admin/class-strong-testimonials-upsell.php:644
+msgid "Enhanced Emails"
+msgstr "Verbeterde e-mails"
+
+#: admin/class-strong-testimonials-upsell.php:640
+msgid "Send a thank-you email to your clients once their testimonial is approved using %s extension. This way, you increase brand loyalty and grow your chances of seeling more. "
+msgstr "Stuur een bedank e-mail naar je klanten zodra hun aanbeveling is toegestaan met behulp van de %s extensie. Zo verhoog je de merk loyaliteit en vergroot je je kansen op meer klanten. "
+
+#: admin/class-strong-testimonials-upsell.php:629
+msgid "keep your clients engaged and increase your chances of selling more"
+msgstr "houd je klanten betrokken en vergroot je kansen om meer te verkopen"
+
+#: admin/class-strong-testimonials-upsell.php:628
+msgid "increase brand loyalty by showing you really care about your clients"
+msgstr "de merken trouw verhogen door te laten zien dat je echt om je klanten geeft"
+
+#: admin/class-strong-testimonials-upsell.php:627
+msgid "send a thank you email to your client once his testimonial's approved"
+msgstr "stuur een bedankt e-mail naar je klant zodra zijn aanbeveling is toegestaan"
+
+#: admin/class-strong-testimonials-upsell.php:622
+msgid "Strong Testimonials: Enhanced Emails"
+msgstr "Strong Testimonials: Verbeterde e-mails"
+
+#: admin/class-strong-testimonials-upsell.php:618
+msgid "Use the %s extension to:"
+msgstr "Gebruik de %s extensie om:"
+
+#: admin/class-strong-testimonials-upsell.php:601
+msgid "Pro Templates"
+msgstr "Pro templates"
+
+#: admin/class-strong-testimonials-upsell.php:586
+msgid "Impress your potential clients with profesionally designed, pixel-perfect templates that increase your chances of standing out and landing more clients."
+msgstr "Maak indruk op je potentiële klanten met professioneel ontworpen, pixel perfecte templates die je kansen vergroten om op te vallen en meer klanten te werven."
+
+#: admin/class-strong-testimonials-upsell.php:478
+msgid "Advanced Views"
+msgstr "Geavanceerde weergaves"
+
+#: admin/class-strong-testimonials-upsell.php:474
+msgid "Start filtering, changing the order, or even editing your testimonials in real-time with the %s extension."
+msgstr "Begin te filteren, de volgorde te veranderen of zelfs je aanbevelingen in real time te bewerken met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:433
+msgid "Review Markup"
+msgstr "Beoordeling markup"
+
+#: admin/class-strong-testimonials-upsell.php:396
+msgctxt "adjective"
+msgid "Review Markup"
+msgstr "Beoordeling markup"
+
+#: admin/class-strong-testimonials-upsell.php:380
+msgid "Multiple Forms"
+msgstr "Meerdere formulieren"
+
+#: admin/class-strong-testimonials-upsell.php:338
+msgid "Get to know your customers by installing our %s extension."
+msgstr "Leer je klanten kennen door onze %s extensie te installeren."
+
+#: admin/class-strong-testimonials-upsell.php:302
+msgid "Country Selector"
+msgstr "Landen kiezer"
+
+#: admin/class-strong-testimonials-upsell.php:298
+msgid "Show where your customers are located with the %s extension. "
+msgstr "Laat zien waar je klanten zich bevinden met de %s extensie. "
+
+#: admin/class-strong-testimonials-upsell.php:245
+#: admin/class-strong-testimonials-upsell.php:262
+msgid "Role Management"
+msgstr "Rol beheer"
+
+#: admin/class-strong-testimonials-upsell.php:241
+#: admin/class-strong-testimonials-upsell.php:258
+msgid "Control who approves testimonials or who has access to the plugins’ settings panel with %s extension. Get total granular control over who has access to your testimonials."
+msgstr "Bepaal wie aanbevelingen goedkeurt of wie toegang heeft tot het instellingen paneel van de plugins met %s extensie. Krijg totale granulaire controle over wie toegang heeft tot je aanbevelingen."
+
+#: admin/class-strong-testimonials-upsell.php:226
+msgctxt "adjective"
+msgid "Role Management"
+msgstr "Rol beheer"
+
+#: admin/settings/partials/form.php:225
+msgid "Receive an email when new testimonials are submitted and waiting for approval."
+msgstr "Ontvang een e-mail wanneer nieuwe aanbevelingen worden ingediend en wachten op goedkeuring."
+
+#: includes/class-strong-testimonials-privacy.php:188
+msgid ""
+"\n"
+"            We collect certain pieces of information about you when you fill one of our testimonial forms. This includes your full name, e-mail address, photo, company name, and website.           \n"
+"            By agreeing to these terms, you also allow us to::\n"
+"            - Send a confirmation e-mail, to let you know your testimonial was received and approved;\n"
+"            - Send important account/ product/ service information;\n"
+"            - Set up and administer your account, provide technical/customer support, and verify your identity."
+msgstr ""
+"\n"
+"            Wij verzamelen bepaalde informatie over je wanneer je een van onze beoordeling formulieren invult. Dit omvat je volledige naam, e-mail adres, foto, bedrijfsnaam, en website.           \n"
+"            Door akkoord te gaan met deze voorwaarden, geef je ons ook toestemming om:\n"
+"            - Een bevestigingse-mail te sturen, om je te laten weten dat je beoordeling is ontvangen en goedgekeurd;\n"
+"            - Het verzenden van belangrijke account / product / service informatie;\n"
+"            - Je account op te zetten en te beheren, technische ondersteuning/klantenondersteuning te bieden en je identiteit te verifiëren."
+
+#: templates/default-form/form.php:17 templates/default-form/form.php:18
+#: templates/simple-form/form.php:16 templates/simple-form/form.php:17
+#: templates/unstyled-form/form.php:16 templates/unstyled-form/form.php:17
+msgid "Login"
+msgstr "Login"
+
+#: includes/functions-rating.php:64
+msgid "rating fields"
+msgstr "waardering velden"
+
+#: admin/class-strong-testimonials-helper.php:1458
+msgid "Show <strong>html content</strong>."
+msgstr "Toon <strong>HTML inhoud</strong>."
+
+#: admin/settings/partials/general.php:278
+msgid "Disable all upsells."
+msgstr "Schakel alle upsells uit."
+
+#: admin/settings/partials/general.php:272
+msgid "Upsells"
+msgstr "Upsells"
+
+#: admin/settings/partials/general.php:254
+msgid "No Lazy Loading Plugin"
+msgstr "Geen lazy-loading plugin"
+
+#: admin/settings/partials/general.php:243
+msgid "Enable the Lazy Loading functionality."
+msgstr "Schakel de lazy-loading functionaliteit in."
+
+#: admin/settings/partials/general.php:237
+msgid "Lazy Loading"
+msgstr "Lazy-loading"
+
+#: admin/settings/partials/general.php:227
+msgid "Add <code>rel=\"noreferrer\"</code> to URL custom fields."
+msgstr "<code>Rel=\"noverwijzer\"</code> toevoegen aan aangepaste URL velden."
+
+#: admin/settings/partials/general.php:221
+msgid "Noreferrer Links"
+msgstr "Noreferrer links"
+
+#: admin/settings/partials/general.php:212
+msgid "Add <code>rel=\"noopener\"</code> to URL custom fields."
+msgstr "<code>Rel=\"noopener\"</code> toevoegen aan aangepaste URL velden."
+
+#: admin/settings/partials/general.php:206
+msgid "Noopener Links"
+msgstr "Noopener links"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:262
+msgid "Randomize testimonials via javascript to ensure proper behaviour. Check this if using page caching plugins (WP Rocket, Super Cache, W3 Total Cache etc.)"
+msgstr "Randomiseer aanbevelingen via javascript om goed gedrag te garanderen. Controleer dit als je pagina caching plugins (WP Rocket, Super Cache, W3 Total Cache enz.) gebruikt"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:256
+msgid "Random JS"
+msgstr "Willekeurige JS"
+
+#: admin/custom-fields.php:323
+msgid "Limit the user imput to a certain number of characters"
+msgstr "De invoer van de gebruiker beperken tot een bepaald aantal karakters"
+
+#: admin/custom-fields.php:322
+msgid "Maximum Length"
+msgstr "Maximale lengte"
+
+#: admin/views.php:644
+msgid "Unchecked Value"
+msgstr "Niet gecontroleerde waarde"
+
+#: admin/views.php:635
+msgid "Custom value"
+msgstr "Aangepaste waarde"
+
+#: admin/custom-fields.php:336 admin/views.php:634
+msgid "Checked value"
+msgstr "Gecontroleerde waarde"
+
+#: admin/views.php:631
+msgid "Checked Value"
+msgstr "Gecontroleerde waarde"
+
+#: admin/views.php:622
+msgid "Custom label"
+msgstr "Aangepast label"
+
+#: admin/views.php:621
+msgid "Field label"
+msgstr "Veld label"
+
+#: admin/views.php:619
+msgid "Label"
+msgstr "Label"
+
+#: admin/class-strong-testimonials-defaults.php:477
+msgid "Your testimonial was received  for %BLOGNAME% and awaiting approval from the website administrator. Thank you!"
+msgstr "Je aanbeveling is ontvangen voor %BLOGNAME% en wacht op toestemming van de site beheerder.  Bedankt!"
+
+#: admin/class-strong-testimonials-defaults.php:476
+msgid "Your testimonial was published for %BLOGNAME%. Thank you!"
+msgstr "Je aanbeveling werd gepubliceerd voor %BLOGNAME%. Bedankt!"
+
+#: admin/class-strong-testimonials-defaults.php:472
+#: admin/class-strong-testimonials-defaults.php:473
+msgid "Testimonial for %BLOGNAME%"
+msgstr "Aanbeveling voor %BLOGNAME%"
+
+#: admin/class-strong-testimonials-review.php:16
+msgid "Don't show again"
+msgstr "Niet meer weergeven"
+
+#: admin/class-strong-testimonials-review.php:15
+msgid "Remind me later"
+msgstr "Herinner mij later"
+
+#: admin/class-strong-testimonials-review.php:14
+msgid "Rate the plugin"
+msgstr "Waardeer de plugin"
+
+#: admin/class-strong-testimonials-review.php:13
+msgid "Hi there! Stoked to see you're using Strong Testimonials for a few days now - hope you like it! And if you do, please consider rating it. It would mean the world to us.  Keep on rocking!"
+msgstr "Hallo daar! Leuk om te zien dat je Strong Testimonials al een paar dagen gebruikt - hopelijk bevalt het je! En als dat zo is, overweeg dan om het te waarderen. Het zou de wereld voor ons betekenen.  Blijf rocken!"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:146
+msgid "Delete tables made by Strong Testimonials and it's add-ons."
+msgstr "Verwijder tabellen gemaakt door Strong Testimonials en zijn add-ons."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:145
+msgid "Delete tables"
+msgstr "Tabellen verwijderen"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:142
+msgid "Delete Delete categories made by Strong Testimonials and it's add-ons."
+msgstr "Verwijderen verwijder categorieën gemaakt door Strong Testimonials en zijn add-ons."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:141
+msgid "Delete categories"
+msgstr "Categorieën verwijderen"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:138
+msgid "Delete post types made by Strong Testimonials and it's add-ons."
+msgstr "Verwijder bericht types gemaakt door Strong Testimonials en zijn add-ons."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:137
+msgid "Delete testimonials post type"
+msgstr "Verwijderen aanbevelingen berichttype"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:134
+msgid "Delete transients set by Strong Testimonials plugin and it's add-ons  to options table in the database."
+msgstr "Verwijder tijdelijke gegevens die zijn ingesteld door de Strong Testimonials plugin en de add-ons  ervan naar de opties tabel in de database."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:133
+msgid "Delete Strong Testimonials set transients"
+msgstr "Verwijder Strong Testimonials ingestelde overgangen"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:130
+msgid "Delete options set by Strong Testimonials plugin and it's add-ons  to options table in the database."
+msgstr "Verwijdert opties ingesteld door Strong Testimonials plugin en zijn add-ons  naar opties tabel in de database."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:129
+msgid "Delete Strong Testimonials options"
+msgstr "Strong Testimonials opties verwijderen"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:126
+msgid "Select this to delete all data Strong Testimonials plugin and it's add-ons have set in your database."
+msgstr "Selecteer dit om alle gegevens te verwijderen die Strong Testimonials plugin en zijn add-ons hebben ingesteld in je database."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:125
+msgid "Delete all data"
+msgstr "Verwijder alle gegevens"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:122
+msgid " Caution!! This action CANNOT be undone"
+msgstr " Let op!!! Deze actie KAN NIET ongedaan gemaakt worden"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:121
+msgid "Sorry to see you go"
+msgstr "Jammer dat je gaat"
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:103
+msgid "Cleaning..."
+msgstr "Opschonen..."
+
+#: admin/uninstall/class-strong-testimonials-uninstall.php:54
+#: admin/uninstall/class-strong-testimonials-uninstall.php:107
+msgid "Uninstall"
+msgstr "De-installeren"
+
+#: admin/class-strong-testimonials-helper.php:1900
+msgctxt "slideshow setting"
+msgid "Continuous Sliding"
+msgstr "Continu sliding"
+
+#: admin/class-strong-testimonials-helper.php:1192
+msgid "Full testimonial"
+msgstr "De volledige aanbeveling"
+
+#: admin/class-strong-testimonials-helper.php:1186
+msgid "\"Full testimonial\" option doesn's work if \"Disable permalinks for testimonials\" from \"Settings\" page is enabled."
+msgstr "\"Volledige aanbeveling\" optie werkt niet als \"Schakel permalinks voor aanbevelingen uit\" van \"Instellingen\" pagina is ingeschakeld."
+
+#: admin/settings/partials/general.php:74
+msgid "Prevent indexing of testimonials. This will overwrite the \"Link to testimonial\" settings from the \"Views\" section"
+msgstr "Voorkom indexering van aanbevelingen. Dit zal de \"Link naar aanbeveling\" instellingen van de \"Views\" sectie overschrijven"
+
+#: admin/settings/partials/general.php:70
+msgid "Disable permalinks for testimonials."
+msgstr "Schakel permalinks voor aanbevelingen uit."
+
+#: admin/settings/partials/general.php:63
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: admin/settings/partials/form.php:138
+msgid "This setting is overwritten by \"Submit form without reloading the page (Ajax)\" setting found in Form view in the \"Views\" section."
+msgstr "Deze instelling wordt overschreven door de instelling \"Formulier verzenden zonder de pagina te herladen (Ajax)\", te vinden in formulier weergave in de sectie \"Weergaven\"."
+
+#: admin/views.php:338
+msgid "platform"
+msgstr "platform"
+
+#: admin/class-strong-testimonials-upsell.php:597
+msgid "Get access to professionally designed testimonial templates with the %s extension."
+msgstr "Krijg toegang tot professioneel ontworpen aanbeveling templates met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:461
+msgid "edit, in real time, the way your testimonials will look on your site. Stop losing clients because of poor design."
+msgstr "bewerk, in real time, hoe je aanbevelingen eruit zullen zien op je site. Verlies geen klanten meer door een slecht ontwerp."
+
+#: admin/class-strong-testimonials-upsell.php:460
+msgid "easily define the display order of your testimonial fields. Re-order the name, image, url and testimonial content fields through drag & drop."
+msgstr "bepaal eenvoudig de weergave volgorde van je aanbeveling velden. Rangschik de naam, afbeelding, URL en aanbeveling inhoud velden via drag & drop."
+
+#: admin/class-strong-testimonials-upsell.php:459
+msgid "filter & display testimonials based on their rating or on a pre-defined condition."
+msgstr "filter & toont aanbevelingen op basis van hun waardering of op basis van een vooraf gedefinieerde voorwaarde."
+
+#: admin/class-strong-testimonials-upsell.php:418
+msgid "With this extensions, search engines will display star ratings in search results for your site."
+msgstr "Met deze extensies zullen zoekmachines sterren waarderingen weergeven in de zoekresultaten voor je site."
+
+#: admin/class-strong-testimonials-upsell.php:409
+#: admin/class-strong-testimonials-upsell.php:429
+msgid "Add SEO-friendly & Schema.org compliant Testimonials with our %s extension."
+msgstr "Voeg SEO vriendelijke & Schema.org conforme aanbevelingen toe met onze %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:182
+msgid "Upgrade Now"
+msgstr "Upgrade nu"
+
+#: admin/class-strong-testimonials-upsell.php:172
+msgid "Upgrade today and get the ability to import testimonials from:"
+msgstr "Upgrade vandaag nog en krijg de mogelijkheid om aanbevelingen te importeren van:"
+
+#: admin/class-strong-testimonials-upsell.php:171
+msgid "Automatically pull in & display new reviews as your customers leave their feedback on external platforms"
+msgstr "Haal automatisch nieuwe beoordelingen binnen als je klanten hun feedback achterlaten op externe platformen"
+
+#: admin/class-strong-testimonials-upsell.php:146
+msgid "Import"
+msgstr "Import"
+
+#: admin/class-strong-testimonials-admin-list.php:131
+msgid "Platform"
+msgstr "Platform"
+
+#: admin/class-strong-testimonials-admin-list.php:192
+#: includes/functions-template.php:711
+msgid "posted on "
+msgstr "geplaatst op "
+
+#: admin/class-strong-testimonials-upsell.php:449
+#: admin/class-strong-testimonials-upsell.php:661
+msgid "With the %s extension you can:"
+msgstr "Met de %s extensie kun je:"
+
+#: admin/class-strong-testimonials-upsell.php:552
+msgid "This method makes it difficult for spambots to complete form submissions."
+msgstr "Deze methode maakt het moeilijk voor spambots om formulierinzendingen in te vullen."
+
+#: admin/class-strong-testimonials-upsell.php:550
+msgid "In some cases, they’re prompted to complete another task, like identify a string of letters."
+msgstr "In sommige gevallen worden ze gevraagd een andere taak uit te voeren, zoals het identificeren van een string met letters."
+
+#: admin/class-strong-testimonials-upsell.php:548
+msgid "Google reCAPTCHA prompts visitors to check a box to prove that they’re not a robot before they submit the form."
+msgstr "Google reCAPTCHA vraagt bezoekers om een box aan te vinken om te bewijzen dat ze geen robot zijn voordat ze het formulier verzenden."
+
+#: admin/class-strong-testimonials-upsell.php:532
+msgid "Honeypot"
+msgstr "Honeypot"
+
+#: admin/class-strong-testimonials-upsell.php:566
+msgid "Protect your form against spam. Add Google ReCaptcha or honeypot anti-spam with the %s extension."
+msgstr "Bescherm je formulier tegen spam. Voeg Google ReCaptcha of honeypot antispam toe met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:495
+msgid "Protect your form against spam with the %s extension."
+msgstr "Bescherm je formulier tegen spam met de %s extensie."
+
+#: admin/class-strong-testimonials-upsell.php:250
+#: admin/class-strong-testimonials-upsell.php:290
+#: admin/class-strong-testimonials-upsell.php:330
+#: admin/class-strong-testimonials-upsell.php:368
+#: admin/class-strong-testimonials-upsell.php:421
+#: admin/class-strong-testimonials-upsell.php:466
+#: admin/class-strong-testimonials-upsell.php:504
+#: admin/class-strong-testimonials-upsell.php:558
+#: admin/class-strong-testimonials-upsell.php:589
+#: admin/class-strong-testimonials-upsell.php:632
+#: admin/class-strong-testimonials-upsell.php:674
+#: admin/class-strong-testimonials-upsell.php:717
+#: admin/class-strong-testimonials-upsell.php:768
+#: admin/class-strong-testimonials-upsell.php:813
+#: admin/class-strong-testimonials-upsell.php:865
+#: admin/class-strong-testimonials-upsell.php:900
+#: admin/class-strong-testimonials-upsell.php:901
+#: admin/class-strong-testimonials-wpchill-upsells.php:425
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: admin/class-strong-testimonials-upsell.php:453
+msgid "Strong Testimonials: Advanced Views"
+msgstr "Strong Testimonials: geavanceerde weergaven"
+
+#: admin/class-strong-testimonials-upsell.php:413
+msgid "Strong Testimonials: Review Markup"
+msgstr "Strong Testimonials: beoordeling mark-up"
+
+#: admin/class-strong-testimonials-upsell.php:362
+msgid "Strong Testimonials: Multiple Forms"
+msgstr "Strong Testimonials: meerdere formulieren"
+
+#: admin/class-strong-testimonials-upsell.php:358
+#: admin/class-strong-testimonials-upsell.php:376
+msgid "Create multiple submission forms by installing the %s extension."
+msgstr "Maak meerdere aanmeldingsformulieren door de %s extensie te installeren."
+
+#: admin/class-strong-testimonials-upsell.php:324
+msgid "Strong Testimonials: Custom Fields"
+msgstr "Strong Testimonials: aangepaste velden"
+
+#: admin/class-strong-testimonials-upsell.php:284
+msgid "Strong Testimonials: Country Selector"
+msgstr "Strong Testimonials: landselectie"
+
+#: admin/class-strong-testimonials-upsell.php:280
+#: admin/class-strong-testimonials-upsell.php:320
+msgid "Install the %s extension"
+msgstr "Installeer de %s extensie"
+
+#: admin/class-strong-testimonials-helper.php:1465
+msgid "Learn more"
+msgstr "Meer informatie"
+
+#: admin/class-strong-testimonials-helper.php:1465
+msgid "%s about WordPress excerpts"
+msgstr "%s over WordPress samenvattingen"
+
+#: admin/class-strong-testimonials-upsell.php:316
+msgid "Know your customers by having access to more advanced custom fields."
+msgstr "Ken je klanten door toegang te krijgen tot meer geavanceerde aangepaste velden."
+
+#: admin/class-strong-testimonials-upsell.php:276
+msgid "Want to know where are your customers located?"
+msgstr "Wil je weten waar je klanten zich bevinden?"
+
+#: admin/class-strong-testimonials-addons.php:116
+msgid "Reload Extensions"
+msgstr "Herlaad extensies"
+
+#: admin/class-strong-testimonials-addons.php:95
+#: admin/class-strong-testimonials-addons.php:96
+#: admin/class-strong-testimonials-addons.php:114
+#: admin/class-strong-testimonials-addons.php:147 strong-testimonials.php:696
+msgid "Extensions"
+msgstr "Extensies"
+
+#: admin/class-strong-testimonials-lite-vs-pro-page.php:29
+msgid "Upgrade to PRO!"
+msgstr "Upgrade naar PRO!"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:69
+msgid "Each view has a unique shortcode like "
+msgstr "Elke weergave heeft een unieke shortcode zoals "
+
+#: admin/settings/partials/general.php:88
+msgid "Change the permalink slug for a single entry testimonial. After changing this field, reset permalinks by going to Settings > Permalinks and clicking Save Changes."
+msgstr "Wijzig de permalink slug voor een enkele aanbeveling. Nadat je dit veld hebt gewijzigd, stel je permalinks opnieuw in door naar Instellingen > Permalinks te gaan en op Wijzigingen opslaan te klikken."
+
+#: admin/settings/partials/general.php:81
+msgid "Single Testimonial Slug"
+msgstr "Enkele aanbeveling slug"
+
+#. Plugin URI of the plugin
+#: strong-testimonials.php
+msgid "https://strongtestimonials.com"
+msgstr "https://strongtestimonials.com"
+
+#: admin/class-strong-testimonials-defaults.php:742
+msgid "Show less"
+msgstr "Toon minder"
+
+#: admin/class-strong-testimonials-helper.php:1438
+msgid "Leave blank to leave content expanded without a link."
+msgstr "Laat leeg om de inhoud uitgevouwen te laten zonder link."
+
+#: admin/class-strong-testimonials-helper.php:1428
+msgid "and link text to read less"
+msgstr "en link tekst aan lees minder"
+
+#: admin/class-strong-testimonials-helper.php:1412
+msgid "If you only see [&hellip;] without a link then use the custom link text instead."
+msgstr "Als je alleen [&hellip;] zonder link ziet, gebruik dan de aangepaste linktekst."
+
+#: admin/class-strong-testimonials-helper.php:1407
+msgctxt "display setting"
+msgid "with custom link text"
+msgstr "met aangepaste linktekst"
+
+#: admin/class-strong-testimonials-helper.php:1400
+msgid "with link text to read more"
+msgstr "met linktekst naar meer lezen"
+
+#: admin/class-strong-testimonials-helper.php:1387
+msgid "without an ellipsis"
+msgstr "zonder een ellips"
+
+#: admin/class-strong-testimonials-helper.php:1386
+msgid "with an ellipsis"
+msgstr "met een ellips"
+
+#: admin/class-strong-testimonials-helper.php:1374
+msgid "expand content in place"
+msgstr "inhoud op dezelfde plaats uitvouwen"
+
+#: admin/class-strong-testimonials-helper.php:1373
+msgid "the full testimonial"
+msgstr "de volledige aanbeveling"
+
+#: admin/class-strong-testimonials-helper.php:1368
+msgid "Add a <strong>Read more</strong> link to"
+msgstr "Voeg een <strong>Lees meer</strong> link toe aan"
+
+#. Translators: %s is the View ID.
+#: includes/l10n-polylang.php:123 includes/l10n-wpml.php:203
+msgid "View %s : Read less (testimonial)"
+msgstr "Bekijk %s: Lees minder (aanbeveling)"
+
+#: admin/class-strong-testimonials-helper.php:1826
+msgid "defaults restored"
+msgstr "standaardwaarden teruggezet"
+
+#: admin/class-strong-testimonials-helper.php:1824
+msgid "Restore Default Breakpoints"
+msgstr "Herstel standaard breakpoints"
+
+#: admin/class-strong-testimonials-helper.php:1790
+#: admin/class-strong-testimonials-helper.php:1816
+msgid "slides"
+msgstr "slides"
+
+#: admin/class-strong-testimonials-helper.php:1788
+#: admin/class-strong-testimonials-helper.php:1814
+msgid "slide"
+msgstr "slide"
+
+#: admin/class-strong-testimonials-helper.php:1760
+msgid "move"
+msgstr "verplaats"
+
+#: admin/class-strong-testimonials-helper.php:1759
+msgid "margin"
+msgstr "marge"
+
+#: admin/class-strong-testimonials-helper.php:1758
+msgid "show"
+msgstr "toon"
+
+#: admin/class-strong-testimonials-helper.php:1757
+msgid "minimum screen width"
+msgstr "minimum schermbreedte"
+
+#: admin/class-strong-testimonials-helper.php:1747
+msgid "slides at a time with these responsive breakpoints:"
+msgstr "sliders tegelijkertijd met deze responsive breakpoints:"
+
+#: admin/class-strong-testimonials-helper.php:1740
+msgid "multiple"
+msgstr "meerdere"
+
+#: admin/class-strong-testimonials-helper.php:1739
+msgid "single"
+msgstr "enkel"
+
+#: admin/class-strong-testimonials-helper.php:1744
+msgid "slide at a time"
+msgstr "slide per keer"
+
+#: admin/class-strong-testimonials-helper.php:311 admin/views.php:803
+msgid "Show"
+msgstr "Toon"
+
+#: includes/class-strong-testimonials-shortcode-average.php:180
+msgid "(based on %s rating)"
+msgid_plural "(based on %s ratings)"
+msgstr[0] "(gebaseerd op %s beoordeling)"
+msgstr[1] "(gebaseerd op %s beoordelingen)"
+
+#: admin/class-strong-testimonials-helper.php:133
+msgid "or Shortcode Attribute"
+msgstr "of Shortcode attribuut"
+
+#: admin/class-strong-testimonials-helper.php:121
+msgid "Option"
+msgstr "Optie"
+
+#: includes/class-strong-testimonials-privacy.php:62
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: includes/class-strong-testimonials-privacy.php:31
+msgid "Strong Testimonials Plugin"
+msgstr "Strong Testimonials Plugin"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:80
+#: admin/class-strong-testimonials-page-shortcodes.php:113
+msgid "Default"
+msgstr "Standaard"
+
+#. translators: %s is a number
+#: includes/class-strong-testimonials-shortcode-average.php:179
+#: includes/class-strong-testimonials-shortcode-average.php:186
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] "%s ster"
+msgstr[1] "%s sterren"
+
+#. translators: %s is a number
+#: includes/class-strong-testimonials-shortcode-average.php:156
+msgid "Average of %s Rating:"
+msgid_plural "Average of %s Ratings:"
+msgstr[0] "Gemiddelde van %s waardering:"
+msgstr[1] "Gemiddelde van %s waarderingen:"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:385
+msgid "4 stars (based on 9 ratings)"
+msgstr "4 sterren (gebaseerd op 9 waarderingen)"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:124
+#: admin/class-strong-testimonials-page-shortcodes.php:150
+#: admin/class-strong-testimonials-page-shortcodes.php:313
+#: admin/class-strong-testimonials-page-shortcodes.php:336
+#: admin/class-strong-testimonials-page-shortcodes.php:359
+#: admin/class-strong-testimonials-page-shortcodes.php:383
+#: admin/class-strong-testimonials-page-shortcodes.php:406
+#: admin/class-strong-testimonials-page-shortcodes.php:430
+#: includes/class-strong-testimonials-shortcode-average.php:152
+msgid "Average Rating:"
+msgstr "Gemiddelde waardering:"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:830
+msgid "Try this if your page load time is more than a few seconds."
+msgstr "Probeer dit wanneer je pagina langer dan een paar seconden neemt om te laden."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:805
+msgid "This works well if your page load time is less than a few seconds."
+msgstr "Dit werkt goed wanneer je pagina sneller laadt dan een paar seconden."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:800
+msgid "document ready"
+msgstr "document gereed"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:773
+msgid "When to start sliders, Masonry, pagination and form validation."
+msgstr "Wanneer sliders, masonry, paginering, en formuliervalidatie moet beginnen."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:246
+msgid "Compatibility Settings"
+msgstr "Compatibiliteitsinstellingen"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:231
+msgid "A testimonial view with the Masonry layout has only one column or works inconsistently in different browsers or devices."
+msgstr "Een aanbevelingsweergave met de masonry layout heeft maar één kolom of werkt niet op dezelfde manier in verschillende browsers of apparaten."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:230
+msgid "Masonry layout not working"
+msgstr "Masonry lay-out werkt niet"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:224
+#: admin/settings/class-strong-testimonials-settings-compat.php:237
+#: admin/settings/class-strong-testimonials-settings-compat.php:826
+msgid "window load"
+msgstr "laden window"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:224
+#: admin/settings/class-strong-testimonials-settings-compat.php:237
+#: admin/settings/class-strong-testimonials-settings-compat.php:769
+msgid "Load Event"
+msgstr "Event laden"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:221
+#: admin/settings/class-strong-testimonials-settings-compat.php:234
+msgid "The page is very busy loading image galleries, other sliders or third-party resources like social media posts."
+msgstr "De pagina is erg druk met het laden van afbeeldingen van galerijen, andere sliders of gegevensbronnen van derden, zoals berichten over sociale media."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:218
+msgid "A testimonial slider does not start or is missing navigation controls."
+msgstr "Een aanbeveling slider start niet of mist navigatie knoppen."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:217
+msgid "Slider never starts"
+msgstr "Slider start nooit"
+
+#. translators: link text on Settings > Compatibility tab
+#: admin/settings/class-strong-testimonials-settings-compat.php:209
+msgid "Set this now"
+msgstr "Stel dit nu in"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:199
+msgid "For example, it has no style, no pagination, or the slider has not started."
+msgstr "Het heeft bijvoorbeeld geen stijl, geen paginering, of de slider is niet gestart."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:198
+msgid "A testimonial view does not appear correctly the <strong>first time</strong> you view the page but it does when you <strong>refresh</strong> the page."
+msgstr "Een aanbeveling weergave verschijnt niet correct de <strong>eerste keer dat</strong> je de pagina bekijkt, maar wel wanneer je de pagina <strong>ververst</strong>."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:191
+msgid "Try"
+msgstr "Probeer"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:185
+msgid "Symptom"
+msgstr "Symptoom"
+
+#: admin/class-strong-views-list-table.php:19
+msgid "No views found."
+msgstr "Geen views gevonden."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:420
+msgid "The default container element is <code>div</code>. Select another element using <code>element</code>."
+msgstr "Het standaard container element is <code>div</code>. Selecteer een ander element met <code>element</code>."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:189
+msgid "Insert tags into your custom content."
+msgstr "Tags invoegen in je aangepaste inhoud."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:164
+msgid "Alternate content tags."
+msgstr "Alternatieve inhoud tags."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:138
+msgid "Customize using content tags."
+msgstr "Aanpassen met behulp van inhoud tags."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:114
+msgid "You must use the closing slash <code>/</code> if using the shortcode with content elsewhere on your page."
+msgstr "Je moet de afsluitende slash <code>/</code> gebruiken als je de shortcode gebruikt met inhoud ergens anders op je pagina."
+
+#. translators: %s is a shortcode
+#: admin/class-strong-testimonials-page-shortcodes.php:107
+msgid "If using a <strong>single</strong> rating field, use %s to display the average rating."
+msgstr "Indien een <strong>enkel</strong> waardering veld wordt gebruikt, gebruik dan %s om de gemiddelde waardering weer te geven."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:103
+msgid "Average Rating"
+msgstr "Gemiddelde waardering"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:75
+msgid "Use %s to display the number of testimonials."
+msgstr "Gebruik %s om het aantal aanbevelingen weer te geven."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:73
+msgid "Testimonial Count"
+msgstr "Aantal aanbevelingen"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:70
+msgid "Go to views"
+msgstr "Ga naar views"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:66
+msgid "Testimonial Views"
+msgstr "Aanbeveling views"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:64
+#: admin/menu/class-strong-testimonials-menu-shortcodes.php:45
+#: admin/menu/class-strong-testimonials-menu-shortcodes.php:46
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#. Description of the plugin
+#: strong-testimonials.php
+msgid "Collect and display your testimonials or reviews."
+msgstr "Verzamel en toon je aanbevelingen of beoordelingen."
+
+#: includes/class-strong-testimonials-shortcode.php:77
+msgid "Testimonial view %s not found."
+msgstr "Aanbevelingsview %s niet gevonden."
+
+#: admin/class-strong-testimonials-admin-scripts.php:265
+msgid "click to insert into message at caret"
+msgstr "klik om in te voegen in bericht bij caret"
+
+#: includes/class-strong-testimonials-shortcode.php:78
+#: includes/class-strong-view.php:95
+msgid "(Only administrators see this message.)"
+msgstr "(Alleen beheerders zien dit bericht.)"
+
+#: includes/class-strong-view.php:94
+msgid "No testimonials found. Check your view settings."
+msgstr "Geen aanbevelingen gevonden. Controleer je weergave instellingen."
+
+#: admin/settings/partials/email-to.php:36
+msgid "Add recipient"
+msgstr "Ontvanger toevoegen"
+
+#: admin/class-strong-testimonials-helper.php:374
+msgid "Assign to a category"
+msgstr "Toewijzen aan een categorie"
+
+#: admin/partials/fields/field-type.php:43
+msgid "Select a field type or delete this field."
+msgstr "Selecteer een veldtype of verwijder dit veld."
+
+#: includes/class-strong-templates.php:44
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/settings/partials/general.php:110
+msgid "If you are having trouble scrolling long testimonials on a small screen, try disabling this."
+msgstr "Als je moeite hebt met het scrollen van lange aanbevelingen op een klein scherm, probeer dit dan uit te schakelen."
+
+#: admin/settings/partials/general.php:107
+msgid "Enable touch swipe navigation in slideshows."
+msgstr "Schakel touch swipe navigatie in slide voorstellingen in."
+
+#: admin/settings/partials/general.php:101
+msgid "Enable Touch"
+msgstr "Touch inschakelen"
+
+#: admin/settings/partials/email-from.php:63
+#: admin/settings/partials/recipient.php:32
+msgid "admin:"
+msgstr "beheerder:"
+
+#: admin/class-strong-testimonials-helper.php:1263
+msgid "To add a class to the image link."
+msgstr "Om een klasse toe te voegen aan de afbeelding link."
+
+#: admin/class-strong-testimonials-helper.php:1259
+msgid "CSS class"
+msgstr "CSS klasse"
+
+#: admin/class-strong-testimonials-helper.php:1017
+msgid "a comma-separated list of post ID's"
+msgstr "een komma-gescheiden lijst van bericht IDs"
+
+#: admin/class-strong-testimonials-helper.php:147
+msgctxt "verb"
+msgid "Select"
+msgstr "Selecteer"
+
+#: admin/class-strong-testimonials-helper.php:2279
+msgid "A single column."
+msgstr "Een enkele kolom."
+
+#: admin/class-strong-testimonials-helper.php:462
+msgid "Font Color"
+msgstr "Lettertypekleur"
+
+#: admin/class-strong-testimonials-helper.php:2546
+msgid "Separate class names by spaces."
+msgstr "Scheid namen van klassen door spaties."
+
+#: admin/class-strong-testimonials-helper.php:473
+msgid "CSS Classes"
+msgstr "CSS klassen"
+
+#: admin/class-strong-testimonials-helper.php:1078
+msgid "a comma-separated list of category slugs or ID's"
+msgstr "een door komma's gescheiden lijst van categorie slugs of ID's"
+
+#: admin/class-strong-testimonials-helper.php:2165
+#: admin/class-strong-testimonials-helper.php:2405
+#: admin/class-strong-testimonials-helper.php:2512
+msgid "No options"
+msgstr "Geen opties"
+
+#: admin/class-strong-testimonials-helper.php:2382
+#: admin/class-strong-testimonials-helper.php:2500
+msgid "inherit from theme"
+msgstr "overerf van thema"
+
+#: admin/class-strong-testimonials-helper.php:117
+msgid "Query"
+msgstr "Zoeken"
+
+#: admin/class-strong-testimonials-help.php:138
+msgid "Shortcode Attributes"
+msgstr "Shortcode attributen"
+
+#: admin/class-strong-testimonials-help.php:131
+msgid "Using <code>post_ids</code> is the most specific method and it will override category and count (whether settings or attributes)."
+msgstr "Het gebruik van <code>post_ids</code> is de specifiekste methode en zal categorie en aantal (zowel instellingen als attributen) overschrijven."
+
+#: admin/class-strong-testimonials-help.php:128
+msgid "Attributes may be used in combination. For example:"
+msgstr "Attributen mogen in combinatie worden gebruikt. Bijvoorbeeld:"
+
+#: admin/class-strong-testimonials-help.php:122
+msgid "Or you can configure one view as a pattern and add it to each service page with the <code>category</code> attribute."
+msgstr "Of je kunt één weergave als patroon configureren en deze toevoegen aan elke dienst pagina met het <code>categorie</code> attribuut."
+
+#: admin/class-strong-testimonials-help.php:121
+msgid "For example, imagine you have five services, a sales page for each service, and a testimonial category for each service. To display the testimonials on each service page, you can create five duplicate views, one for each category."
+msgstr "Bijvoorbeeld, stel je hebt vijf diensten, een verkoop pagina voor elke dienst en een aanbeveling categorie voor elke dienst. Om de aanbevelingen op elke dienst pagina weer te geven, kun je vijf duplicaat weergaven maken, één voor elke categorie."
+
+#: admin/class-strong-testimonials-help.php:120
+msgid "Overridable settings: <code>post_ids</code>, <code>category</code>, <code>order</code>, <code>count</code>."
+msgstr "Overdraagbare instellingen: <code>post_ids</code>, <code>categorie</code>, <code>volgorde</code>, <code>aantal</code>."
+
+#: admin/class-strong-testimonials-help.php:119
+msgid "Optional shortcode attributes will override the view settings. Use this to create reusable view <strong>patterns</strong>."
+msgstr "Optionele shortcode attributen overschrijven de weergave instellingen. Gebruik dit om herbruikbare <strong>weergave patronen</strong> te maken."
+
+#: admin/class-strong-testimonials-admin-helper.php:98
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/class-strong-form.php:591
+msgid "star"
+msgid_plural "stars"
+msgstr[0] "ster"
+msgstr[1] "sterren"
+
+#: admin/class-strong-testimonials-upsell.php:537
+msgid "These methods for trapping spambots are both time-tested and widely used. May be used simultaneously for more protection."
+msgstr "Deze methoden om spambots te vangen zijn beproefd en worden veel gebruikt. Kunnen tegelijkertijd worden gebruikt voor meer bescherming."
+
+#: admin/settings/partials/form.php:216
+msgid "Notification Email"
+msgstr "Melding e-mail"
+
+#: admin/settings/partials/email.php:46
+msgid "Tags for Subject and Message"
+msgstr "Tags voor onderwerp en bericht"
+
+#: admin/settings/partials/email-to.php:5
+msgid "To"
+msgstr "Naar"
+
+#: admin/settings/partials/email-from.php:16
+msgid "From"
+msgstr "Van"
+
+#: admin/class-strong-testimonials-helper.php:1183
+msgctxt "The name of this post type. \"Testimonial\" by default."
+msgid "Link to %s"
+msgstr "Link naar %s"
+
+#: admin/class-strong-testimonials-helper.php:1251
+msgid "Requires a lightbox provided by your theme or another plugin."
+msgstr "Vereist een lightbox geleverd door je thema of een andere plugin."
+
+#: includes/functions-activation.php:30
+msgid "An error occurred:"
+msgstr "Er is een fout opgetreden:"
+
+#: admin/admin-notices.php:107
+msgid "Captcha options have changed in <strong>Strong Testimonials</strong>."
+msgstr "Captcha opties zijn veranderd in <strong>Strong Testimonials</strong>."
+
+#: admin/admin-notices.php:101
+msgid "settings"
+msgstr "instellingen"
+
+#: admin/admin-notices.php:101
+msgid "Please check your <a href=\"%s\">%s</a>."
+msgstr "Controleer je <a href=\"%s\">%s</a>."
+
+#: includes/functions-activation.php:34 includes/functions-views.php:42
+msgid "<a href=\"%s\">Go back to Dashboard</a>"
+msgstr "<a href=\"%s\">Ga terug naar het dashboard</a>"
+
+#: includes/functions-activation.php:31 includes/functions-views.php:41
+msgid "The plugin has been deactivated."
+msgstr "De plugin is gedeactiveerd."
+
+#: admin/class-strong-testimonials-defaults.php:760
+#: includes/functions-template.php:640
+msgid "Next &raquo;"
+msgstr "Volgende &raquo;"
+
+#: admin/class-strong-testimonials-defaults.php:759
+#: includes/functions-template.php:639
+msgid "&laquo; Previous"
+msgstr "&laquo; Vorige"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:742
+msgid "Script name"
+msgstr "Scriptnaam"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:734
+msgid "Register a callback for a specific Ajax script."
+msgstr "Registreer een callback voor een specifiek Ajax script."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:730
+msgid "Specific script"
+msgstr "Specifiek script"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:699
+msgid "Event name"
+msgstr "Evenement naam"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:691
+msgid "Listen for specific events."
+msgstr "Luister naar specifieke gebeurtenissen."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:687
+msgid "Custom event"
+msgstr "Aangepast evenement"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:666
+msgid "the element being added"
+msgstr "het element dat wordt toegevoegd"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:656
+msgid "Added node ID"
+msgstr "Node ID toegevoegd"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:644
+msgid "the element to observe"
+msgstr "het te observeren element"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:634
+msgid "Container ID"
+msgstr "Container ID"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:612
+msgctxt "timer setting"
+msgid "Check once after"
+msgstr "Controleer eenmaal na"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:599
+msgid "React to changes in specific page elements."
+msgstr "Reageren op veranderingen in specifieke pagina elementen."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:595
+msgid "Observer"
+msgstr "Waarnemer"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:573
+#: admin/settings/class-strong-testimonials-settings-compat.php:622
+msgctxt "timer setting"
+msgid "seconds"
+msgstr "seconden"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:563
+msgctxt "timer setting"
+msgid "Check every"
+msgstr "Controleer elke"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:556
+msgid "Watch for page changes on a timer."
+msgstr "Kijk naar pagina veranderingen op een timer."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:552
+msgid "Universal"
+msgstr "Universeel"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:495
+msgid "Initialize sliders, pagination and form validation as pages change."
+msgstr "Sliders, paginering en formuliervalidatie initialiseren als pagina's veranderen."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:491
+msgid "Monitor"
+msgstr "Monitor"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:477
+msgid "When the shortcode is rendered. May result in a flash of unstyled content."
+msgstr "Wanneer de shortcode wordt weergegeven. Kan leiden tot een flits van niet gestileerde inhoud."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:452
+msgid "Then select an option for <strong>Monitor</strong> below."
+msgstr "Selecteer dan hieronder een optie voor <strong>Monitor</strong>."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:451
+msgid "For all views. Required for Ajax page loading."
+msgstr "Voor alle weergaven. Vereist voor het laden van Ajax pagina's."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:447
+msgid "All views"
+msgstr "Alle weergaven"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:425
+msgid "For the current page only."
+msgstr "Alleen voor de huidige pagina."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:390
+msgid "Load stylesheets and populate script variables up front."
+msgstr "Laad stylesheets en vul script variabelen vooraf in."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:372
+msgid "For specific configurations."
+msgstr "Voor specifieke configuraties."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:368
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:346
+msgid "This works well with common Ajax methods."
+msgstr "Dit werkt goed met gebruikelijke Ajax methoden."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:345
+msgid "Be ready to render any view at any time."
+msgstr "Wees klaar om elk view op elk moment weer te geven."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:320
+#: admin/settings/class-strong-testimonials-settings-compat.php:426
+msgid "This works well for most themes."
+msgstr "Dit werkt goed voor de meeste thema's."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:319
+#: admin/settings/class-strong-testimonials-settings-compat.php:530
+msgid "No compatibility needed."
+msgstr "Geen compatibiliteit nodig."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:315
+#: admin/settings/class-strong-testimonials-settings-compat.php:421
+#: admin/settings/class-strong-testimonials-settings-compat.php:526
+#: admin/settings/class-strong-testimonials-settings-compat.php:801
+msgid "(default)"
+msgstr "(standaard)"
+
+#: admin/class-strong-testimonials-helper.php:1190
+#: admin/settings/class-strong-testimonials-settings-compat.php:314
+#: admin/settings/class-strong-testimonials-settings-compat.php:473
+#: admin/settings/class-strong-testimonials-settings-compat.php:525
+#: includes/functions.php:894 assets/js/blocks-js.js:145
+#: assets/src/js/components/edit.js:29
+msgid "None"
+msgstr "Geen"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:285
+msgid "It provides compatibility with themes and plugins that use Ajax to load pages, also known as page animation or transition effects."
+msgstr "Het biedt compatibiliteit met thema's en plugins die Ajax gebruiken om pagina's te laden, ook bekend als pagina animatie of overgang effecten."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:284
+msgid "This does not perform Ajax page loading."
+msgstr "Dit voert geen Ajax pagina laden uit."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:206
+#: admin/settings/class-strong-testimonials-settings-compat.php:341
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:206
+#: admin/settings/class-strong-testimonials-settings-compat.php:279
+msgid "Ajax Page Loading"
+msgstr "Ajax pagina laden"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:203
+msgid "Instead of loading the entire page, this technique fetches only the new content."
+msgstr "In plaats van de hele pagina te laden, haalt deze techniek alleen de nieuwe inhoud op."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:202
+msgid "Your site uses <strong>Ajax page loading</strong> &ndash; also known as page animations, transition effects or Pjax (pushState Ajax) &ndash; provided by your theme or another plugin."
+msgstr "Je site maakt gebruik van <strong>Ajax pagina laden</strong> &ndash; ook bekend als pagina animaties, overgang effecten of Pjax (pushState Ajax) &ndash; geleverd door je thema of een andere plugin."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:188
+msgid "Possible Cause"
+msgstr "Mogelijke oorzaak"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:197
+msgid "Views not working"
+msgstr "Views werken niet"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:177
+msgid "Common Scenarios"
+msgstr "Gemeenschappelijke scenario's"
+
+#: admin/class-strong-testimonials-helper.php:1629
+msgid "After page number"
+msgstr "Na paginanummer"
+
+#: admin/class-strong-testimonials-helper.php:1623
+msgid "Before page number"
+msgstr "Voor pagina nummer"
+
+#: admin/class-strong-testimonials-helper.php:1612
+msgid "Next text"
+msgstr "Volgende tekst"
+
+#: admin/class-strong-testimonials-helper.php:1606
+msgid "Previous text"
+msgstr "Vorige tekst"
+
+#: admin/class-strong-testimonials-helper.php:1603
+msgid "Show previous/next links"
+msgstr "Toon vorige/volgende links"
+
+#: admin/class-strong-testimonials-helper.php:1588
+msgctxt "quantity"
+msgid "Middle size"
+msgstr "Middelgroot"
+
+#: admin/class-strong-testimonials-helper.php:1582
+msgctxt "quantity"
+msgid "End size"
+msgstr "Eindmaat"
+
+#: admin/class-strong-testimonials-helper.php:1576
+msgid "Show condensed page numbers"
+msgstr "Verkorte pagina nummers tonen"
+
+#: admin/class-strong-testimonials-helper.php:1574
+msgid "Show all page numbers"
+msgstr "Toon alle pagina nummers"
+
+#: admin/class-strong-testimonials-helper.php:2294
+msgid "Using <a href=\"%s\" target=\"_blank\">CSS flexbox</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">CSS flexbox</a> gebruiken."
+
+#: admin/class-strong-testimonials-post-editor.php:285
+msgid "shortcode %s not found"
+msgstr "shortcode %s niet gevonden"
+
+#: admin/class-strong-testimonials-help.php:46
+#: admin/settings/class-strong-testimonials-settings-compat.php:386
+msgid "Prerender"
+msgstr "Prerender"
+
+#: admin/class-strong-testimonials-help.php:40
+msgid "The prerender option ensures this plugin's stylesheets are loaded before the content."
+msgstr "De prerender optie zorgt ervoor dat de stylesheets van deze plugin worden geladen vóór de inhoud."
+
+#: admin/class-strong-testimonials-help.php:39
+msgid "When this occurs with plugins that use shortcodes, it means the plugin's stylesheet was enqueued when the shortcode was rendered so it gets loaded after the content instead of in the normal sequence."
+msgstr "Wanneer dit gebeurt met plugins die shortcodes gebruiken, betekent dit dat de stylesheet van de plugin werd ingeschakeld toen de shortcode werd weergegeven, waardoor deze na de inhoud wordt geladen in plaats van in de normale volgorde."
+
+#: admin/class-strong-testimonials-help.php:37
+msgid "<a href=\"%s\" target=\"_blank\">An expert's observations here</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">De reacties van een deskundige hier</a>"
+
+#: admin/class-strong-testimonials-help.php:35
+msgid "<a href=\"%s\" target=\"_blank\">Demonstrated here</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Hier gedemonstreerd</a>"
+
+#: admin/class-strong-testimonials-help.php:33
+msgid "<a href=\"%s\" target=\"_blank\">Explained further here</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Hier verder uitgelegd</a>"
+
+#: admin/class-strong-testimonials-help.php:31
+msgid "When a browser displays the content before all the stylesheets have been loaded, a flash of unstyled content can occur."
+msgstr "Wanneer een browser de inhoud weergeeft voordat alle stylesheets zijn geladen, kan een flits van niet gestileerde inhoud ontstaan."
+
+#: admin/class-strong-testimonials-help.php:30
+msgid "Normally, a web page will load its stylesheets (font, color, size, etc.) before the content. When the content is displayed, the style is ready and the page appears as it was designed."
+msgstr "Normaal gesproken zal een web pagina zijn stylesheets (lettertype, kleur, grootte, enz.) laden voordat de inhoud wordt geladen. Wanneer de inhoud wordt weergegeven, is de stijl klaar en verschijnt de pagina zoals deze is ontworpen."
+
+#: admin/settings/partials/email-from.php:7
+msgid "Use mail queue. For services like Mandrill. Off by default."
+msgstr "Gebruik e-mail wachtrij. Voor diensten als Mandrill. Standaard uitgeschakeld."
+
+#: admin/views.php:51 includes/functions-views.php:40
+msgid "An error occurred."
+msgstr "Er is een fout opgetreden."
+
+#: admin/settings/partials/general.php:260
+msgid "Exclude from <a href=\"%s\" target=\"_blank\">Lazy Loading Responsive Images</a> plugin."
+msgstr "Uitsluiten van <a href=\"%s\" target=\"_blank\">Lazy-loading Responsive Afbeeldingen</a> plugin."
+
+#: admin/custom-fields.php:378
+msgid "Checked by default."
+msgstr "Standaard aangevinkt."
+
+#: admin/class-strong-testimonials-help.php:103
+msgid "About Views"
+msgstr "Over weergaven"
+
+#: admin/class-strong-testimonials-help.php:96
+msgid "Add a view to a page with its unique shortcode or add it to a sidebar with the Strong Testimonials widget."
+msgstr "Voeg een weergave toe aan een pagina met zijn unieke shortcode of voeg hem toe aan een zijbalk met de Strong Testimonials widget."
+
+#: admin/class-strong-testimonials-help.php:93
+msgid "Create a view to append your custom fields to the individual testimonial using your theme single post template."
+msgstr "Maak een weergave om je aangepaste velden toe te voegen aan de individuele aanbeveling met behulp van je thema single bericht template."
+
+#: admin/class-strong-testimonials-help.php:92
+msgid "Create a view to show a testimonial submission form"
+msgstr "Maak een weergave om een formulier voor het indienen van aanbevelingen te tonen"
+
+#: admin/class-strong-testimonials-help.php:91
+msgid "Create a view to display your testimonials in a list, grid, or slideshow."
+msgstr "Maak een weergave om je aanbevelingen weer te geven in een lijst, raster of slide voorstelling."
+
+#: admin/class-strong-testimonials-help.php:88
+msgid "You can create an <strong>unlimited</strong> number of views."
+msgstr "Je kunt een <strong>onbeperkt</strong> aantal weergaven maken."
+
+#: admin/class-strong-testimonials-admin-helper.php:94
+msgid "About"
+msgstr "Over"
+
+#. translators: If your word count is based on single characters (e.g. East
+#. Asian characters), enter 'characters_excluding_spaces' or
+#. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
+#. into your own language.
+#: includes/functions-content.php:189
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "woorden"
+
+#: includes/functions-content.php:173 includes/functions-template.php:124
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: includes/functions-content.php:45
+msgid "There is no excerpt because this is a protected post."
+msgstr "Er is geen samenvatting, omdat dit een beschermd bericht is."
+
+#: admin/class-strong-testimonials-defaults.php:415
+msgctxt "Default message for required notice at top of form."
+msgid "Required"
+msgstr "Vereist"
+
+#. translators: Settings > Form > Messages tab
+#: admin/class-strong-testimonials-defaults.php:414
+msgctxt "setting description"
+msgid "Required"
+msgstr "Vereist"
+
+#: admin/settings/partials/form.php:64
+msgid "Display required notice at top of form"
+msgstr "Toon vereist bericht aan bovenkant van formulier"
+
+#: admin/class-strong-testimonials-defaults.php:164 admin/views.php:340
+msgid "checkbox"
+msgstr "selectievakje"
+
+#: admin/settings/partials/general.php:199
+msgid "Custom Field Bulk Editor"
+msgstr "Aangepaste veld bulk editor"
+
+#: admin/settings/partials/general.php:193
+msgid "Add <code>rel=\"nofollow\"</code> to URL custom fields."
+msgstr "<code>Rel=\"noopener\"</code> toevoegen aan aangepaste URL velden."
+
+#: admin/settings/partials/general.php:187
+msgid "Nofollow Links"
+msgstr "NoFollow links"
+
+#: admin/partials/fields/field-text.php:7
+msgctxt "noun"
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/custom-fields.php:337 admin/partials/fields/field-text.php:12
+msgid "next to the checkbox"
+msgstr "naast het selectievakje"
+
+#: admin/custom-fields.php:167
+msgid "Editor"
+msgstr "Editor"
+
+#: admin/class-strong-testimonials-post-editor.php:187
+#: admin/class-strong-testimonials-post-editor.php:195
+#: admin/class-strong-testimonials-post-editor.php:203
+msgid "default"
+msgstr "standaard"
+
+#: admin/class-strong-testimonials-defaults.php:525
+msgid "When viewing the testimonial using a theme's single post template."
+msgstr "Bij het bekijken van de aanbeveling met behulp van de single bericht template van een thema."
+
+#: admin/class-strong-testimonials-defaults.php:524
+msgid "Single Template"
+msgstr "Enkele template"
+
+#: admin/class-strong-testimonials-defaults.php:520
+msgid "Display a testimonial submission form."
+msgstr "Toon een formulier voor het indienen van een aanbeveling."
+
+#: admin/class-strong-testimonials-defaults.php:515
+msgid "Create a slideshow of your testimonials."
+msgstr "Maak een slide voorstelling van je aanbevelingen."
+
+#: admin/class-strong-testimonials-defaults.php:510
+msgid "Display your testimonials in a list or a grid."
+msgstr "Toon je aanbevelingen in een lijst of een raster."
+
+#: admin/class-strong-views-list-table.php:195
+msgid "theme single post template"
+msgstr "thema enkel bericht template"
+
+#: admin/class-strong-views-list-table.php:180
+msgid "stick to top of list"
+msgstr "blijf bij de bovenkant van de lijst"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:139
+msgid "Default:"
+msgstr "Standaard:"
+
+#: includes/class-strong-templates.php:38
+msgid "Parent Theme"
+msgstr "Hoofd thema"
+
+#: includes/class-strong-templates.php:32
+msgid "Child Theme"
+msgstr "Subthema"
+
+#: admin/class-strong-testimonials-helper.php:567
+msgid "Duplicate This View"
+msgstr "Dupliceer deze view"
+
+#: admin/class-strong-testimonials-helper.php:564
+msgid "Return To List"
+msgstr "Terug naar de lijst"
+
+#: admin/class-strong-testimonials-helper.php:982
+msgid "one or more testimonials"
+msgstr "één of meer aanbevelingen"
+
+#: admin/class-strong-testimonials-helper.php:1676
+msgid "Pages"
+msgstr "Pagina’s"
+
+#: admin/class-strong-testimonials-helper.php:1667
+#: includes/class-strong-templates.php:63
+msgid "Custom"
+msgstr "Aangepast"
+
+#: admin/class-strong-testimonials-helper.php:2568
+msgid "Not required if simply adding this view in the <b>Divi theme</b> using either the default editor or Divi Builder."
+msgstr "Niet vereist als je deze weergave gewoon toevoegt in de <b>Divi theme</b> met behulp van de standaard editor of Divi Builder."
+
+#: admin/class-strong-testimonials-helper.php:2567
+msgid "Not required if simply adding this view in the default editor."
+msgstr "Niet vereist als je deze weergave gewoon toevoegt in de standaard editor."
+
+#: admin/class-strong-testimonials-helper.php:2566
+msgid "Check this if adding this view (via shortcode or widget) using the Visual Builder in <b>Divi Builder version 2</b>."
+msgstr "Controleer dit als je deze weergave toevoegt (via shortcode of widget) met behulp van de Visual Builder in <b>Divi Builder versie 2</b>."
+
+#: admin/class-strong-testimonials-helper.php:496
+msgid "Divi Builder"
+msgstr "Divi Builder"
+
+#: admin/class-strong-testimonials-helper.php:1337
+msgid "If no manual excerpt, create an excerpt using"
+msgstr "Indien geen handmatig samenvatting, maak dan een samenvatting met behulp van"
+
+#: admin/class-strong-testimonials-helper.php:492
+#: admin/settings/class-strong-testimonials-settings-compat.php:46
+msgid "Compatibility"
+msgstr "Compatibiliteit"
+
+#: admin/class-strong-testimonials-helper.php:588 admin/custom-fields.php:198
+msgid "Cancel Changes"
+msgstr "Annuleer wijzigingen"
+
+#: admin/admin-notices.php:90 admin/views.php:35
+msgid "Changes cancelled."
+msgstr "Veranderingen geannuleerd."
+
+#: admin/class-strong-testimonials-helper.php:521
+msgid "Invalid request. Please try again."
+msgstr "Ongeldige aanvraag. Probeer het opnieuw."
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:263
+#: admin/settings/partials/general.php:55
+#: admin/settings/partials/general.php:71
+#: admin/settings/partials/general.php:154
+#: admin/settings/partials/general.php:244
+#: admin/settings/partials/general.php:279
+msgid "Off by default."
+msgstr "Standaard uitgeschakeld."
+
+#: admin/settings/partials/general.php:23
+#: admin/settings/partials/general.php:108
+#: admin/settings/partials/general.php:124
+#: admin/settings/partials/general.php:139
+#: admin/settings/partials/general.php:194
+#: admin/settings/partials/general.php:213
+#: admin/settings/partials/general.php:228
+#: admin/settings/partials/general.php:261
+msgid "On by default."
+msgstr "Staat standaard aan."
+
+#: admin/settings/partials/general.php:22
+msgid "Show indicator bubble when new submissions are awaiting moderation."
+msgstr "Toon indicator bubbel wanneer er nieuwe inzendingen wachten op moderatie."
+
+#: admin/custom-fields.php:371 admin/custom-fields.php:407
+msgid "stars"
+msgstr "sterren"
+
+#: includes/post-types.php:244
+msgid "%s testimonial restored from the Trash."
+msgid_plural "%s testimonials restored from the Trash."
+msgstr[0] "%s aanbeveling hersteld van de prullenbak."
+msgstr[1] "%s aanbevelingen hersteld van de prullenbak."
+
+#: includes/post-types.php:243
+msgid "%s testimonial moved to the Trash."
+msgid_plural "%s testimonials moved to the Trash."
+msgstr[0] "%s aanbeveling verplaatst naar de prullenbak."
+msgstr[1] "%s aanbevelingen verplaatst naar de prullenbak."
+
+#: includes/post-types.php:242
+msgid "%s testimonial permanently deleted."
+msgid_plural "%s testimonials permanently deleted."
+msgstr[0] "%s aanbeveling permanent verwijderd."
+msgstr[1] "%s aanbevelingen permanent verwijderd."
+
+#: includes/post-types.php:241
+msgid "%s testimonial not updated, somebody is editing it."
+msgid_plural "%s testimonials not updated, somebody is editing them."
+msgstr[0] "%s aanbeveling niet geüpdatet, iemand bewerkt het."
+msgstr[1] "%s aanbevelingen niet geüpdatet, iemand bewerkt ze."
+
+#: includes/post-types.php:241
+msgid "1 testimonial not updated, somebody is editing it."
+msgstr "1 aanbeveling niet geüpdatet, iemand is het aan het bewerken."
+
+#: includes/post-types.php:240
+msgid "%s testimonial updated."
+msgid_plural "%s testimonials updated."
+msgstr[0] "%s aanbeveling geüpdatet."
+msgstr[1] "%s aanbevelingen geüpdatet."
+
+#: includes/post-types.php:78
+msgctxt "admin bar menu name"
+msgid "Testimonial"
+msgstr "Aanbeveling"
+
+#: includes/post-types.php:76
+msgid "Testimonials list"
+msgstr "Aanbevelingenlijst"
+
+#: includes/post-types.php:75
+msgid "Testimonials list navigation"
+msgstr "Aanbevelingenlijst navigatie"
+
+#: includes/post-types.php:74
+msgid "Filter testimonials list"
+msgstr "Filter aanbevelingenlijst"
+
+#: includes/post-types.php:73
+msgid "Use as featured image"
+msgstr "gebruik als uitgelichte afbeelding"
+
+#: includes/post-types.php:72
+msgid "Remove featured image"
+msgstr "Verwijder uitgelichte afbeelding"
+
+#: includes/post-types.php:71
+msgid "Set featured image"
+msgstr "Uitgelichte afbeelding instellen"
+
+#: includes/post-types.php:69
+msgid "Uploaded to this testimonial"
+msgstr "Geüpload naar deze aanbeveling"
+
+#: includes/post-types.php:68
+msgid "Insert into testimonial"
+msgstr "Invoegen in aanbeveling"
+
+#: includes/post-types.php:66
+msgid "Testimonial Archives"
+msgstr "Aanbeveling archieven"
+
+#: includes/post-types.php:61
+msgid "View Testimonials"
+msgstr "Bekijk aanbevelingen"
+
+#: admin/class-strong-testimonials-helper.php:562 admin/views.php:76
+#: includes/post-types.php:56
+msgid "Add New"
+msgstr "Nieuwe aanbeveling"
+
+#: admin/class-strong-testimonials-license-activator.php:193
+msgid "Your license key has reached its activation limit."
+msgstr "Je licentiesleutel heeft de activatie limiet bereikt."
+
+#: admin/class-strong-testimonials-license-activator.php:190
+msgid "This appears to be an invalid license key for %s."
+msgstr "Dit lijkt een ongeldige licentiesleutel te zijn voor %s."
+
+#: admin/class-strong-testimonials-license-activator.php:187
+msgid "Your license is not active for this URL."
+msgstr "Je licentie is niet actief voor deze URL."
+
+#: admin/class-strong-testimonials-license-activator.php:183
+msgid "Invalid license."
+msgstr "Ongeldige licentie."
+
+#: admin/class-strong-testimonials-license-activator.php:180
+msgid "Your license key has been disabled."
+msgstr "Je licentiesleutel is uitgeschakeld."
+
+#: admin/class-strong-testimonials-license-activator.php:174
+msgid "Your license key expired on %s."
+msgstr "Je licentiesleutel is verlopen op %s."
+
+#: admin/class-strong-testimonials-helper.php:1966
+msgid "The slideshow will pause if the browser window becomes inactive."
+msgstr "De slideshow zal pauzeren als de browser venster inactief wordt."
+
+#: admin/class-strong-testimonials-addons.php:296
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: admin/settings/partials/general.php:95
+msgid "Output"
+msgstr "Uitvoer"
+
+#: admin/settings/partials/general.php:10
+msgid "Admin"
+msgstr "Beheerder"
+
+#: admin/class-strong-testimonials-page-shortcodes.php:97
+msgid "Here's what %s local clients say"
+msgstr "Dit is wat %s lokale klanten zeggen"
+
+#. translators: %s is a shortcode attribute
+#: admin/class-strong-testimonials-page-shortcodes.php:92
+msgid "To count for a specific category, add the %s attribute with the category slug."
+msgstr "Om te tellen voor een specifieke categorie, voeg je het %s attribuut toe met de categorie slug."
+
+#: admin/class-strong-testimonials-page-shortcodes.php:85
+msgid "Read some of our %s testimonials!"
+msgstr "Lees enkele van onze %s aanbevelingen!"
+
+#: admin/class-strong-testimonials-help.php:89
+msgid "For example:"
+msgstr "Bijvoorbeeld:"
+
+#: admin/class-strong-testimonials-help.php:87
+msgid "A view is simply a group of settings with an easy-to-use editor."
+msgstr "Een weergave is gewoon een groep instellingen met een gebruik vriendelijke editor."
+
+#: admin/class-strong-testimonials-help.php:213
+msgid "Use the excerpt or abbreviated content if you want to minimize the whitespace."
+msgstr "Gebruik het samenvatting of de verkorte inhoud als je de witruimte wil minimaliseren."
+
+#: admin/class-strong-testimonials-help.php:212
+msgid "Select the <b>Stretch</b> option to stretch the borders and background vertically to compensate."
+msgstr "Selecteer de optie <b>Strekken</b> om de randen en de achtergrond verticaal uit te rekken ter compensatie."
+
+#: admin/class-strong-testimonials-help.php:211
+msgid "This will set the height of the <b>slideshow container</b> to match the tallest slide in order to keep elements below it from bouncing up and down during slide transitions. With testimonials of uneven length, the result is whitespace underneath the shorter testimonials."
+msgstr "Dit zal de hoogte van de <b>slideshow container </b> instellen om overeen te komen met de hoogste slide om te voorkomen dat elementen eronder op en neer stuiteren tijdens slide overgangen. Bij aanbevelingen van ongelijke lengte leidt dit tot witruimte onder de kortere aanbevelingen."
+
+#: admin/class-strong-testimonials-lite-vs-pro-page.php:109
+#: admin/class-strong-testimonials-wpchill-upsells.php:459
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: admin/admin.php:141
+msgid "restore default"
+msgstr "standaard terugzetten"
+
+#: admin/class-strong-testimonials-post-editor.php:247
+msgid "Zero"
+msgstr "Nul"
+
+#: admin/class-strong-testimonials-admin-scripts.php:224
+msgid "Restore the default settings?"
+msgstr "De standaardinstellingen terugzetten?"
+
+#: admin/class-strong-testimonials-admin-scripts.php:223
+#: admin/class-strong-testimonials-license-activator.php:166
+#: admin/class-strong-testimonials-license-activator.php:196
+#: admin/class-strong-testimonials-license-activator.php:278
+#: admin/class-strong-testimonials-license-activator.php:493
+#: includes/submodules/license-checker/class-wpchill-license-checker.php:273
+msgid "An error occurred, please try again."
+msgstr "Er is een fout opgetreden, probeer het opnieuw."
+
+#: admin/class-strong-testimonials-helper.php:636
+#: admin/class-strong-views-list-table.php:103
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-strong-testimonials-helper.php:2106
+msgid "This will override the <strong>Success Redirect</strong> setting."
+msgstr "Dit overschrijft de instelling <strong>Succesvolle omleiding</strong>."
+
+#: admin/class-strong-testimonials-helper.php:385
+msgid " Submit form without reloading the page (Ajax)"
+msgstr " Formulier indienen zonder de pagina te herladen (Ajax)"
+
+#: admin/class-strong-testimonials-helper.php:655
+#: admin/class-strong-views-list-table.php:101
+msgid "Mode"
+msgstr "Modus"
+
+#: admin/settings/partials/form.php:179
+msgid "redirect to a URL"
+msgstr "omleiden naar een URL"
+
+#: admin/settings/partials/form.php:169
+msgctxt "to select a redirect page"
+msgid "or enter its ID or slug"
+msgstr "of voer zijn ID of slug in"
+
+#: admin/settings/partials/form.php:156
+msgid "&mdash; select a page &mdash;"
+msgstr "&mdash; selecteer een pagina &mdash;"
+
+#: admin/settings/partials/form.php:151
+msgid "redirect to a page"
+msgstr "omleiden naar pagina"
+
+#: admin/settings/partials/form.php:145
+msgid "display message"
+msgstr "toon bericht"
+
+#: admin/settings/partials/form.php:136
+msgid "Upon Successful Submission"
+msgstr "Bij succesvolle indiening"
+
+#: admin/settings/partials/form.php:87
+msgid "Restore Default Messages"
+msgstr "Standaard berichten terugzetten"
+
+#: includes/post-types.php:67
+msgid "Attributes"
+msgstr "Attributen"
+
+#: admin/class-strong-testimonials-defaults.php:190
+msgid "category checklist"
+msgstr "checklist voor categorieën"
+
+#: admin/class-strong-testimonials-help.php:61
+msgid "To display this form, create a view and select Form mode."
+msgstr "Om dit formulier weer te geven, maak je een weergave en selecteer je Formulier modus."
+
+#: admin/class-strong-testimonials-help.php:58
+msgid "This editor serves two purposes: (1) to modify the form as it appears on your site, and (2) to modify the custom fields added to each testimonial."
+msgstr "Deze editor dient twee doelen: (1) om het formulier te wijzigen zoals het op je site verschijnt, en (2) om de aangepaste velden te wijzigen die aan elke aanbeveling worden toegevoegd."
+
+#: admin/class-strong-testimonials-help.php:57
+msgid "These fields let you customize your testimonials to gather the information you need."
+msgstr "Met deze velden kun je je aanbevelingen aanpassen aan de informatie die je nodig hebt."
+
+#: admin/custom-fields-ajax.php:24
+msgid "New Field"
+msgstr "Nieuw veld"
+
+#: admin/class-strong-testimonials-admin-scripts.php:153
+msgctxt "Fields editor: To indicate when no categories have been found."
+msgid "(none found)"
+msgstr "(niets gevonden)"
+
+#: admin/class-strong-testimonials-admin-scripts.php:152
+msgctxt "Fields editor: To indicate when a field type can only be used once."
+msgid "(in use)"
+msgstr "(in gebruik)"
+
+#: admin/class-strong-testimonials-admin-scripts.php:151
+msgctxt "Field editor: The default label for new fields"
+msgid "New Field"
+msgstr "Nieuw veld"
+
+#: admin/class-strong-testimonials-defaults.php:652
+msgctxt "slideshow navigation option"
+msgid "buttons"
+msgstr "knoppen"
+
+#: admin/class-strong-testimonials-defaults.php:640
+#: admin/class-strong-testimonials-defaults.php:660
+msgctxt "slideshow navigation option"
+msgid "text"
+msgstr "tekst"
+
+#: admin/class-strong-testimonials-defaults.php:597
+msgctxt "slideshow navigation option"
+msgid "full"
+msgstr "volledig"
+
+#: admin/class-strong-testimonials-defaults.php:593
+msgctxt "slideshow navigation option"
+msgid "none"
+msgstr "geen"
+
+#: admin/class-strong-testimonials-defaults.php:646
+#: includes/class-strong-view-slideshow.php:445
+msgctxt "slideshow_control"
+msgid "Next"
+msgstr "Volgende"
+
+#: admin/class-strong-testimonials-defaults.php:645
+#: includes/class-strong-view-slideshow.php:444
+msgctxt "slideshow_control"
+msgid "Previous"
+msgstr "Vorige"
+
+#: admin/class-strong-testimonials-defaults.php:644
+#: includes/class-strong-view-slideshow.php:443
+msgctxt "slideshow control"
+msgid "Pause"
+msgstr "Pauzeren"
+
+#: admin/class-strong-testimonials-defaults.php:643
+#: includes/class-strong-view-slideshow.php:442
+msgctxt "slideshow control"
+msgid "Play"
+msgstr "Afspelen"
+
+#: admin/class-strong-testimonials-defaults.php:630
+msgctxt "slideshow navigation option"
+msgid "buttons 3"
+msgstr "knoppen 3"
+
+#: admin/class-strong-testimonials-defaults.php:580
+msgctxt "slideshow controls option"
+msgid "Sides: previous / next"
+msgstr "Kanten: vorige/volgende"
+
+#: admin/class-strong-testimonials-defaults.php:571
+msgctxt "slideshow controls option"
+msgid "Bottom: previous / next"
+msgstr "Onderkant: vorige/volgende"
+
+#: admin/class-strong-testimonials-defaults.php:559
+msgctxt "slideshow controls option"
+msgid "Bottom: previous / play-pause / next"
+msgstr "Onderkant: vorige/play-pause/volgende"
+
+#: admin/class-strong-testimonials-defaults.php:551
+msgctxt "slideshow controls option"
+msgid "none"
+msgstr "geen"
+
+#: admin/class-strong-testimonials-defaults.php:545
+msgctxt "slideshow option"
+msgid "Set height to match the tallest slide"
+msgstr "Stel de hoogte in op de hoogste slide"
+
+#: admin/class-strong-testimonials-defaults.php:544
+msgctxt "slideshow option"
+msgid "Adjust height for each slide"
+msgstr "Pas de hoogte aan voor elke slide"
+
+#: admin/class-strong-testimonials-defaults.php:540
+msgctxt "slideshow transition option"
+msgid "scroll vertically"
+msgstr "scroll verticaal"
+
+#: admin/class-strong-testimonials-defaults.php:539
+#: admin/class-strong-testimonials-helper.php:1863
+msgctxt "slideshow transition option"
+msgid "scroll horizontally"
+msgstr "scroll horizontaal"
+
+#: admin/class-strong-testimonials-defaults.php:538
+msgctxt "slideshow transition option"
+msgid "fade"
+msgstr "fade"
+
+#: admin/class-strong-testimonials-defaults.php:537
+msgctxt "slideshow transition option"
+msgid "no transition effect"
+msgstr "geen overgang effect"
+
+#: admin/class-strong-testimonials-helper.php:323
+msgid "Transition"
+msgstr "Overgang"
+
+#: admin/class-strong-testimonials-helper.php:2053
+msgid "the testimonial frame"
+msgstr "het aanbeveling frame"
+
+#: admin/class-strong-testimonials-helper.php:2045
+msgid "Position"
+msgstr "Positie"
+
+#: admin/class-strong-testimonials-helper.php:1984
+msgid "Controls"
+msgstr "Besturingen"
+
+#: admin/class-strong-testimonials-helper.php:1957
+msgid "Stretch slides vertically"
+msgstr "Rek slides verticaal uit"
+
+#: admin/class-strong-testimonials-helper.php:1946
+msgid "Duration"
+msgstr "Duur"
+
+#: admin/class-strong-testimonials-helper.php:1920
+msgid "Recommended if using navigation."
+msgstr "Aanbevolen bij gebruik van navigatie."
+
+#: admin/class-strong-testimonials-helper.php:1917
+msgctxt "slideshow setting"
+msgid "Stop on interaction"
+msgstr "Stop op interactie"
+
+#: admin/class-strong-testimonials-helper.php:1891
+msgctxt "slideshow setting"
+msgid "Start automatically"
+msgstr "Automatisch starten"
+
+#: admin/class-strong-testimonials-helper.php:334
+msgid "Behavior"
+msgstr "Gedrag"
+
+#: admin/class-strong-testimonials-help.php:219
+msgid "Stretch"
+msgstr "Uitrekken"
+
+#: includes/post-types.php:136
+msgctxt "slug"
+msgid "testimonial-category"
+msgstr "aanbeveling categorie"
+
+#. Plugin Name of the plugin
+#: strong-testimonials.php includes/elementor/class-strong-elementor.php:23
+#: includes/strong-testimonials-beaver-block/class-strong-beaver-block.php:10
+#: includes/strong-testimonials-beaver-block/class-strong-beaver-block.php:12
+#: includes/strong-testimonials-beaver-block/class-strong-beaver-block.php:23
+msgid "Strong Testimonials"
+msgstr "Strong Testimonials"
+
+#: includes/functions.php:612
+msgid "light plum gradient"
+msgstr "licht pruim gradiënt"
+
+#: includes/functions.php:602
+msgid "light green mist gradient"
+msgstr "licht groen nevel gradiënt"
+
+#: includes/functions.php:607
+msgid "light latte gradient"
+msgstr "lichte latte gradiënt"
+
+#: includes/functions.php:617
+msgid "sky blue gradient"
+msgstr "licht blauwe gradiënt"
+
+#: includes/functions.php:592
+msgid "light blue gradient"
+msgstr "licht blauwe gradiënt"
+
+#: includes/functions.php:597
+msgid "light gray gradient"
+msgstr "lichte grijze gradiënt"
+
+#: strong-testimonials.php:140 strong-testimonials.php:152
+msgid "Cheatin&#8217; huh?"
+msgstr "Valsspelen, hé?"
+
+#: admin/settings/class-strong-testimonials-settings-compat.php:748
+#: includes/widget2.php:95
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Selecteer &mdash;"
+
+#: includes/widget2.php:92
+msgctxt "widget setting"
+msgid "View:"
+msgstr "View:"
+
+#: includes/widget2.php:88
+msgid "Automatically add paragraphs to above Content only"
+msgstr "Automatisch paragrafen toevoegen aan alleen bovenstaande Inhoud"
+
+#: includes/widget2.php:84
+msgid "Content:"
+msgstr "Inhoud:"
+
+#: includes/widget2.php:78
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/widget2.php:27
+msgctxt "widget title"
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: includes/widget2.php:21
+msgctxt "widget label"
+msgid "Strong Testimonials View"
+msgstr "Strong Testimonials View"
+
+#: includes/widget2.php:14
+msgctxt "widget description"
+msgid "Add one of your testimonial views."
+msgstr "Voeg één van je aanbevelingsviews toe."
+
+#: includes/post-types.php:217
+msgid "Testimonial draft updated."
+msgstr "Concept aanbeveling aangepast."
+
+#: includes/post-types.php:216
+msgid "Testimonial scheduled for: %s."
+msgstr "Aanbeveling gepland voor: %s."
+
+#: includes/post-types.php:215
+msgid "Testimonial submitted."
+msgstr "Aanbeveling ingediend."
+
+#: includes/post-types.php:214
+msgid "Testimonial saved."
+msgstr "Aanbeveling opgeslagen."
+
+#: includes/post-types.php:213
+msgid "Testimonial published."
+msgstr "Aanbeveling gepubliceerd."
+
+#. translators: %s: date and time of the revision
+#: includes/post-types.php:212
+msgid "Testimonial restored to revision from %s."
+msgstr "Testimonial teruggezet naar revisie van %s."
+
+#: includes/post-types.php:209
+msgid "Custom field deleted."
+msgstr "Aangepast veld verwijderd."
+
+#: includes/post-types.php:208
+msgid "Custom field updated."
+msgstr "Aangepast veld geüpdatet."
+
+#: includes/post-types.php:207 includes/post-types.php:210
+msgid "Testimonial updated."
+msgstr "Aanbeveling geüpdatet."
+
+#: includes/post-types.php:193
+msgid "View testimonial"
+msgstr "Aanbevelingen bekijken"
+
+#: includes/post-types.php:187 includes/post-types.php:199
+msgid "Preview testimonial"
+msgstr "Voorbeeld van een aanbeveling"
+
+#: includes/post-types.php:130
+msgid "All categories"
+msgstr "Alle categorieën"
+
+#: includes/post-types.php:128
+msgid "Testimonial Category"
+msgstr "Aanbeveling categorieën"
+
+#: includes/post-types.php:127
+msgid "Testimonial Categories"
+msgstr "Aanbevelingscategorieën"
+
+#: includes/post-types.php:106
+msgctxt "slug"
+msgid "testimonial"
+msgstr "aanbeveling"
+
+#: includes/post-types.php:64
+msgid "Nothing found in Trash"
+msgstr "Niets gevonden in prullenbak"
+
+#: includes/post-types.php:63
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: includes/post-types.php:62
+msgid "Search Testimonials"
+msgstr "Zoek aanbevelingen"
+
+#: includes/post-types.php:60
+msgid "View Testimonial"
+msgstr "Bekijk aanbeveling"
+
+#: includes/post-types.php:65
+msgid "All Testimonials"
+msgstr "Alle aanbevelingen"
+
+#: includes/post-types.php:59
+msgid "New Testimonial"
+msgstr "Nieuwe aanbeveling"
+
+#: includes/post-types.php:58
+msgid "Edit Testimonial"
+msgstr "Aanbeveling bewerken"
+
+#: includes/post-types.php:57
+msgid "Add New Testimonial"
+msgstr "Nieuwe aanbeveling toevoegen"
+
+#: includes/post-types.php:55
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr "Aanbeveling"
+
+#: includes/post-types.php:77
+msgctxt "admin menu name"
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#: admin/class-strong-testimonials-addons.php:132 includes/post-types.php:54
+#: strong-testimonials.php:681
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr "Aanbevelingen"
+
+#. Translators: %s is the View ID.
+#: includes/l10n-polylang.php:126 includes/l10n-wpml.php:207
+msgid "View %s : Read more (page or post)"
+msgstr "Bekijk %s : Lees meer (pagina of bericht)"
+
+#. Translators: %s is the View ID.
+#: includes/l10n-polylang.php:120 includes/l10n-wpml.php:199
+msgid "View %s : Read more (testimonial)"
+msgstr "Bekijk %s: lees meer (aanbeveling)"
+
+#: includes/l10n-polylang.php:95 includes/l10n-wpml.php:185
+msgid "Email subject"
+msgstr "E-mail onderwerp"
+
+#: includes/l10n-polylang.php:96 includes/l10n-wpml.php:184
+msgid "Email message"
+msgstr "E-mail bericht"
+
+#: includes/l10n-polylang.php:74 includes/l10n-wpml.php:160
+msgid "default display value"
+msgstr "standaard weergave waarde"
+
+#: includes/l10n-polylang.php:71 includes/l10n-wpml.php:156
+msgid "default form value"
+msgstr "standaard formulier waarden"
+
+#: includes/l10n-polylang.php:68 includes/l10n-wpml.php:148
+msgid "label"
+msgstr "label"
+
+#: includes/l10n-polylang.php:65 includes/l10n-wpml.php:144
+msgid "placeholder"
+msgstr "plaatshouder"
+
+#: admin/class-strong-testimonials-defaults.php:746
+msgctxt "link"
+msgid "Read more testimonials"
+msgstr "Lees meer aanbevelingen"
+
+#: admin/class-strong-testimonials-defaults.php:739
+msgctxt "link"
+msgid "Read more"
+msgstr "Lees verder"
+
+#: admin/class-strong-testimonials-defaults.php:514
+#: admin/class-strong-testimonials-helper.php:307
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: admin/class-strong-testimonials-defaults.php:509
+msgid "Display"
+msgstr "Weergeven"
+
+#. translators: Default message for new testimonial notification email.
+#: admin/class-strong-testimonials-defaults.php:475
+msgid "New testimonial submission for %BLOGNAME%. This is awaiting action from the website administrator."
+msgstr "Nieuwe aanbeveling inzending voor %BLOGNAME%. Dit wacht op actie van de site beheerder."
+
+#. translators: Default subject line for new testimonial notification email.
+#: admin/class-strong-testimonials-defaults.php:471
+msgid "New testimonial for %BLOGNAME%"
+msgstr "Nieuwe aanbeveling voor %BLOGNAME%"
+
+#. translators: Default message for submission form success message.
+#: admin/class-strong-testimonials-defaults.php:437
+msgctxt "success message"
+msgid "Thank you! Your testimonial is waiting to be approved."
+msgstr "Dank je! Je aanbeveling wacht op goedkeuring."
+
+#. translators: Settings > Form > Messages tab
+#: admin/class-strong-testimonials-defaults.php:435
+msgctxt "description"
+msgid "Submission Success"
+msgstr "Met succes ingediend"
+
+#. translators: Default message for submission form error.
+#: admin/class-strong-testimonials-defaults.php:430
+msgctxt "error message"
+msgid "There was a problem processing your testimonial."
+msgstr "Er was een probleem bij het verwerken van je aanbeveling."
+
+#. translators: Settings > Form > Messages tab
+#: admin/class-strong-testimonials-defaults.php:428
+msgctxt "description"
+msgid "Submission Error"
+msgstr "Fout bij indienen"
+
+#. translators: Default label for the Submit button on testimonial form.
+#: admin/class-strong-testimonials-defaults.php:423
+msgctxt "the Submit button"
+msgid "Add Testimonial"
+msgstr "Aanbeveling toevoegen"
+
+#. translators: Settings > Form > Messages tab
+#: admin/class-strong-testimonials-defaults.php:421
+msgctxt "description"
+msgid "Submit Button"
+msgstr "Indienen knop"
+
+#: admin/class-strong-testimonials-upsell.php:499
+#: admin/class-strong-testimonials-upsell.php:523
+msgid "Strong Testimonials: Captcha"
+msgstr "Strong Testimonials: Captcha"
+
+#: admin/class-strong-testimonials-defaults.php:391
+msgid "Custom Form"
+msgstr "Aangepast formulier"
+
+#: admin/class-strong-testimonials-defaults.php:327
+msgid "Minimal Form"
+msgstr "Minimaal formulier"
+
+#: admin/class-strong-testimonials-defaults.php:310
+msgid "Would you like to include a photo?"
+msgstr "Wil je een foto toevoegen?"
+
+#: admin/class-strong-testimonials-defaults.php:308
+msgid "Photo"
+msgstr "Foto"
+
+#: admin/class-strong-testimonials-defaults.php:302
+msgid "What do you think about us?"
+msgstr "Hoe denk je over ons?"
+
+#: admin/class-strong-testimonials-defaults.php:299
+#: admin/class-strong-testimonials-defaults.php:356
+#: admin/class-strong-testimonials-helper.php:1183
+#: admin/settings/class-strong-testimonials-settings.php:51
+msgid "Testimonial"
+msgstr "Aanbeveling"
+
+#: admin/class-strong-testimonials-defaults.php:293
+msgid "A headline for your testimonial."
+msgstr "Een kop voor je aanbeveling."
+
+#: admin/class-strong-testimonials-defaults.php:290
+msgid "Heading"
+msgstr "Koptekst"
+
+#: admin/class-strong-testimonials-defaults.php:282
+msgid "Does your company have a website?"
+msgstr "Heeft je bedrijf een site?"
+
+#: admin/class-strong-testimonials-defaults.php:280
+msgid "Company Website"
+msgstr "Bedrijfssite"
+
+#: admin/class-strong-testimonials-defaults.php:275
+msgid "What is your company name?"
+msgstr "Wat is je bedrijfsnaam?"
+
+#: admin/class-strong-testimonials-defaults.php:273
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: admin/class-strong-testimonials-defaults.php:268
+msgid "What is your email address?"
+msgstr "Wat is je e-mailadres?"
+
+#: admin/class-strong-testimonials-defaults.php:259
+msgid "What is your full name?"
+msgstr "Wat is je volledige naam?"
+
+#: admin/class-strong-testimonials-defaults.php:256
+msgid "Full Name"
+msgstr "Volledige naam"
+
+#: admin/class-strong-testimonials-defaults.php:247
+msgid "Default Form"
+msgstr "Standaard formulier"
+
+#: admin/class-strong-testimonials-defaults.php:209
+msgid "star rating"
+msgstr "sterren waardering"
+
+#: admin/class-strong-testimonials-defaults.php:182
+msgid "category selector"
+msgstr "categorie selectie"
+
+#: admin/class-strong-testimonials-defaults.php:159
+msgid "URL"
+msgstr "URL"
+
+#: admin/class-strong-testimonials-defaults.php:154
+msgid "email"
+msgstr "e-mail"
+
+#: admin/class-strong-testimonials-defaults.php:120
+msgid "Testimonial Content"
+msgstr "Inhoud aanbeveling"
+
+#: admin/class-strong-testimonials-defaults.php:109
+msgid "Testimonial Title"
+msgstr "Titel aanbeveling"
+
+#: admin/class-strong-testimonials-defaults.php:78
+msgid "This field is required."
+msgstr "Dit veld is vereist."
+
+#: admin/class-strong-views-list-table.php:166
+msgid "Delete \"%s\"?"
+msgstr "Verwijder \"%s\"?"
+
+#: admin/class-strong-views-list-table.php:165
+msgid "Duplicate"
+msgstr "Kopie"
+
+#: admin/class-strong-testimonials-list-table.php:942
+msgid "Select All"
+msgstr "Selecteer alles"
+
+#: admin/class-strong-testimonials-list-table.php:800
+msgid "Go to the last page"
+msgstr "Ga naar laatste pagina"
+
+#: admin/class-strong-testimonials-list-table.php:792
+msgid "Go to the next page"
+msgstr "Ga naar volgende pagina"
+
+#: admin/class-strong-testimonials-list-table.php:787
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s van %2$s"
+
+#: admin/class-strong-testimonials-list-table.php:781
+#: admin/settings/class-strong-testimonials-settings-compat.php:420
+msgid "Current page"
+msgstr "Huidige pagina"
+
+#: admin/class-strong-testimonials-list-table.php:780
+msgid "Select Page"
+msgstr "Selecteer pagina"
+
+#: admin/class-strong-testimonials-list-table.php:770
+msgid "Go to the previous page"
+msgstr "Ga naar vorige pagina"
+
+#: admin/class-strong-testimonials-list-table.php:762
+msgid "Go to the first page"
+msgstr "Ga naar eerste pagina"
+
+#: admin/class-strong-testimonials-list-table.php:742
+#: admin/class-strong-testimonials-list-table.php:1183
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 item"
+msgstr[1] "%s items"
+
+#: admin/class-strong-testimonials-list-table.php:659
+msgid "%s pending"
+msgstr "%s in wachtrij"
+
+#: admin/class-strong-testimonials-list-table.php:595
+msgid "All dates"
+msgstr "Alle data"
+
+#: admin/class-strong-testimonials-list-table.php:593
+msgid "Filter by date"
+msgstr "Filteren op datum"
+
+#: admin/class-strong-testimonials-list-table.php:483
+msgid "Apply"
+msgstr "Toepassen"
+
+#: admin/class-strong-testimonials-list-table.php:473
+msgid "Bulk Actions"
+msgstr "Bulk acties"
+
+#: admin/class-strong-testimonials-list-table.php:471
+msgid "Select bulk action"
+msgstr "Selecteer bulk actie"
+
+#: admin/class-strong-testimonials-list-table.php:338
+msgid "No items found."
+msgstr "Geen items gevonden."
+
+#: admin/class-strong-testimonials-list-table.php:165
+msgid "Excerpt View"
+msgstr "Samenvattingsweergave"
+
+#: admin/class-strong-testimonials-list-table.php:164
+msgid "List View"
+msgstr "Lijst weergave"
+
+#: admin/views.php:694 admin/views.php:722
+msgid "filter categories"
+msgstr "filter categorieën"
+
+#: admin/views.php:575
+msgid "more about date formats"
+msgstr "meer over datum formaten"
+
+#: admin/views.php:567
+msgid "Format"
+msgstr "Format"
+
+#: admin/views.php:542
+msgid "new tab"
+msgstr "nieuwe tab"
+
+#: admin/views.php:527
+msgid "URL Field"
+msgstr "URL veld"
+
+#: admin/views.php:508
+msgid "custom text"
+msgstr "aangepaste tekst"
+
+#: admin/views.php:507
+msgid "this field's label"
+msgstr "label van dit veld"
+
+#: admin/views.php:506
+msgid "this field's value"
+msgstr "waarde van dit veld"
+
+#: admin/views.php:504
+msgid "Link Text"
+msgstr "Linktekst"
+
+#: admin/views.php:457
+msgid "CSS Class"
+msgstr "CSS klasse"
+
+#: admin/views.php:414
+msgid "Display Type"
+msgstr "Weergavetype"
+
+#: admin/views.php:376
+msgid "remove this field"
+msgstr "dit veld verwijderen"
+
+#: admin/class-strong-testimonials-defaults.php:198 admin/views.php:339
+msgid "shortcode"
+msgstr "shortcode"
+
+#: admin/views.php:337
+msgid "rating"
+msgstr "waardering"
+
+#: admin/views.php:336
+msgid "category"
+msgstr "Categorie"
+
+#: admin/views.php:335
+msgid "date"
+msgstr "datum"
+
+#: admin/views.php:334
+msgid "link (must be URL type)"
+msgstr "link (moet van het type URL zijn)"
+
+#: admin/views.php:333
+msgid "link with another field"
+msgstr "link met een ander veld"
+
+#: admin/class-strong-testimonials-defaults.php:150 admin/views.php:332
+#: includes/l10n-wpml.php:152
+msgid "text"
+msgstr "tekst"
+
+#: admin/views.php:325
+msgid "built-in"
+msgstr "ingebouwd"
+
+#: admin/class-strong-testimonials-helper.php:2505 admin/views.php:324
+msgid "custom"
+msgstr "aangepast"
+
+#: admin/class-strong-testimonials-defaults.php:672
+msgctxt "slideshow navigation option"
+msgid "inside"
+msgstr "binnen"
+
+#: admin/class-strong-testimonials-defaults.php:620
+msgctxt "slideshow navigation option"
+msgid "buttons 2"
+msgstr "knoppen 2"
+
+#: admin/class-strong-testimonials-defaults.php:610
+msgctxt "slideshow navigation option"
+msgid "buttons 1"
+msgstr "knoppen 1"
+
+#: admin/class-strong-testimonials-defaults.php:673
+msgctxt "slideshow navigation option"
+msgid "outside"
+msgstr "buiten"
+
+#: admin/class-strong-testimonials-defaults.php:533
+msgctxt "display order"
+msgid "oldest first"
+msgstr "oudste eerst"
+
+#: admin/class-strong-testimonials-defaults.php:532
+msgctxt "display order"
+msgid "newest first"
+msgstr "nieuwste eerst"
+
+#: admin/class-strong-testimonials-defaults.php:531
+msgctxt "display order"
+msgid "menu order"
+msgstr "menuvolgorde"
+
+#: admin/class-strong-testimonials-defaults.php:530
+msgctxt "display order"
+msgid "random"
+msgstr "willekeurig"
+
+#: admin/class-strong-testimonials-helper.php:609
+#: admin/class-strong-testimonials-helper.php:647
+msgctxt "The shortcode for a new View."
+msgid "will be available after you save this"
+msgstr "zal beschikbaar zijn nadat je dit hebt opgeslagen"
+
+#: admin/class-strong-testimonials-helper.php:605
+#: admin/class-strong-testimonials-helper.php:643
+msgid "copy to clipboard"
+msgstr "kopiëren naar klembord"
+
+#: admin/class-strong-testimonials-helper.php:560
+msgid "Add View"
+msgstr "View toevoegen"
+
+#: admin/class-strong-testimonials-helper.php:560 admin/views.php:49
+#: assets/js/blocks-js.js:161 assets/js/blocks-js.js:500
+#: assets/src/js/components/edit.js:42 assets/src/js/components/inspector.js:59
+msgid "Edit View"
+msgstr "View bewerken"
+
+#: admin/views.php:38
+msgid "View deleted."
+msgstr "View verwijderd."
+
+#: admin/views.php:37
+msgid "View saved."
+msgstr "View opgeslagen."
+
+#: admin/class-strong-testimonials-helper.php:208
+msgid " Title"
+msgstr " Titel"
+
+#: admin/class-strong-testimonials-helper.php:1908
+msgctxt "slideshow setting"
+msgid "Pause on hover"
+msgstr "Pauzeer bij hoveren"
+
+#: admin/class-strong-testimonials-helper.php:1866
+msgid "for"
+msgstr "voor"
+
+#: admin/class-strong-testimonials-helper.php:1852
+#: admin/class-strong-testimonials-helper.php:1863
+msgid "then"
+msgstr "dan"
+
+#: admin/class-strong-testimonials-helper.php:1848
+#: admin/class-strong-testimonials-helper.php:1870
+#: admin/class-strong-testimonials-helper.php:1951
+msgctxt "time setting"
+msgid "seconds"
+msgstr "seconden"
+
+#: admin/class-strong-testimonials-helper.php:1844
+msgctxt "slideshow setting"
+msgid "Show slides for"
+msgstr "Toon elke gedurende"
+
+#: admin/class-strong-testimonials-helper.php:1282
+msgid "Gravatar settings"
+msgstr "Gravatar instellingen"
+
+#: admin/class-strong-testimonials-helper.php:1274
+msgid "show Gravatar only if found"
+msgstr "toon Gravatar alleen wanneer gevonden"
+
+#: admin/class-strong-testimonials-helper.php:1273
+msgid "show Gravatar"
+msgstr "toon Gravatar"
+
+#: admin/class-strong-testimonials-helper.php:1272
+msgid "show nothing"
+msgstr "toon niets"
+
+#: admin/class-strong-testimonials-helper.php:1270
+msgid "If no Featured Image"
+msgstr "wanneer er geen uitgelichte afbeelding is"
+
+#: admin/class-strong-testimonials-helper.php:1248
+msgid "Open full-size image in a lightbox"
+msgstr "Open afbeelding van volledige grootte in een lichtbox"
+
+#: admin/class-strong-testimonials-helper.php:1236
+msgid "height"
+msgstr "hoogte"
+
+#: admin/class-strong-testimonials-helper.php:1231
+msgid "width"
+msgstr "breedte"
+
+#: admin/class-strong-testimonials-defaults.php:132 includes/post-types.php:70
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: admin/class-strong-testimonials-helper.php:2161
+msgid "no description"
+msgstr "geen beschrijving"
+
+#: admin/class-strong-testimonials-helper.php:983
+msgid "a specific testimonial"
+msgstr "een specifieke aanbeveling"
+
+#: admin/class-strong-testimonials-helper.php:1715
+msgctxt "display setting"
+msgid "in each testimonial"
+msgstr "in elke aanbeveling"
+
+#: admin/class-strong-testimonials-helper.php:1714
+msgctxt "display setting"
+msgid "after the last testimonial"
+msgstr "na de laatste aanbeveling"
+
+#: admin/class-strong-testimonials-helper.php:1703
+msgid "with link text"
+msgstr "met link tekst"
+
+#: admin/class-strong-testimonials-helper.php:1693
+msgctxt "to select a target page"
+msgid "or enter its ID or slug"
+msgstr "of voer zijn ID of slug in"
+
+#: admin/class-strong-testimonials-helper.php:283
+msgid " \"Read more\" link to a page or post"
+msgstr " \"Lees meer\" link naar een pagina of bericht"
+
+#: admin/class-strong-testimonials-helper.php:1563
+msgid "before & after"
+msgstr "voor & na"
+
+#: admin/class-strong-testimonials-helper.php:1562
+#: includes/l10n-polylang.php:59 includes/l10n-wpml.php:136
+msgid "after"
+msgstr "na"
+
+#: admin/class-strong-testimonials-helper.php:1561
+#: includes/l10n-polylang.php:62 includes/l10n-wpml.php:140
+msgid "before"
+msgstr "voor"
+
+#: admin/class-strong-testimonials-helper.php:345
+#: admin/class-strong-testimonials-helper.php:1559
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: admin/class-strong-testimonials-helper.php:1553
+msgctxt "quantity"
+msgid "Per page"
+msgstr "Per pagina"
+
+#: admin/class-strong-testimonials-helper.php:1544
+msgid "Using paged URLs: /page/2, /page/3, etc. Best for large scale."
+msgstr "Gepagineerde URL's gebruiken: /pagina/2, /pagina/3, enz. Het beste voor grote schaal."
+
+#: admin/class-strong-testimonials-helper.php:136
+#: admin/class-strong-testimonials-helper.php:1518
+#: admin/class-strong-testimonials-helper.php:1960 admin/custom-fields.php:170
+#: admin/settings/class-strong-testimonials-settings-compat.php:391
+#: admin/views.php:77
+msgid "Help"
+msgstr "Hulp"
+
+#: admin/class-strong-testimonials-helper.php:1537
+msgid "Using JavaScript. Intended for small scale."
+msgstr "Met behulp van JavaScript. Bedoeld voor kleine schaal."
+
+#: admin/class-strong-testimonials-helper.php:1529
+msgid "WordPress standard"
+msgstr "WordPress standaard"
+
+#: admin/class-strong-testimonials-helper.php:1528
+msgid "simple"
+msgstr "eenvoudig"
+
+#: admin/class-strong-testimonials-helper.php:169
+msgctxt "noun"
+msgid "Order"
+msgstr "Volgorde"
+
+#: admin/class-strong-testimonials-helper.php:1131
+msgctxt "noun"
+msgid "count"
+msgstr "aantal"
+
+#: admin/class-strong-testimonials-helper.php:180
+msgid "Quantity"
+msgstr "Aantal"
+
+#: admin/class-strong-testimonials-helper.php:2302
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+#: admin/class-strong-testimonials-helper.php:2296
+msgid "Testimonials will be equal height so this works best when they are about the same length either naturally or using excerpts."
+msgstr "Testimonials zullen even hoog zijn, dus dit werkt het best als ze ongeveer even lang zijn, hetzij op natuurlijke manier, hetzij met behulp van samenvattingen."
+
+#: admin/class-strong-testimonials-helper.php:2289
+#: admin/class-strong-testimonials-helper.php:2297
+msgid "Compatible with pagination."
+msgstr "Compatibel met paginering."
+
+#: admin/class-strong-testimonials-helper.php:2288
+msgid "Works well with both long and short testimonials."
+msgstr "Werkt goed met zowel lange als korte aanbevelingen."
+
+#: admin/class-strong-testimonials-helper.php:2287
+msgid "Using <a href=\"%s\" target=\"_blank\">CSS multi-column</a>. Fill from top to bottom, then over to next column."
+msgstr "Met behulp van <a href=\"%s\" target=\"_blank\">CSS multi kolom</a>. Vul van bovenkant naar onderkant, dan over naar volgende kolom."
+
+#: admin/class-strong-testimonials-helper.php:2284
+msgid "Not compatible with pagination."
+msgstr "Niet compatibel met paginering."
+
+#: admin/class-strong-testimonials-helper.php:2283
+msgid "The universal solution that works well regardless of testimonial lengths."
+msgstr "De universele oplossing die goed werkt, ondanks de lengte van de aanbevelingen."
+
+#: admin/class-strong-testimonials-helper.php:2282
+msgid "A cascading, responsive grid using the jQuery plugin <a href=\"%s\" target=\"_blank\">Masonry</a>."
+msgstr "Een cascaderend, responsive raster met behulp van de jQuery plugin <a href=\"%s\" target=\"_blank\">Masonry</a>."
+
+#: admin/class-strong-testimonials-helper.php:2272
+msgid "grid"
+msgstr "raster"
+
+#: admin/class-strong-testimonials-helper.php:2266
+msgid "columns"
+msgstr "kolommen"
+
+#: admin/class-strong-testimonials-helper.php:2258
+msgid "Masonry"
+msgstr "Masonry"
+
+#: admin/class-strong-testimonials-helper.php:2253
+msgid "normal"
+msgstr "normaal"
+
+#: admin/class-strong-testimonials-helper.php:440
+msgid "Layout"
+msgstr "Lay-out"
+
+#: admin/class-strong-testimonials-helper.php:1004
+msgctxt "to select a testimonial"
+msgid "or enter its ID or slug"
+msgstr "of typ de ID of slug"
+
+#: admin/class-strong-testimonials-helper.php:996
+msgid "(untitled)"
+msgstr "(geen titel)"
+
+#: admin/class-strong-testimonials-helper.php:993
+#: admin/class-strong-testimonials-helper.php:1661
+msgid "&mdash; select &mdash;"
+msgstr "&mdash; selecteer &mdash;"
+
+#: admin/class-strong-testimonials-helper.php:2143
+#: admin/class-strong-views-list-table.php:221
+msgid "not found"
+msgstr "niet gevonden"
+
+#: admin/class-strong-testimonials-helper.php:417
+#: admin/class-strong-testimonials-helper.php:428
+#: admin/class-strong-views-list-table.php:102
+msgid "Template"
+msgstr "Template"
+
+#: admin/class-strong-testimonials-helper.php:1448
+msgctxt "display setting"
+msgid "for both automatic and manual excerpts"
+msgstr "voor zowel automatische als handmatige samenvattingen"
+
+#: admin/class-strong-testimonials-helper.php:1447
+msgctxt "display setting"
+msgid "for automatic excerpt only"
+msgstr "alleen voor automatische samenvatting"
+
+#: admin/class-strong-testimonials-helper.php:1392
+msgid "Automatic excerpt only."
+msgstr "Alleen automatische samenvatting."
+
+#: admin/class-strong-testimonials-helper.php:1420
+#: admin/class-strong-testimonials-helper.php:1435
+msgid "enter a phrase"
+msgstr "typ een zin in"
+
+#: admin/class-strong-testimonials-helper.php:1406
+msgctxt "display setting"
+msgid "with default link text"
+msgstr "met standaard link tekst"
+
+#: admin/class-strong-testimonials-helper.php:1357
+msgctxt "the excerpt length"
+msgid "the first %s words"
+msgstr "de eerste %s woorden"
+
+#: admin/class-strong-testimonials-helper.php:1352
+msgid "The default length is 55 words but your theme may override that."
+msgstr "De standaard lengte is 55 woorden maar je thema kan dat veranderen."
+
+#: admin/class-strong-testimonials-helper.php:1345
+msgctxt "display setting"
+msgid "custom length"
+msgstr "aangepaste lengte"
+
+#: admin/class-strong-testimonials-helper.php:1344
+msgctxt "display setting"
+msgid "default length"
+msgstr "standaard lengte"
+
+#: admin/class-strong-testimonials-helper.php:1323
+msgid "To create manual excerpts, you may need to enable them in the post editor like in this <a href=\"%s\" class=\"thickbox\">screenshot</a>."
+msgstr "Om handmatige samenvattingen te maken, moet je ze misschien inschakelen in het bericht editor zoals in dit <a href=\"%s\" class=\"thickbox\">schermafbeelding</a>."
+
+#: admin/class-strong-testimonials-helper.php:1318
+msgid "This will strip tags like &lt;em&gt; and &lt;strong&gt;."
+msgstr "Dit verwijdert tags zoals &lt;em&gt; en &lt;strong&gt;."
+
+#: admin/class-strong-testimonials-helper.php:1312
+msgctxt "display setting"
+msgid "manual excerpt"
+msgstr "handmatige samenvatting"
+
+#: admin/class-strong-testimonials-helper.php:1311
+msgctxt "display setting"
+msgid "automatic excerpt"
+msgstr "automatische samenvatting"
+
+#: admin/class-strong-testimonials-helper.php:1310
+msgctxt "display setting"
+msgid "entire content"
+msgstr "volledige inhoud"
+
+#: includes/elementor/class-strong-elementor.php:38
+#: includes/elementor/class-strong-elementor.php:61
+msgid "Content"
+msgstr "Inhoud"
+
+#: admin/class-strong-testimonials-helper.php:1493
+msgid "Add Field"
+msgstr "Veld toevoegen"
+
+#: admin/class-strong-testimonials-helper.php:1069
+#: admin/class-strong-testimonials-helper.php:2092
+msgid "No categories found"
+msgstr "Geen categorieën gevonden"
+
+#: admin/class-strong-testimonials-helper.php:1041
+msgctxt "verb"
+msgid "select"
+msgstr "selecteer"
+
+#: admin/class-strong-testimonials-helper.php:1040
+#: admin/class-strong-testimonials-helper.php:1128
+msgid "all"
+msgstr "alle"
+
+#: admin/class-strong-testimonials-helper.php:2437
+msgid "To bottom"
+msgstr "Naar beneden"
+
+#: admin/class-strong-testimonials-helper.php:2425
+msgid "From top"
+msgstr "Vanaf het begin"
+
+#: admin/class-strong-testimonials-helper.php:2397
+msgid "preset"
+msgstr "vooraf ingesteld"
+
+#: admin/class-strong-testimonials-helper.php:2392
+msgid "gradient"
+msgstr "gradiënt"
+
+#: admin/class-strong-testimonials-helper.php:2387
+msgid "single color"
+msgstr "één kleur"
+
+#: admin/class-strong-testimonials-helper.php:451
+msgid "Background"
+msgstr "Achtergrond"
+
+#: admin/class-strong-testimonials-helper.php:413
+#: admin/class-strong-testimonials-helper.php:2001
+#: admin/class-strong-testimonials-helper.php:2031
+msgid "Style"
+msgstr "Stijl"
+
+#: admin/class-strong-testimonials-helper.php:370
+msgid "Actions"
+msgstr "Acties"
+
+#: admin/class-strong-testimonials-helper.php:267
+msgid "Extra"
+msgstr "Extra"
+
+#: admin/settings/partials/advanced-settings.php:22
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: admin/class-strong-testimonials-addons.php:199
+#: admin/class-strong-testimonials-addons.php:272
+msgid "License"
+msgstr "Licentie"
+
+#: admin/class-strong-testimonials-defaults.php:519
+#: admin/menu/class-strong-testimonials-menu-fields.php:45
+#: admin/menu/class-strong-testimonials-menu-fields.php:46
+#: admin/settings/class-strong-testimonials-form.php:49
+msgid "Form"
+msgstr "Formulier"
+
+#: admin/settings/class-strong-testimonials-settings-general.php:44
+msgctxt "adjective"
+msgid "General"
+msgstr "Algemeen"
+
+#: admin/settings/class-strong-testimonials-form.php:55
+#: admin/settings/class-strong-testimonials-settings.php:57
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: admin/class-strong-testimonials-helper.php:127
+#: admin/menu/class-strong-testimonials-menu-settings.php:47
+#: admin/menu/class-strong-testimonials-menu-settings.php:48
+#: admin/settings/class-strong-testimonials-settings-form.php:49
+#: admin/settings/class-strong-testimonials-settings.php:51
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/menu/class-strong-testimonials-menu-views.php:45
+#: admin/menu/class-strong-testimonials-menu-views.php:46 admin/views.php:75
+msgid "Views"
+msgstr "Views"
+
+#: admin/settings/partials/general.php:179
+msgid "More on embeds"
+msgstr "Meer over insluitingen"
+
+#: admin/settings/partials/general.php:175
+msgid "Leave empty for default width (usually 100% for videos). Height will be calculated automatically. This setting only applies to Views."
+msgstr "Laat leeg voor de standaard breedte (meestal 100% voor video's). De hoogte wordt automatisch berekend. Deze instelling geldt alleen voor views."
+
+#. Translators: %s is an input field.
+#: admin/settings/partials/general.php:173
+msgid "For embedded links (YouTube, Twitter, etc.) set the frame width to %s pixels."
+msgstr "Voor ingesloten links (YouTube, Twitter, enz.) stelt je de frame breedte in op %s pixels."
+
+#: admin/settings/partials/general.php:167
+msgid "Embed Width"
+msgstr "Breedte insluiting"
+
+#: admin/settings/partials/general.php:160
+msgid "For multiple testimonials, use <strong>Bulk Edit</strong> in the testimonial list."
+msgstr "Voor meerdere aanbevelingen gebruik je <strong>Bulk bewerken</strong> in de lijst met aanbevelingen."
+
+#: admin/settings/partials/general.php:159
+msgid "For individual testimonials, use the <strong>Discussion</strong> meta box in the post editor or <strong>Quick Edit</strong> in the testimonial list."
+msgstr "Voor individuele aanbevelingen gebruik je de <strong>Discussie</strong> meta box in het bericht editor of <strong>Snel bewerken</strong> in de lijst met aanbevelingen."
+
+#: admin/settings/partials/general.php:157
+msgid "To enable comments:"
+msgstr "Om reacties in te schakelen:"
+
+#: admin/settings/partials/general.php:153
+msgid "Allow comments on testimonials. Requires using your theme's single post template."
+msgstr "Laat reacties toe op aanbevelingen. Vereist het gebruik van je thema's single bericht template."
+
+#: admin/settings/partials/general.php:147
+msgid "Comments"
+msgstr "Reacties"
+
+#: admin/settings/partials/general.php:138
+msgid "Remove space between HTML tags in View output to prevent double paragraphs <em>(wpautop)</em>."
+msgstr "Spatie verwijderen tussen HTML tags in weergave uitvoer om dubbele paragrafen te voorkomen <em>(wpautop)</em>."
+
+#: admin/settings/partials/general.php:132
+msgid "Remove Whitespace"
+msgstr "Verwijder witruimte"
+
+#: admin/settings/partials/general.php:123
+msgid "When a new page is selected in paginated Views, scroll to the top of the container minus %s pixels."
+msgstr "Wanneer een nieuwe pagina wordt geselecteerd in gepagineerde views, scroll je naar de bovenkant van de container minus %s pixels."
+
+#: admin/settings/partials/general.php:117
+msgid "Scroll Top"
+msgstr "Naar boven scrollen"
+
+#: admin/class-strong-testimonials-helper.php:2545
+#: admin/settings/class-strong-testimonials-settings-compat.php:600
+#: admin/settings/class-strong-testimonials-settings-compat.php:692
+#: admin/settings/class-strong-testimonials-settings-compat.php:735
+#: admin/settings/partials/general.php:57
+msgid "For advanced users."
+msgstr "Voor gevorderde gebruikers."
+
+#: admin/settings/partials/general.php:54
+msgid "Show the <strong>Custom Fields</strong> meta box in the testimonial post editor. This does not affect the <strong>Client Details</strong> meta box."
+msgstr "Toon de meta box <strong>Aangepaste velden</strong> in de aanbeveling bericht editor. Dit heeft geen invloed op het meta box <strong>Klant details</strong>."
+
+#: admin/settings/partials/general.php:48
+msgid "Custom Fields Meta Box"
+msgstr "Aangepaste velden meta box"
+
+#: admin/settings/partials/general.php:16
+msgid "Pending Indicator"
+msgstr "In afwachting van indicator"
+
+#: admin/class-strong-testimonials-upsell.php:544
+#: admin/class-strong-testimonials-upsell.php:570
+msgid "Captcha"
+msgstr "Captcha"
+
+#: admin/class-strong-testimonials-helper.php:903
+#: admin/class-strong-testimonials-helper.php:951
+msgid "Recommended."
+msgstr "Aanbevolen."
+
+#: admin/class-strong-testimonials-upsell.php:514
+msgid "Form Spam Control"
+msgstr "Formulier spam controle"
+
+#: admin/settings/partials/form.php:110
+msgid "If success, scroll to the success message minus %s pixels. On by default."
+msgstr "Bij succes, scroll naar het succes bericht minus %s pixels. Staat standaard aan."
+
+#: admin/settings/partials/form.php:103
+msgid "If errors, scroll to the first error minus %s pixels. On by default."
+msgstr "Bij fouten, scroll naar de eerste fout minus %s pixels. Staat standaard aan."
+
+#: admin/settings/partials/form.php:95
+msgid "Scroll"
+msgstr "Scrollen"
+
+#: admin/settings/partials/form.php:206
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: admin/settings/partials/form.php:200
+msgid "Pending"
+msgstr "In afwachting"
+
+#: admin/settings/partials/form.php:192
+msgid "Post Status"
+msgstr "Berichtstatus"
+
+#: admin/settings/partials/form.php:127
+msgid "Form Actions"
+msgstr "Formulier acties"
+
+#: admin/settings/partials/form.php:76
+msgctxt "singular"
+msgid "restore default"
+msgstr "herstel standaard"
+
+#: admin/settings/partials/form.php:24
+msgid "Form Labels & Messages"
+msgstr "Formulier labels & berichten"
+
+#: admin/settings/partials/email.php:37
+msgid "message text"
+msgstr "berichttekst"
+
+#: admin/settings/partials/email.php:27
+msgid "Message"
+msgstr "Bericht"
+
+#: admin/settings/partials/email.php:16
+msgid "subject line"
+msgstr "onderwerpregel"
+
+#: admin/settings/partials/email.php:5
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: admin/settings/partials/email-from.php:82
+#: admin/settings/partials/recipient.php:49
+#: admin/settings/partials/recipient.php:61
+msgid "email address"
+msgstr "e-mailadres"
+
+#: admin/settings/partials/email-from.php:47
+#: admin/settings/partials/recipient.php:15
+msgid "(optional)"
+msgstr "(optioneel)"
+
+#: admin/class-strong-testimonials-defaults.php:265
+#: admin/class-strong-testimonials-defaults.php:345
+#: admin/settings/partials/email-from.php:31
+#: admin/settings/partials/email-to.php:20
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/class-strong-testimonials-help.php:196
+#: admin/class-strong-testimonials-helper.php:2014
+msgid "Pagination"
+msgstr "Paginering"
+
+#: admin/class-strong-testimonials-help.php:185
+msgid "works in a widget"
+msgstr "werkt in een widget"
+
+#: admin/class-strong-testimonials-help.php:182
+#: admin/class-strong-testimonials-help.php:187
+#: admin/class-strong-testimonials-post-editor.php:189
+#: admin/class-strong-testimonials-post-editor.php:197
+#: admin/class-strong-testimonials-post-editor.php:205
+msgid "no"
+msgstr "nee"
+
+#: admin/class-strong-testimonials-help.php:181
+#: admin/class-strong-testimonials-help.php:186
+#: admin/class-strong-testimonials-post-editor.php:188
+#: admin/class-strong-testimonials-post-editor.php:196
+#: admin/class-strong-testimonials-post-editor.php:204
+msgid "yes"
+msgstr "ja"
+
+#: admin/class-strong-testimonials-help.php:180
+msgid "works with random order option"
+msgstr "werkt met de willekeurige volgorde optie"
+
+#: admin/class-strong-testimonials-help.php:177
+msgid "You will return the last page you were on so this works well with \"Read more\" links."
+msgstr "Je keert terug naar de laatste pagina waar je was, dus dit werkt goed met \"Lees meer\" links."
+
+#: admin/class-strong-testimonials-help.php:176
+msgid "It does not remember which page of testimonials you are on. If you click away &ndash; for example, on a \"Read more\" link &ndash; then click back, you will return to page one."
+msgstr "Het onthoudt niet op welke pagina van aanbevelingen je je bevindt. Als je bijvoorbeeld wegklikt &ndash; op een \"Lees meer\"-link &ndash; en vervolgens terug klikt, keer je terug naar pagina één."
+
+#: admin/class-strong-testimonials-help.php:175
+msgid "the Back button"
+msgstr "de terug knop"
+
+#: admin/class-strong-testimonials-help.php:172
+msgid "uses paged URLs just like standard WordPress posts"
+msgstr "gebruikt gepagineerde URL's net als standaard WordPress berichten"
+
+#: admin/class-strong-testimonials-help.php:171
+msgid "does not change the URL"
+msgstr "verandert de URL niet"
+
+#: admin/class-strong-testimonials-help.php:170
+msgid "URLs"
+msgstr "URL's"
+
+#: admin/class-strong-testimonials-help.php:167
+msgid "more than ten pages"
+msgstr "meer dan tien pagina's"
+
+#: admin/class-strong-testimonials-help.php:166
+msgid "ten pages or less"
+msgstr "tien pagina's of minder"
+
+#: admin/class-strong-testimonials-help.php:165
+msgid "best use"
+msgstr "optimaal gebruik"
+
+#: admin/class-strong-testimonials-help.php:160
+msgid "Standard"
+msgstr "Standaard"
+
+#: admin/class-strong-testimonials-help.php:159
+msgid "Simple"
+msgstr "Eenvoudig"
+
+#: admin/class-strong-testimonials-help.php:153
+msgid "Some of the features and drawbacks for each method."
+msgstr "Enkele functies en nadelen van elke methode."
+
+#: admin/class-strong-testimonials-help.php:75
+msgid "Form Fields"
+msgstr "Formuliervelden"
+
+#: includes/l10n-polylang.php:168
+msgid "Translate these fields in <a href=\"%s\">Polylang String Translations</a>"
+msgstr "Vertaal deze velden in <a href=\"%s\">Polylang String Translations</a>"
+
+#: includes/l10n-wpml.php:237
+msgid "Translate these fields in <a href=\"%s\">WPML String Translations</a>"
+msgstr "Vertaal deze velden in <a href=\"%s\">WPML String Translations</a>"
+
+#: admin/class-strong-testimonials-help.php:68
+msgid "Form settings"
+msgstr "Formulierinstellingen"
+
+#: admin/class-strong-testimonials-help.php:60
+msgid "Reorder by grabbing the %s icon."
+msgstr "Herschikken door het %s pictogram te pakken."
+
+#: admin/class-strong-testimonials-help.php:60
+msgid "Fields will appear in this order on the form."
+msgstr "Velden staan in deze volgorde op het formulier."
+
+#: admin/class-strong-testimonials-help.php:59
+msgid "The default fields are designed to fit most situations. You can quickly add or remove fields and change several display properties."
+msgstr "De standaard velden zijn ontworpen voor de meeste situaties. Je kunt snel velden toevoegen of verwijderen en verschillende weergave eigenschappen wijzigen."
+
+#: admin/about/class-strong-testimonials-welcome.php:44
+#: admin/about/class-strong-testimonials-welcome.php:45
+msgid "Welcome to Strong Testimonials"
+msgstr "Welkom op Strong Testimonials"
+
+#: admin/class-strong-testimonials-defaults.php:489
+msgid "Subscribe to our newsletter."
+msgstr "Meld je aan voor onze nieuwsbrief."
+
+#: admin/class-strong-testimonials-defaults.php:316
+msgid "Star rating"
+msgstr "Ster waardering"
+
+#: admin/custom-fields.php:468
+msgid "Show this field in the admin list table."
+msgstr "Toon dit veld in de beheerder lijst tabel."
+
+#: admin/custom-fields.php:465
+msgid "required"
+msgstr "vereist"
+
+#: admin/custom-fields.php:460
+msgid "Admin List"
+msgstr "Beheer lijst"
+
+#: admin/custom-fields.php:433
+msgid "Shortcode on display"
+msgstr "Shortcode op display"
+
+#: admin/custom-fields.php:425
+msgid "Shortcode on form"
+msgstr "Shortcode op formulier"
+
+#: admin/custom-fields.php:412
+msgid "Display this on the testimonial if no value is submitted."
+msgstr "Toon dit op de aanbeveling als er geen waarde is opgegeven."
+
+#: admin/custom-fields.php:401
+msgid "Default Display Value"
+msgstr "Standaard weergave waarde"
+
+#: admin/custom-fields.php:372 admin/custom-fields.php:384
+msgid "Populate the field with this value."
+msgstr "Vul het veld met deze waarde."
+
+#: admin/custom-fields.php:364
+msgid "Default Form Value"
+msgstr "Standaard formulier waarde"
+
+#: admin/custom-fields.php:354
+msgid "After"
+msgstr "Na"
+
+#: admin/custom-fields.php:346 admin/views.php:449
+msgid "Before"
+msgstr "Voor"
+
+#: admin/custom-fields.php:310
+msgid "Placeholder"
+msgstr "Plaatshouder"
+
+#: admin/custom-fields.php:292
+msgid "Required"
+msgstr "Vereist"
+
+#: admin/partials/fields/field-controls.php:11
+msgctxt "verb"
+msgid "Close"
+msgstr "Sluit"
+
+#: admin/class-strong-views-list-table.php:166
+#: admin/partials/fields/field-controls.php:9
+msgid "Delete"
+msgstr "Verwijder"
+
+#: admin/partials/fields/field-type.php:34
+msgid "Special Fields"
+msgstr "Speciale velden"
+
+#: admin/class-strong-testimonials-upsell.php:342
+#: admin/partials/fields/field-type.php:27
+msgid "Custom Fields"
+msgstr "Aangepaste velden"
+
+#: admin/partials/fields/field-type.php:20
+msgid "Post Fields"
+msgstr "Berichtvelden"
+
+#: admin/partials/fields/field-type.php:9
+msgctxt "noun"
+msgid "Type"
+msgstr "Type"
+
+#: admin/partials/fields/field-name.php:16
+msgid "Cannot be \"name\" or \"date\"."
+msgstr "Kan niet \"name\" of \"date\" zijn."
+
+#: admin/partials/fields/field-name.php:15
+msgid "Use only lowercase letters, numbers, and underscores."
+msgstr "Gebruik alleen kleine letters, getallen, en onderstrepingstekens."
+
+#: admin/partials/fields/field-name.php:9
+msgctxt "noun"
+msgid "Name"
+msgstr "Noem"
+
+#: admin/partials/fields/field-label.php:12
+msgid "Show this label on the form."
+msgstr "Toon dit label op het formulier."
+
+#: admin/partials/fields/field-label.php:7
+msgctxt "noun"
+msgid "Label"
+msgstr "Label"
+
+#: admin/partials/fields/field-header.php:10 admin/views.php:374
+msgid "drag and drop to reorder"
+msgstr "verslepen om opnieuw te ordenen"
+
+#: admin/partials/fields/field-header.php:8 admin/views.php:368
+#: admin/views.php:381
+msgid "click to open or close"
+msgstr "klik om te openen of te sluiten"
+
+#: admin/custom-fields.php:207
+msgid "Only to demonstrate the fields. May look different in your theme."
+msgstr "Alleen om de velden te demonstreren. Kan er anders uitzien in je thema."
+
+#: admin/custom-fields.php:206
+msgid "Basic Preview"
+msgstr "Basis voorbeeld"
+
+#: admin/class-strong-testimonials-helper.php:589 admin/custom-fields.php:199
+msgid "Restore Defaults"
+msgstr "Standaardwaarden herstellen"
+
+#: admin/custom-fields.php:191
+msgid "Add New Field"
+msgstr "Nieuw veld toevoegen"
+
+#: admin/custom-fields.php:169
+msgid "Click a field to open its options panel."
+msgstr "Klik op een veld om het paneel met opties te openen."
+
+#: admin/class-strong-testimonials-helper.php:204
+#: includes/class-strong-form.php:45
+msgid "Fields"
+msgstr "Velden"
+
+#: admin/admin-notices.php:78
+msgid "Fields saved."
+msgstr "Velden opgeslagen."
+
+#: admin/admin-notices.php:66 admin/views.php:36
+msgid "Defaults restored."
+msgstr "Standaardwaarden teruggezet."
+
+#: admin/custom-fields.php:154
+msgid "No fields selected."
+msgstr "Geen velden geselecteerd."
+
+#: admin/custom-fields.php:150
+#: admin/settings/class-strong-testimonials-form.php:42
+#: admin/settings/class-strong-testimonials-settings.php:44 admin/views.php:16
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende toestemming om deze pagina te benaderen."
+
+#: admin/admin.php:24
+msgctxt "installation"
+msgid "Back to the WordPress <a href=\"%s\">Plugins page</a>"
+msgstr "Terug naar de WordPress <a href=\"%s\">Plugins pagina</a>"
+
+#: admin/admin.php:23
+msgctxt "installation"
+msgid "Please upgrade WordPress and try again."
+msgstr "Upgrade WordPress en probeer het nogmaals."
+
+#. translators: %s is a WordPress version number.
+#: admin/admin.php:22
+msgctxt "installation"
+msgid "This plugin requires <strong>WordPress %s</strong> or higher so it has been deactivated."
+msgstr "Deze plugin vereist <strong>WordPress %s</strong> of hoger, en is daarom gedeactiveerd."
+
+#. translators: %s is the name of the plugin.
+#: admin/admin.php:20
+msgctxt "installation"
+msgid "Unable to load %s"
+msgstr "Niet mogelijk om %s te laden"
+
+#: admin/class-strong-testimonials-admin-category-list.php:42
+#: admin/class-strong-testimonials-helper.php:1684
+msgid "Posts"
+msgstr "Berichten"
+
+#: admin/class-strong-testimonials-admin-category-list.php:41
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/class-strong-testimonials-admin-category-list.php:40
+#: admin/class-strong-testimonials-defaults.php:336
+#: admin/class-strong-testimonials-helper.php:624
+#: admin/class-strong-views-list-table.php:100
+#: admin/settings/partials/email-from.php:25
+#: admin/settings/partials/email-to.php:14 admin/views.php:391
+msgid "Name"
+msgstr "Naam"
+
+#: admin/class-strong-testimonials-admin-category-list.php:39
+#: admin/class-strong-views-list-table.php:97
+msgid "ID"
+msgstr "ID"
+
+#: admin/class-strong-testimonials-admin-list.php:127
+msgid "Date"
+msgstr "Datum"
+
+#: admin/class-strong-testimonials-admin-list.php:120
+#: admin/class-strong-testimonials-helper.php:158 includes/post-types.php:129
+msgid "Categories"
+msgstr "Categorieën"
+
+#: admin/class-strong-testimonials-admin-list.php:108
+msgid "Rating"
+msgstr "Waardering"
+
+#: admin/class-strong-testimonials-admin-list.php:106
+#: admin/class-strong-testimonials-admin-list.php:244
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: admin/class-strong-testimonials-admin-list.php:96
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: admin/class-strong-testimonials-post-editor.php:262
+#: admin/class-strong-views-list-table.php:164
+msgid "Edit"
+msgstr "Bewerken"
+
+#: admin/class-strong-testimonials-post-editor.php:249
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: admin/class-strong-testimonials-post-editor.php:248
+msgid "OK"
+msgstr "OK"
+
+#: admin/class-strong-testimonials-post-editor.php:61
+msgctxt "post editor"
+msgid "To add a photo or logo, use the Featured Image option."
+msgstr "Om een foto of logo toe te voegen kun je de Uitgelichte Afbeelding optie gebruiken."
+
+#: admin/class-strong-testimonials-post-editor.php:39
+msgctxt "post editor"
+msgid "Client Details"
+msgstr "Klantgegevens"

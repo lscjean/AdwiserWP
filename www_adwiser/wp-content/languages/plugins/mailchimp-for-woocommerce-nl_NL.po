@@ -1,0 +1,1623 @@
+# Translation of Plugins - Mailchimp for WooCommerce - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Mailchimp for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-10 22:51:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Mailchimp for WooCommerce - Stable (latest release)\n"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:348
+msgid "It seems account with this email already created. You may try to login with this username."
+msgstr "Het lijkt erop dat er al een account met dit e-mailadres is aangemaakt. Je kunt proberen in te loggen met deze gebruikersnaam."
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:347
+msgid "Login"
+msgstr "Login"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:285
+msgid "To start using Mailchimp, activate your account with the link sent to "
+msgstr "Om Mailchimp te gaan gebruiken, activeer je je account met de link die is verzonden naar "
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:284
+msgid "Check your email"
+msgstr "Controleer je e-mail"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:278
+msgid "Activate Account"
+msgstr "Account activeren"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:185
+msgid "Zip/Postal code"
+msgstr "Postcode"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:175
+msgid "State/Province/Region"
+msgstr "Staat/provincie/regio"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:159
+msgid "Address line 2"
+msgstr "Adresregel 2"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:149
+msgid "Address line 1 (Street address or post office box)"
+msgstr "Adresregel 1 (Straatadres of postbus)"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:142
+msgid "Business Address"
+msgstr "Bedrijfsadres"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:131
+msgid "Confirm Email"
+msgstr "Bevestig e-mail"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:111
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:107
+msgid "You can always change this later in your account settings."
+msgstr "Je kunt dit altijd later nog wijzigen in je accountinstellingen."
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:102
+msgid "Business name"
+msgstr "Bedrijfsnaam"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:78
+msgid "Profile details"
+msgstr "Profiel details"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:77
+msgid "Confirm your information"
+msgstr "Bevestig je informatie"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:69
+msgid "Choose plan"
+msgstr "Abonnement kiezen"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:63
+msgid "Activate account"
+msgstr "Account activeren"
+
+#: admin/v2/templates/connect-accounts/create-account-page.php:57
+msgid "Sign up"
+msgstr "Aanmelden"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:110
+msgid "Enjoying this plugin? <a href=%s target=_blank class=\"js-mailchimp-woocommerce-send-event\" data-mc-event=\"leave_review\">Leave us a review!</a>"
+msgstr "Geniet je van deze plugin? <a href=%s target=_blank class=\"js-mailchimp-woocommerce-send-event\" data-mc-event=\"leave_review\">Laat een beoordeling achter!</a>"
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:61
+msgid "Trigger a resync of data from your WooCommerce store to Mailchimp. This does not affect the data on your WooCommerce account. "
+msgstr "Activeer een nieuwe synchronisatie van gegevens van je WooCommerce winkel naar Mailchimp. Dit heeft geen invloed op de gegevens op je WooCommerce account. "
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:58
+msgid "Data resync"
+msgstr "Gegevens opnieuw synchroniseren"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2301
+msgid "No event provided"
+msgstr "Geen evenement voorzien"
+
+#: admin/v2/templates/connect-accounts/button-actions.php:17
+msgid "Connect Account"
+msgstr "Account verbinden"
+
+#: admin/v2/templates/review-sync-settings/header.php:66
+msgid "Sync your store data using the default settings, or configure how your WooCommerce data will sync to Mailchimp."
+msgstr "Synchroniseer je winkelgegevens met de standaardinstellingen, of configureer hoe je WooCommerce gegevens synchroniseren met Mailchimp."
+
+#: admin/v2/templates/review-sync-settings/header.php:60
+msgid "Switch account"
+msgstr "Account wisselen"
+
+#: admin/v2/templates/review-sync-settings/header.php:55
+msgid "Authorized"
+msgstr "Geautoriseerd"
+
+#: admin/v2/templates/review-sync-settings/header.php:13
+msgid "Review your sync settings"
+msgstr "Controleer je synchronisatie instellingen"
+
+#: admin/v2/templates/review-sync-settings/content.php:152
+msgid "Tag WooCommerce customers"
+msgstr "Tag WooCommerce klanten"
+
+#: admin/v2/templates/review-sync-settings/content.php:135
+msgid "Abandoned Cart automations."
+msgstr "Verlaten winkelwagen automatiseringen."
+
+#: admin/v2/templates/review-sync-settings/content.php:135
+msgid "Import new customers who haven’t opted in to receive your email marketing.  This setting must be active to use"
+msgstr "Importeer nieuwe klanten die niet hebben gekozen voor het ontvangen van je e-mailmarketing. Deze instelling moet actief zijn om te gebruiken"
+
+#: admin/v2/templates/review-sync-settings/content.php:123
+msgid "Import customers (ongoing sync)"
+msgstr "Importeer klanten (doorlopende synchronisatie)"
+
+#: admin/v2/templates/review-sync-settings/content.php:119
+msgid "Learn about additional charges."
+msgstr "Leer over extra kosten."
+
+#: admin/v2/templates/review-sync-settings/content.php:119
+msgid "that includes "
+msgstr "dat omvat "
+
+#: admin/v2/templates/review-sync-settings/content.php:119
+msgid "a Mailchimp plan"
+msgstr "een Mailchimp abonnement"
+
+#: admin/v2/templates/review-sync-settings/content.php:119
+msgid "If you choose to sync customers as subscribed or non-subscribed, you will need"
+msgstr "Als je ervoor kiest om klanten te synchroniseren als geabonneerd of niet geabonneerd, heeft je nodig"
+
+#: admin/v2/templates/review-sync-settings/content.php:114
+msgid "Only WooCommerce customers who are already in your Mailchimp audience will sync. You won’t be able to send your other customers postcards or target them with ads."
+msgstr "Alleen WooCommerce klanten die al in je Mailchimp doelgroep zitten, zullen synchroniseren. Je kunt je andere klanten geen ansichtkaarten sturen of hen met advertenties targeten."
+
+#: admin/v2/templates/review-sync-settings/content.php:109
+msgid "Sync existing contacts only"
+msgstr "Synchroniseer alleen bestaande contacten"
+
+#: admin/v2/templates/review-sync-settings/content.php:101
+msgid "transactional emails and postcards and target them with ads."
+msgstr "transactionele e-mails en ansichtkaarten en richt ze met advertenties."
+
+#: admin/v2/templates/review-sync-settings/content.php:101
+msgid "non-subscribed contacts"
+msgstr "niet geabonneerde contacten"
+
+#: admin/v2/templates/review-sync-settings/content.php:101
+msgid "This status indicates you haven’t gotten permission to market to these customers. However, you can use Mailchimp to send "
+msgstr "Deze status geeft aan dat je geen toestemming heeft gekregen om deze klanten te benaderen voor marketingdoeleinden. Je kunt echter Mailchimp gebruiken om te verzenden "
+
+#: admin/v2/templates/review-sync-settings/content.php:96
+msgid "Sync as non-subscribed"
+msgstr "Synchroniseer als niet geabonneerd"
+
+#: admin/v2/templates/review-sync-settings/content.php:88
+msgid "importance of permission."
+msgstr "belang van toestemming."
+
+#: admin/v2/templates/review-sync-settings/content.php:88
+msgid "This status indicates that you've gotten permission to market to your customers. Learn more about the "
+msgstr "Deze status geeft aan dat je toestemming heeft gekregen om je klanten te benaderen. Meer informatie over het "
+
+#: admin/v2/templates/review-sync-settings/content.php:83
+msgid "Sync as subscribed"
+msgstr "Synchroniseer als geabonneerd"
+
+#: admin/v2/templates/review-sync-settings/content.php:75
+msgid "Choose how you’ll add your "
+msgstr "Kies hoe je je "
+
+#: admin/v2/templates/review-sync-settings/content.php:73
+msgid "Import customers (initial sync)"
+msgstr "Importeer klanten (initiële synchronisatie)"
+
+#: admin/v2/templates/review-sync-settings/content.php:67
+msgid "Confirm the Mailchimp audience you want to associate with your WooCommerce store"
+msgstr "Bevestig het Mailchimp publiek dat je wil koppelen aan je WooCommerce winkel"
+
+#: admin/v2/templates/review-sync-settings/content.php:45
+msgid "Linked audience"
+msgstr "Gekoppelde doelgroep"
+
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:203
+#: admin/v2/templates/review-sync-settings/header.php:67
+msgid "Sync now"
+msgstr "Nu synchroniseren"
+
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:126
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:128
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:119
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:121
+msgid "Review sync settings"
+msgstr "Instellingen voor synchronisatie beoordelen"
+
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:112
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:114
+msgid "Connect accounts"
+msgstr "Accounts koppelen"
+
+#: admin/v2/templates/connect-accounts/header.php:11
+msgid "Account Connect"
+msgstr "Account koppelen"
+
+#: admin/v2/templates/connect-accounts/header.php:6
+msgid "Log in to your Mailchimp account to install the app, or create a new account to authorize and connect to WooCommerce. Setup should take about 5-10 minutes."
+msgstr "Log in op je Mailchimp account om de app te installeren, of maak een nieuw account aan om te autoriseren en te verbinden met WooCommerce. De installatie zou ongeveer 5-10 minuten moeten duren."
+
+#: admin/v2/templates/connect-accounts/header.php:4
+msgid "Let’s connect <br>  "
+msgstr "Laten we verbinden <br>  "
+
+#: admin/v2/templates/connect-accounts/button-actions.php:18
+msgid "Create account"
+msgstr "Maak account"
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:146
+msgid "Product image size"
+msgstr "Productafbeelding grootte"
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:134
+msgid "Checkbox message"
+msgstr "Selectievak bericht"
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:97
+msgid "Your checkout page is using WooCommerce the Classic Checkout Shortcode. To change the opt-in checkbox at checkout, input one of the <a href=%s target=\"_blank\">available WooCommerce form actions</a>."
+msgstr "Je afrekenpagina gebruikt de klassieke afreken shortcode van WooCommerce. Om het selectievakje voor aanmelding bij het afrekenen te wijzigen, voer je een van de <a href=%s target=\"_blank\">beschikbare WooCommerce formulieracties</a> in."
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:92
+msgid "Your checkout page is using WooCommerce blocks. Settings are available within the block options while editing the <a href=%s target=\"_blank\">checkout page</a>."
+msgstr "Je afrekenpagina gebruikt WooCommerce blokken. Instellingen zijn beschikbaar binnen de blokopties tijdens het bewerken van de <a href=%s target=\"_blank\">afrekenpagina</a>."
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:86
+msgid "Checkout page settings"
+msgstr "Afrekenpagina instellingen"
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:66
+msgid "Plugin permission level"
+msgstr "Machtigingsniveau voor plugins"
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:63
+msgid "Select the minimum permission capability to manage Mailchimp for Woocommerce options."
+msgstr "Selecteer de minimale machtigingsmogelijkheid om Mailchimp voor WooCommerce opties te beheren."
+
+#. translators: %1$s - The Currency name and format (ex: USD | US Dollar) %2$s
+#. - Timezone name or offset (ex: America/New_York or UTC-4:00) %3$s and %5$s-
+#. <a> tag open %4$s - </a> tag close
+#: admin/v2/templates/confirmation/tabs/store-info.php:36
+msgid "We've detected that your WooCommerce store's currency is <b>%1$s</b> (%3$schange%4$s), and the WordPress timezone is a <b>%2$s</b> (%5$schange%4$s). Please apply your locale settings. If you're unsure about these, use the defaults."
+msgstr "We hebben vastgesteld dat de valuta van je WooCommerce winkel <b>%1$s</b> is (%3$swijzig%4$s), en de tijdzone van WordPress is <b>%2$s</b> (%5$swijzig%4$s). Pas je lokale instellingen toe. Als je hierover twijfelt, gebruik dan de standaardinstellingen."
+
+#: admin/v2/templates/confirmation/tabs/store-info.php:30
+msgid "Store settings"
+msgstr "Winkel instellingen"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:296
+msgid "Create your first email"
+msgstr "Maak je eerste e-mail"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:294
+msgid "Get started with flexible templates, drag-and-drop design, and our built-in, expert advice. AI-assisted tools can help generate and optimize your content."
+msgstr "Begin met flexibele templates, slepen-en-neerzetten ontwerp, en onze ingebouwde, deskundige adviezen. AI-ondersteunde gereedschap kan helpen bij het genereren en optimaliseren van je inhoud."
+
+#: admin/v2/templates/confirmation/tabs/overview.php:292
+msgid "Design high-performance emails in minutes"
+msgstr "Ontwerp hoogwaardige e-mails in enkele minuten"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:284
+msgid "*Requires paid plan. Functionality and features vary by plan."
+msgstr "*Vereist betaald abonnement. Functionaliteit en functies variëren per abonnement."
+
+#: admin/v2/templates/confirmation/tabs/overview.php:283
+msgid "Create abandoned cart journey"
+msgstr "Maak een verlaten winkelwagen traject"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:281
+msgid "Send targeted emails to customers who leave without completing their purchase. When you use Customer Journey Builder to automatically nudge customers, you could see up to 4x more orders than if you use bulk email.*"
+msgstr "Stuur gerichte e-mails naar klanten die vertrekken zonder hun aankoop af te ronden. Wanneer je Customer Journey Builder gebruikt om klanten automatisch een zetje te geven, kun je tot 4x meer bestellingen zien dan wanneer je bulk e-mail gebruikt.*"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:279
+msgid "Bring customers back to their shopping carts"
+msgstr "Breng klanten terug naar hun winkelwagens"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:271
+msgid "Create a pop-up form"
+msgstr "Maak een pop-up formulier"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:259
+msgid "Turn visitors into subscribers with a customizable pop-up form that embeds on your WooCommerce storefront – no coding needed. <a href=%s target=_blank>Automate your follow-up with a special welcome offer or discount.</a>"
+msgstr "Zet bezoekers om in abonnees met een aanpasbaar pop-upformulier dat zich integreert in je WooCommerce winkel – geen codering nodig. <a href=%s target=_blank>Automatiseer je opvolging met een speciale welkomstaanbieding of korting.</a>"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:252
+msgid "Add a sign-up form to your store"
+msgstr "Voeg een inschrijfformulier toe aan je winkel"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:247
+msgid "Here’s what we recommend you do next..."
+msgstr "Hier is wat we aanbevelen dat je vervolgens doet..."
+
+#: admin/v2/templates/confirmation/tabs/overview.php:216
+msgid "Promo codes"
+msgstr "Promotie code"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:184
+msgid "Contacts"
+msgstr "Contacten"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:166
+msgid "at"
+msgstr "bij"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:157
+msgid "Last sync"
+msgstr "Laatste synchronisatie"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:100
+msgid "Review your data in real time"
+msgstr "Controleer je gegevens in realtime"
+
+#: admin/v2/templates/confirmation/tabs/logs.php:72
+msgid "Recent logs"
+msgstr "Recente logs"
+
+#: admin/v2/templates/confirmation/tabs/logs.php:47
+msgid "Advanced troubleshooting can be conducted with the logging capability turned on. By default, it’s set to “standard” and you may toggle to either “debug” or “none” as needed. With standard logging, you can see basic information about the data submission to Mailchimp including any errors. “Debug” gives a much deeper insight that is useful to share with support if problems arise."
+msgstr "Geavanceerde probleemoplossing kan worden uitgevoerd met de logging rechten ingeschakeld. Deze is standaard ingesteld op \"standaard\" en u kunt deze naar behoefte togglen naar \"debug\" of \"geen\". Met standaard logging kunt u basisinformatie zien over de gegevensverzending naar Mailchimp, inclusief eventuele fouten. \"Debug\" geeft een veel dieper inzicht dat handig is om te delen met ondersteuning als er problemen optreden."
+
+#: admin/v2/templates/confirmation/tabs/logs.php:44
+msgid "Activity logs"
+msgstr "Activiteiten logs"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:124
+#: admin/v2/templates/review-sync-settings/content.php:164
+msgid "Add"
+msgstr "Toevoegen"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:119
+#: admin/v2/templates/review-sync-settings/content.php:159
+msgid "Enter tag"
+msgstr "Voer tag in"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:104
+#: admin/v2/templates/review-sync-settings/content.php:154
+msgid "Tagging helps you filter your contacts and personalize your marketing in Mailchimp. Any tags created here will be applied to all contacts imported through this plugin."
+msgstr "Taggen helpt je om je contacten te filteren en je marketing in Mailchimp te personaliseren. Alle tags die hier worden gemaakt, worden toegepast op alle contacten die via deze plugin worden geïmporteerd."
+
+#: admin/v2/templates/confirmation/tabs/audience.php:101
+msgid "Tag contacts from WooCommerce"
+msgstr "Tag contacten vanuit WooCommerce"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:88
+msgid "Sync customers that have never opted in to receive your email marketing. You can use Mailchimp to send <a href=%s target=\"_blank\">non-subscribed contacts</a> transactional emails (such as <a href=%s target=\"_blank\">Abandoned Cart automations</a>) and target them with ads."
+msgstr "Synchroniseer klanten die nooit hebben gekozen om je e-mailmarketing te ontvangen. Je kunt Mailchimp gebruiken om <a href=%s target=\"_blank\">niet-geabonneerde contacten</a> transactionele e-mails te sturen (zoals <a href=%s target=\"_blank\">automatiseringen voor verlaten winkelwagens</a>) en hen met advertenties te targeten."
+
+#: admin/v2/templates/confirmation/tabs/audience.php:81
+#: admin/v2/templates/review-sync-settings/content.php:130
+msgid "Sync new non-subscribed contacts"
+msgstr "Synchroniseer nieuwe niet geabonneerde contacten"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:71
+msgid "Contact import preferences"
+msgstr "Contact importvoorkeuren"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:57
+msgid "Only track carts for subscribed contacts"
+msgstr "Volg alleen winkelwagens voor geabonneerde contacten"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:44
+msgid "Sync real-time shopping cart activity to Mailchimp."
+msgstr "Synchroniseer winkelwagenactiviteit in real-time met Mailchimp."
+
+#: admin/v2/templates/confirmation/tabs/audience.php:41
+msgid "Cart tracking preferences"
+msgstr "Winkelwagen tracering voorkeuren"
+
+#: admin/v2/templates/confirmation/tabs/audience.php:30
+msgid "If you plan to use <a href=%s target=\"_blank\">Abandoned Cart automations</a>, choose the option to <b>track carts for all customers</b> and select the checkbox to <b>sync new non-subscribed contacts</b>."
+msgstr "Als je van plan bent <a href=%s target=\"_blank\">Abandoned Cart automations</a> te gebruiken, kies dan de optie om <b>winkelwagens voor alle klanten te volgen</b> en selecteer het selectievakje om <b>nieuwe niet geabonneerde contacten te synchroniseren</b>."
+
+#: admin/v2/templates/confirmation/tabs/audience.php:15
+msgid "Audience settings"
+msgstr "Doelgroep instellingen"
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:74
+msgid "Disconnect and stop syncing data from your WooCommerce store to Mailchimp. This does not affect the data on your WooCommerce account. "
+msgstr "Verbreek de verbinding en stop met het synchroniseren van gegevens van je WooCommerce winkel naar Mailchimp. Dit heeft geen invloed op de gegevens in je WooCommerce account. "
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:71
+#: admin/v2/templates/confirmation/tabs/advanced.php:78
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:50
+msgid "Occasionally we may send you updates, articles and other news to the store’s admin email address. Choose whether or not you want to receive these messages at %s."
+msgstr "Af en toe sturen we updates, artikelen en ander nieuws naar het beheer e-mailadres van de winkel. Kies of je deze berichten wil ontvangen op %s."
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:45
+msgid "Opt-in to email"
+msgstr "Opt-in voor e-mail"
+
+#: admin/v2/templates/confirmation/tabs/advanced.php:24
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: admin/v2/templates/confirmation/header.php:34
+msgid "Continue to Mailchimp"
+msgstr "Ga verder naar Mailchimp"
+
+#: admin/v2/templates/confirmation/header.php:33
+msgid "Most syncs take less than a few hours, but larger stores could take longer. We’ll send an email to %s when the sync is finished. Head to your Mailchimp dashboard to continue setup while your sync is in progress."
+msgstr "De meeste synchronisaties duren minder dan een paar uur, maar grotere winkels kunnen langer duren. We sturen een e-mail naar %s wanneer de synchronisatie is afgerond. Ga naar je Mailchimp dashboard om de installatie voort te zetten terwijl je synchronisatie bezig is."
+
+#: admin/v2/templates/confirmation/header.php:27
+#: admin/v2/templates/review-sync-settings/header.php:17
+msgid "Mailchimp Woocommerce"
+msgstr "Mailchimp WooCommerce"
+
+#: admin/v2/templates/confirmation/header.php:23
+msgid "You’re on your way!"
+msgstr "Je bent op weg!"
+
+#: admin/class-mailchimp-woocommerce-admin.php:168
+msgid "Save error"
+msgstr "Opslagfout"
+
+#: admin/class-mailchimp-woocommerce-admin.php:167
+msgid "Changes Saved"
+msgstr "Wijzigingen opgeslagen"
+
+#: admin/user-profile/mailchimp-user-profile.php:53
+#: public/partials/mailchimp-woocommerce-my-account.php:28
+msgid "Receive Order Updates"
+msgstr "Bestelling updates ontvangen"
+
+#: admin/user-profile/mailchimp-user-profile.php:41
+#: public/partials/mailchimp-woocommerce-my-account.php:19
+msgid "Unsubscribe from our newsletter"
+msgstr "Afmelden van onze nieuwsbrief"
+
+#: admin/partials/tabs/newsletter-settings.php:205
+msgid "Checkout page is using Woocommerce blocks. Settings are available within the block options while editing the <a href=\"%s\">checkout page</a>."
+msgstr "Afrekenpagina gebruikt Woocommerce blokken. Instellingen zijn beschikbaar binnen de blokopties tijdens het bewerken van de <a href=\"%s\">afrekenpagina</a>."
+
+#: blocks/woocommerce-blocks-extend-store-endpoint.php:78
+msgid "GDPR marketing opt-in."
+msgstr "AVG/GDPR marketing opt-in."
+
+#: admin/user-profile/mailchimp-user-profile.php:5
+msgid "User Subscribed"
+msgstr "Gebruiker geabonneerd"
+
+#: admin/partials/tabs/plugin-settings.php:44
+#: admin/v2/templates/confirmation/tabs/advanced.php:32
+msgid "Enable support"
+msgstr "Ondersteuning inschakelen"
+
+#: admin/partials/tabs/plugin-settings.php:32
+#: admin/v2/templates/confirmation/tabs/advanced.php:37
+msgid "Remote diagnostics for the Mailchimp for WooCommerce plugin allows our development team to troubleshoot syncing issues."
+msgstr "Diagnose op afstand voor de Mailchimp voor WooCommerce plugin stelt ons ontwikkelingsteam in staat om problemen met synchronisatie op te lossen."
+
+#: admin/partials/tabs/plugin-settings.php:27
+msgid "Remote Diagnostics"
+msgstr "Diagnose op afstand"
+
+#. translators: Placeholders %1$s - opening strong HTML tag, %2$s
+#: admin/class-mailchimp-woocommerce-admin.php:474
+msgid "%1$sMailchimp for Woocommerce%2$s needs Action Scheduler plugin to function correctly, please confirm is installed"
+msgstr "%1$sMailchimp voor WooCommerce%2$s heeft de Action Scheduler plugin nodig om correct te functioneren, bevestig dat deze is geïnstalleerd"
+
+#: blocks/assets/js/checkout-newsletter-subscription-block/block.json
+msgctxt "block description"
+msgid "Adds a newsletter subscription checkbox to the checkout."
+msgstr "Voegt een nieuwsbrief abonnement selectievakje toe aan het afrekenen."
+
+#: blocks/assets/js/checkout-newsletter-subscription-block/block.json
+msgctxt "block title"
+msgid "Mailchimp Newsletter!"
+msgstr "Mailchimp nieuwsbrief!"
+
+#: bootstrap.php:715
+msgid "The MailChimp For WooCommerce plugin requires <a href=\"https://www.php.net/manual/en/book.curl.php/\">curl</a> to be enabled!"
+msgstr "De Mailchimp for WooCommerce plugin vereist dat <a href=\"https://www.php.net/manual/en/book.curl.php/\">curl</a> is ingeschakeld!"
+
+#: blocks/woocommerce-blocks-extend-store-endpoint.php:56
+msgid "Subscribe to marketing opt-in."
+msgstr "Schrijf je in voor marketing opt-in."
+
+#: blocks/woocommerce-blocks-integration.php:131
+msgid "I want to receive updates about products and promotions."
+msgstr "Ik wil updates ontvangen over producten en promoties."
+
+#: admin/partials/tabs/newsletter-settings.php:201
+msgid "Opt-In Checkbox Settings"
+msgstr "Opt-In selectievakje instellingen"
+
+#: admin/partials/tabs/newsletter-settings.php:196
+#: admin/v2/templates/confirmation/tabs/audience.php:63
+msgid "Disable cart tracking"
+msgstr "Winkelwagen volgen uitschakelen"
+
+#: admin/partials/tabs/newsletter-settings.php:191
+msgid "Only track carts for subscribed customers"
+msgstr "Alleen winkelwagens volgen voor klanten met een abonnement"
+
+#: admin/partials/tabs/newsletter-settings.php:186
+#: admin/v2/templates/confirmation/tabs/audience.php:51
+msgid "Track carts for all customers"
+msgstr "Volg winkelwagens voor alle klanten"
+
+#: admin/partials/tabs/newsletter-settings.php:181
+msgid "You may disable this if you are not using Abandoned Cart Automations."
+msgstr "Je kunt dit uitschakelen als je geen gebruik maakt van automatisering voor verlaten wagens."
+
+#: admin/partials/tabs/newsletter-settings.php:180
+msgid "Cart Tracking"
+msgstr "Winkelwagen volgen"
+
+#: admin/partials/tabs/newsletter-settings.php:173
+msgid "Only sync subscribers. No transactional customers will be sent to your Mailchimp Audience"
+msgstr "Synchroniseer alleen abonnees. Er worden geen transactionele klanten naar je Mailchimp doelgroep verzonden"
+
+#: admin/partials/tabs/newsletter-settings.php:168
+msgid "Send all data to your Mailchimp Audience, including subscribers and transactional customers"
+msgstr "Stuur alle gegevens naar je Mailchimp doelgroep, inclusief abonnees en klanten met transacties"
+
+#: admin/partials/tabs/newsletter-settings.php:163
+msgid "To maximize your marketing efforts, we recommend syncing all customer data with Mailchimp. This way, you can send both marketing and transactional campaigns to your clients. You also have the option to only sync those who subscribe to your Audience at checkout or create an account on your store. Transactional messages like abandoned carts, order confirmations, etc., will not trigger if you decide to only send to subscribers."
+msgstr "Om je marketinginspanningen te maximaliseren, raden we aan alle klantgegevens te synchroniseren met Mailchimp. Op deze manier kun je zowel marketing als transactie campagnes naar je klanten sturen. Je hebt ook de optie om alleen diegenen te synchroniseren die zich hebben ingeschreven voor je doelgroep bij het afrekenen of een account hebben aangemaakt op je winkel. Transactionele berichten zoals verlaten winkelwagens, bestelling bevestigingen, enz. zullen niet triggeren als je besluit om alleen naar abonnees te sturen."
+
+#: admin/partials/tabs/newsletter-settings.php:162
+msgid "Ongoing Sync"
+msgstr "Lopende synchronisatie"
+
+#: admin/partials/tabs/newsletter-settings.php:154
+msgid "Only sync customers in this store who are subscribed in my Mailchimp Audience"
+msgstr "Synchroniseer alleen klanten in deze winkel die geabonneerd zijn in mijn Mailchimp doelgroep"
+
+#: admin/partials/tabs/newsletter-settings.php:149
+msgid "Auto-subscribe all customers on the initial sync"
+msgstr "Schrijf alle klanten automatisch in bij de eerste synchronisatie"
+
+#: admin/partials/tabs/newsletter-settings.php:144
+msgid "WooCommerce does not keep a historical record of a customer's opt-in preferences. This plugin will add this functionality moving forward. Do you want to subscribe all customers to your Mailchimp Audience or only those moving forward?"
+msgstr "WooCommerce houdt geen historisch overzicht bij van de opt-in voorkeuren van een klant. Deze plugin zal deze functionaliteit toevoegen in de toekomst. Wil je alle klanten abonneren op je Mailchimp doelgroep of alleen de klanten die vooruit gaan?"
+
+#: admin/partials/tabs/newsletter-settings.php:143
+msgid "Initial Sync"
+msgstr "Initiële synchronisatie"
+
+#: admin/partials/tabs/newsletter-settings.php:137
+msgid "Sync Settings"
+msgstr "Synchroniseer instellingen"
+
+#. translators: Placeholders %1$s - Mailchimp Support URL, %2$s - link element
+#. id, %3$s - popup element id
+#: admin/partials/tabs/store-sync.php:247
+msgid "Need help? Visit <a href=%1$s target=_blank>Mailchimp support</a>"
+msgstr "Hulp nodig? Bezoek <a href=%1$s target=_blank>Mailchimp ondersteuning</a>"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:119
+msgid "If you don’t have an audience, <br/> you can choose to create one"
+msgstr "Als je geen doelgroep hebt, <br/> kan je ervoor kiezen er een te maken"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2103
+msgid "We successfully synced %1$s orders to your Audience, %2$s. If you’re happy with this integration, leave a 5-star review. It helps our community know we’re working hard to make it better each day."
+msgstr "We hebben met succes %1$s bestellingen gesynchroniseerd met je doelgroep, %2$s. Als je tevreden bent met deze integratie, laat dan een vijfsterren beoordeling achter. Zo weet onze community dat we er elke dag hard aan werken om het nog beter te maken. "
+
+#: admin/class-mailchimp-woocommerce-admin.php:165
+msgid "Thanks, your message has been received."
+msgstr "Bedankt, je bericht is ontvangen."
+
+#: admin/class-mailchimp-woocommerce-admin.php:164
+msgid "Message received"
+msgstr "Bericht ontvangen"
+
+#: admin/class-mailchimp-woocommerce-admin.php:163
+msgid "Sending support request"
+msgstr "Ondersteuning aanvraag verzenden"
+
+#: admin/class-mailchimp-woocommerce-admin.php:162
+msgid "Please allow your browser to show popups for this page"
+msgstr "Geef je browser toestemming om pop-ups voor deze pagina weer te geven"
+
+#: admin/class-mailchimp-woocommerce-admin.php:161
+msgid "Login Popup is blocked!"
+msgstr "Login pop-up is geblokkeerd!"
+
+#: admin/class-mailchimp-woocommerce-admin.php:160
+msgid "Disconnecting store in progress"
+msgstr "Bezig met ontkoppelen van winkel"
+
+#: admin/class-mailchimp-woocommerce-admin.php:159
+msgid "Could not resync orders, please try again."
+msgstr "Kon bestellingen niet opnieuw synchroniseren, probeer het opnieuw."
+
+#: admin/class-mailchimp-woocommerce-admin.php:158
+msgid "Resync request in progress"
+msgstr "Aanvraag opnieuw synchroniseren in behandeling"
+
+#: admin/class-mailchimp-woocommerce-admin.php:157
+msgid "Try again"
+msgstr "Probeer het opnieuw"
+
+#: admin/class-mailchimp-woocommerce-admin.php:154
+msgid "Please wait"
+msgstr "Even geduld aub"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:227
+#: admin/v2/templates/confirmation/content.php:24
+msgid "Audience"
+msgstr "Doelgroep"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:225
+#: admin/v2/templates/confirmation/content.php:21
+msgid "Store"
+msgstr "Winkel"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:211
+msgid "Connection settings"
+msgstr "Verbindingsinstellingen"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:202
+msgid "Your WooCommerce store is syncing to Mailchimp"
+msgstr "Je WooCommerce winkel synchroniseert met Mailchimp"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:200
+msgid "Success! You are connected to Mailchimp"
+msgstr "Succes! Je bent verbonden met Mailchimp"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:187
+msgid "Campaign and messaging settings"
+msgstr "Campagne en berichtinstellingen"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:179
+msgid "WooCommerce store and location"
+msgstr "WooCommerce winkel en locatie"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:143
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:148
+msgid "Back"
+msgstr "Terug"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:142
+msgid "Next step"
+msgstr "Volgende stap"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:116
+msgid "Please provide a bit of information about your WooCommerce <br/> campaign and messaging settings."
+msgstr "Geef wat informatie over je WooCommerce <br/> campagne en berichtinstellingen."
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:114
+msgid "Add WooCommerce audience settings"
+msgstr "Voeg WooCommerce doelgroepinstellingen toe"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:110
+msgid "Please provide a bit of information about your WooCommerce <br/> store and location."
+msgstr "Geef wat informatie op over je WooCommerce <br/> winkel en locatie."
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:109
+msgid "Add WooCommerce store settings"
+msgstr "WooCommerce winkel instellingen toevoegen"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:105
+msgid "Build custom segments, send automations, and track purchase <br/>activity in Mailchimp. Login to authorize an account connection."
+msgstr "Bouw aangepaste segmenten, verzend automatiseringen en volg de activiteit van aankoop <br/>in Mailchimp. Login om een verbinding met een account te autoriseren."
+
+#: admin/partials/tabs/store-sync.php:121
+msgid "Running"
+msgstr "Aan het uitvoeren"
+
+#: admin/partials/tabs/store-sync.php:119
+msgid "Completed"
+msgstr "Afgerond"
+
+#: admin/partials/tabs/store-sync.php:116
+msgid "Sync Status:"
+msgstr "Synchronisatiestatus:"
+
+#: admin/partials/tabs/plugin-settings.php:84
+msgid "Disconnect your store from Mailchimp. This action will remove all entries from the database but you will be able to reconnect anytime."
+msgstr "Ontkoppel je winkel van Mailchimp. Met deze actie worden alle vermeldingen uit de database verwijderd, maar je kunt op elk moment opnieuw verbinding maken."
+
+#: admin/partials/tabs/plugin-settings.php:80
+#: admin/partials/tabs/plugin-settings.php:94
+msgid "Disconnect Store"
+msgstr "Verbinding met winkel verbreken"
+
+#: admin/partials/tabs/plugin-settings.php:70
+msgid "Opt-in to our newsletter"
+msgstr "Meld je aan voor onze nieuwsbrief"
+
+#: admin/partials/tabs/plugin-settings.php:58
+msgid "Occasionally we may send you information about how-to's, updates, and other news to the store's admin email address. Choose whether or not you want to receive these messages at %1$s "
+msgstr "Af en toe kunnen we je informatie over instructies, updates en ander nieuws sturen naar het beheer e-mailadres van de winkel. Kies of je deze berichten wel of niet wil ontvangen op %1$s "
+
+#: admin/partials/tabs/plugin-settings.php:53
+msgid "Communication"
+msgstr "Communicatie"
+
+#: admin/partials/tabs/plugin-settings.php:23
+msgid "Plugin Settings"
+msgstr "Plugin instellingen"
+
+#: admin/partials/tabs/api-key.php:15
+msgid "Connect account"
+msgstr "Account verbinden"
+
+#: admin/partials/tabs/store-info.php:155
+msgid "Permission Settings"
+msgstr "Machtigingsinstellingen"
+
+#: admin/partials/tabs/newsletter-settings.php:275
+msgid "Opt-In checkbox position"
+msgstr "Opt-in selectievak positie"
+
+#: admin/partials/tabs/newsletter-settings.php:241
+msgid "The box below is a preview of your checkout page. Styles and fields may not be exact."
+msgstr "Het onderstaande box is een voorbeeld van je afrekenpagina. Stijlen en velden zijn mogelijk niet exact."
+
+#: admin/partials/tabs/newsletter-settings.php:240
+msgid "Shop checkout preview"
+msgstr "Winkel afrekenvoorbeeld"
+
+#: admin/partials/tabs/newsletter-settings.php:237
+#: admin/v2/templates/confirmation/tabs/store-info.php:138
+msgid "Leave it blank to use language translation files (.po / .mo), translating the string: \"Subscribe to our newsletter\"."
+msgstr "Laat het leeg om taalvertalingsbestanden (.po/.mo) te gebruiken, waarbij de string wordt vertaald: \"Abonneer je op onze nieuwsbrief\"."
+
+#: admin/partials/tabs/newsletter-settings.php:80
+msgid "To select another audience, you must first disconnect your store on the Settings tab."
+msgstr "Om een andere doelgroep te selecteren, moet je eerst je winkel loskoppelen op de tab Instellingen."
+
+#: admin/partials/tabs/newsletter-settings.php:77
+msgid "Your store is currently connected to:"
+msgstr "Je winkel is momenteel verbonden met:"
+
+#: admin/partials/tabs/newsletter-settings.php:54
+msgid "Audience name"
+msgstr "Doelgroepnaam"
+
+#: admin/partials/tabs/newsletter-settings.php:50
+msgid "Connect your store with an audience"
+msgstr "Verbind je winkel met een doelgroep"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:104
+msgid "Add Mailchimp for WooCommerce"
+msgstr "Mailchimp for WooCommerce toevoegen"
+
+#: admin/partials/tabs/store-info.php:121
+#: admin/v2/templates/confirmation/tabs/store-info.php:39
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: admin/partials/tabs/store-info.php:123
+#: admin/v2/templates/confirmation/tabs/store-info.php:41
+msgid "WooCommerce Settings"
+msgstr "WooCommerce instellingen"
+
+#. translators: %1$s - The Currency name and format (ex: USD | US Dollar) %2$s
+#. - Timezone name or offset (ex: America/New_York or UTC-4:00) %3$s and %5$s-
+#. <a> tag open %4$s - </a> tag close
+#: admin/partials/tabs/store-info.php:118
+msgid "We've detected that your WooCommerce store's currency is <b>%1$s</b> (%3$schange%4$s), and the WordPress timezone is <b>%2$s</b> (%5$schange%4$s)."
+msgstr "We hebben ontdekt dat je WooCommerce winkel valuta is <b>%1$s</b> (%3$swijzig%4$s), en de WordPress tijdzone is <b>%2$s</b> (%5$swijzig%4$s)."
+
+#: blocks/woocommerce-blocks-integration.php:142
+#: includes/class-mailchimp-woocommerce-newsletter.php:83
+#: public/class-mailchimp-woocommerce-public.php:175
+msgid "Please select all the ways you would like to hear from us"
+msgstr "Selecteer alle manieren waarop je van ons wil horen"
+
+#. translators: Placeholders %1$s - plugin wiki CLI URL, %2$s - plugin wiki WP
+#. caching issues url
+#: admin/partials/tabs/store-sync.php:229
+msgid "Have a larger store or having issues syncing? Consider using <a href=%1$s target=_blank>WP-CLI</a> or browse documentation around common <a href=%2$s target=_blank>caching problems</a>."
+msgstr "Heb je een grotere winkel of problemen met synchroniseren? Overweeg dan het gebruik van <a href=%1$s target=_blank>WP-CLI</a> of blader door de documentatie omtrent standaard  <a href=%2$s target=_blank>caching problemen</a>."
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:193
+msgid "If you don’t have an audience, you can choose to create one"
+msgstr "Als je geen doelgroep hebt, kan je ervoor kiezen er een te maken"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:192
+msgid "Please apply your audience settings. "
+msgstr "Pas je doelgroep instellingen toe. "
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:190
+msgid "Please apply your audience settings."
+msgstr "Pas je doelgroepinstellingen toe."
+
+#: admin/partials/tabs/logs.php:98
+#: admin/v2/templates/confirmation/tabs/logs.php:87
+msgid "Copy Log to clipboard"
+msgstr "Log naar klembord kopiëren"
+
+#: admin/partials/tabs/newsletter-settings.php:109
+msgid "Language"
+msgstr "Taal"
+
+#: admin/partials/tabs/newsletter-settings.php:95
+msgid "From Email"
+msgstr "Van e-mail"
+
+#: admin/partials/tabs/newsletter-settings.php:88
+msgid "From Name"
+msgstr "Van naam"
+
+#: admin/partials/tabs/newsletter-settings.php:102
+msgid "Subject"
+msgstr "Onderwerpen"
+
+#: admin/partials/tabs/api-key.php:54
+#: admin/v2/templates/connect-accounts/create-account-page.php:92
+#: admin/v2/templates/connect-accounts/create-account-popup.php:39
+msgid "Last name"
+msgstr "Achternaam"
+
+#: admin/partials/tabs/api-key.php:48
+#: admin/v2/templates/connect-accounts/create-account-page.php:85
+#: admin/v2/templates/connect-accounts/create-account-popup.php:33
+msgid "First name"
+msgstr "Voornaam"
+
+#: admin/partials/tabs/store-sync.php:290
+msgid "Sync is running. Please wait until it finishes."
+msgstr "Synchronisatie wordt uitgevoerd. Wacht tot het klaar is."
+
+#: admin/partials/tabs/store-sync.php:287
+#: admin/partials/tabs/store-sync.php:289
+#: admin/v2/templates/confirmation/tabs/advanced.php:65
+msgid "Resync now"
+msgstr "Nu opnieuw synchroniseren"
+
+#: admin/partials/tabs/store-sync.php:281
+msgid "Synchronization"
+msgstr "Synchronisatie"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2295
+msgid "Error loading log file contents"
+msgstr "Fout bij laden van inhoud van logbestand"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2254
+#: admin/class-mailchimp-woocommerce-admin.php:2270
+msgid "No log file provided"
+msgstr "Geen logbestand opgegeven"
+
+#. translators: Placeholders %1$s - opening strong HTML tag, %2$s - closing
+#. strong HTML tag, %3$s - opening link HTML tag, %4$s - closing link HTML tag
+#: admin/class-mailchimp-woocommerce-admin.php:452
+msgid "%1$sMailchimp for Woocommerce%2$s is not yet connected to a Mailchimp account. To complete the connection, %3$svisit the plugin settings page%4$s."
+msgstr "%1$sMailchimp voor WooCommerce%2$s is nog niet verbonden met een Mailchimp account. Om de verbinding te voltooien, %3$sbekijkt je de instellingenpagina van de plugin%4$s."
+
+#: admin/class-mailchimp-woocommerce-admin.php:426
+msgid "Log file deleted."
+msgstr "Logbestand verwijderd."
+
+#: admin/class-mailchimp-woocommerce-admin.php:156
+msgid "Yes, disconnect."
+msgstr "Ja, verbreek de verbinding."
+
+#: admin/class-mailchimp-woocommerce-admin.php:155
+msgid "You are about to disconnect your store from Mailchimp."
+msgstr "Je staat op het punt je winkel los te koppelen van Mailchimp."
+
+#: admin/class-mailchimp-woocommerce-admin.php:153
+msgid "No, cancel!"
+msgstr "Nee, annuleer!"
+
+#: admin/class-mailchimp-woocommerce-admin.php:152
+msgid "Yes, delete it!"
+msgstr "Ja, verwijder het!"
+
+#: admin/class-mailchimp-woocommerce-admin.php:151
+msgid "You will not be able to revert."
+msgstr "Je kan niet het niet meer terugdraaien."
+
+#: admin/class-mailchimp-woocommerce-admin.php:150
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: bootstrap.php:325
+msgid "Error retrieving list for double_optin check"
+msgstr "Fout bij het ophalen van lijst voor double_optin check"
+
+#: admin/class-mailchimp-woocommerce-admin.php:1290
+#: admin/class-mailchimp-woocommerce-admin.php:1496
+#: admin/class-mailchimp-woocommerce-admin.php:2065
+msgid "Cannot create or update Store at Mailchimp."
+msgstr "Kan winkel bij Mailchimp niet maken of updaten."
+
+#: admin/partials/tabs/newsletter-settings.php:306
+msgid "Add a comma-separated list of tags to apply to a subscriber in Mailchimp after a transaction occurs"
+msgstr "Voeg een door komma's gescheiden lijst met tags toe om toe te passen op een abonnee in Mailchimp nadat een transactie heeft plaatsgevonden"
+
+#: admin/partials/tabs/newsletter-settings.php:302
+msgid "Tags"
+msgstr "Tags"
+
+#: admin/partials/tabs/newsletter-settings.php:211
+#: blocks/assets/js/checkout-newsletter-subscription-block/edit.js:28
+#: blocks/build/newsletter-block.js:1
+msgid "Choose how you want the opt-in to your newsletter checkbox to render at checkout"
+msgstr "Kies hoe je de opt-in voor jouw nieuwsbrief wilt aanvinken bij het afrekenen"
+
+#: admin/partials/tabs/newsletter-settings.php:233
+msgid "The call-to-action text that prompts customers to subscribe to your newsletter at checkout."
+msgstr "De Call To Action tekst die klanten ertoe aanzet zich bij het afrekenen op je nieuwsbrief te abonneren."
+
+#: admin/partials/tabs/api-key.php:204
+#: admin/v2/templates/connect-accounts/create-account-popup.php:189
+msgid "Connecting..."
+msgstr "Verbinden..."
+
+#: admin/partials/tabs/api-key.php:203
+#: admin/v2/templates/connect-accounts/create-account-popup.php:188
+msgid "Invalid Timezone"
+msgstr "Ongeldige tijdzone"
+
+#: admin/partials/tabs/api-key.php:202
+#: admin/v2/templates/connect-accounts/create-account-popup.php:187
+msgid "Invalid Phone"
+msgstr "Ongeldige telefoon"
+
+#: admin/partials/tabs/api-key.php:201
+#: admin/v2/templates/connect-accounts/create-account-popup.php:186
+msgid "Invalid Country"
+msgstr "Ongeldig land"
+
+#: admin/partials/tabs/api-key.php:200
+#: admin/v2/templates/connect-accounts/create-account-popup.php:185
+msgid "Invalid Zip"
+msgstr "Ongeldige zip"
+
+#: admin/partials/tabs/api-key.php:199
+#: admin/v2/templates/connect-accounts/create-account-popup.php:184
+msgid "Invalid State"
+msgstr "Ongeldige status"
+
+#: admin/partials/tabs/api-key.php:198
+#: admin/v2/templates/connect-accounts/create-account-popup.php:183
+msgid "Invalid City"
+msgstr "Ongeldige plaats"
+
+#: admin/partials/tabs/api-key.php:197
+#: admin/v2/templates/connect-accounts/create-account-popup.php:182
+msgid "Invalid Address"
+msgstr "Ongeldig Adres"
+
+#: admin/partials/tabs/api-key.php:193
+#: admin/v2/templates/connect-accounts/create-account-popup.php:178
+msgid "Get Started!"
+msgstr "Aan de slag!"
+
+#: admin/partials/tabs/api-key.php:190
+#: admin/v2/templates/connect-accounts/create-account-popup.php:175
+msgid "Go Back"
+msgstr "Ga terug"
+
+#. translators: %s - Mailchimp legal pages
+#: admin/partials/tabs/api-key.php:175
+#: admin/v2/templates/connect-accounts/create-account-page.php:254
+#: admin/v2/templates/connect-accounts/create-account-popup.php:160
+msgid "By clicking the \"Get Started!\" button, you are creating a Mailchimp account, and you agree to Mailchimp's <a href=%1$s target=_blank>Terms of Use</a> and <a href=%2$s target=_blank>Privacy Policy</a>."
+msgstr "Door op de knop Aan de slag te klikken, maak je een Mailchimp account aan en ga je akkoord met de <a href=%1$s target=_blank>gebruiksvoorwaarden</a> en <a href=%2$s target=_blank>het privacybeleid</a>van Mailchimp."
+
+#: admin/partials/tabs/api-key.php:141
+#: admin/v2/templates/connect-accounts/create-account-popup.php:126
+msgid "Phone"
+msgstr "Telefoon"
+
+#: admin/partials/tabs/api-key.php:110
+#: admin/v2/templates/connect-accounts/create-account-popup.php:95
+msgid "Zip"
+msgstr "Postcode"
+
+#: admin/partials/tabs/api-key.php:92
+#: admin/v2/templates/connect-accounts/create-account-popup.php:77
+msgid "Address Line 2"
+msgstr "Adresregel 2"
+
+#: admin/partials/tabs/api-key.php:86
+#: admin/v2/templates/connect-accounts/create-account-popup.php:71
+msgid "Address Line 1"
+msgstr "Adresregel 1"
+
+#: admin/partials/tabs/api-key.php:76
+#: admin/v2/templates/connect-accounts/create-account-popup.php:61
+msgid "Invalid Email. Please double check."
+msgstr "Ongeldige e-mail. Controleer het."
+
+#: admin/partials/tabs/api-key.php:72
+#: admin/v2/templates/connect-accounts/create-account-popup.php:57
+msgid "Next Step"
+msgstr "Volgende stap"
+
+#: admin/partials/tabs/api-key.php:69
+#: admin/v2/templates/connect-accounts/create-account-popup.php:54
+msgid "Suggested username: "
+msgstr "Voorgestelde gebruikersnaam: "
+
+#: admin/partials/tabs/api-key.php:66
+#: admin/v2/templates/connect-accounts/create-account-popup.php:51
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: admin/partials/tabs/store-info.php:173
+#: admin/v2/templates/confirmation/tabs/store-info.php:71
+msgid "Shop Managers and Administrators"
+msgstr "Winkelmanagers en beheerders"
+
+#: admin/partials/tabs/store-info.php:168
+#: admin/v2/templates/confirmation/tabs/store-info.php:77
+msgid "Administrators Only"
+msgstr "Alleen beheerders"
+
+#: admin/partials/tabs/store-info.php:161
+msgid "Select the minimum permission capability to manage Mailchimp for Woocommerce options"
+msgstr "Selecteer de minimum machtigingsrechten om Mailchimp for WooCommerce opties te beheren"
+
+#: admin/partials/tabs/store-info.php:160
+msgid "Plugin Permission Level"
+msgstr "Machtigingsniveau voor plugins"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2132
+#: admin/class-mailchimp-woocommerce-admin.php:2157
+msgid "Error setting communications status"
+msgstr "Fout bij instellen communicatiestatus"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2151
+#: admin/class-mailchimp-woocommerce-admin.php:2188
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2109
+msgid "Leave a Review"
+msgstr "Laat een beoordeling achter"
+
+#: admin/class-mailchimp-woocommerce-admin.php:611
+msgid "These constants are deprecated since Mailchimp for Woocommerce version 2.3. Please refer to the <a href=\"https://github.com/mailchimp/mc-woocommerce/wiki/\">plugin official wiki</a> for further details."
+msgstr "Deze constanten zijn verouderd sinds Mailchimp voor WooCommerce versie 2.3. Raadpleeg de officiële Wiki voor meer informatie over de <a href=\"https://github.com/mailchimp/mc-woocommerce/wiki/\">plugin officiële Wiki</a>."
+
+#: admin/class-mailchimp-woocommerce-admin.php:609
+msgid "We dectected that this site has the following constants defined, likely at wp-config.php file"
+msgstr "We hebben gedetecteerd dat deze site de volgende constanten heeft gedefinieerd, waarschijnlijk in het wp-config.php bestand"
+
+#. translators: %s - Plugin review URL.
+#: admin/partials/tabs/store-sync.php:213
+msgid "Is this plugin helping your e-commerce business? <a href=%s target=_blank>Please leave us a ★★★★★ review!</a>."
+msgstr "Helpt deze plugin je eCommerce bedrijf? <a href=%s target=_blank>Geef ons dan een ★★★★★ beoordeling!</a>."
+
+#: admin/partials/tabs/api-key.php:19
+#: admin/v2/templates/connect-accounts/button-actions.php:24
+msgid "Error, can't login."
+msgstr "Fout, kan niet inloggen."
+
+#: bootstrap.php:725
+msgid "The MailChimp For WooCommerce plugin requires the <a href=\"http://wordpress.org/extend/plugins/woocommerce/\">WooCommerce</a> plugin to be active!"
+msgstr "De Mailchimp for WooCommerce plugin vereist dat de <a href=\"http://wordpress.org/extend/plugins/woocommerce/\">WooCommerce</a> plugin actief is!"
+
+#: admin/class-mailchimp-woocommerce-admin.php:2085
+msgid "Sometimes the sync can take a while, especially on sites with lots of orders and/or products. It is safe to navigate away from this screen while it is running."
+msgstr "Soms kan de synchronisatie een tijdje duren, vooral op sites met veel bestellingen en/of producten. Het is veilig om weg te navigeren van dit scherm terwijl het wordt uitgevoerd."
+
+#: admin/class-mailchimp-woocommerce-admin.php:2083
+msgid "The plugin has started the initial sync with your store, and the process will work in the background automatically."
+msgstr "De plugin is begonnen met de eerste synchronisatie met je winkel, en het proces zal automatisch werken op de achtergrond."
+
+#: admin/class-mailchimp-woocommerce-admin.php:2081
+msgid "Starting the sync process..."
+msgstr "Het synchronisatieproces starten..."
+
+#: admin/class-mailchimp-woocommerce-admin.php:1590
+msgid "You must supply your Mailchimp API key to pull the audiences."
+msgstr "Je moet je Mailchimp API-sleutel aanleveren om de doelgroepen te laden."
+
+#: admin/class-mailchimp-woocommerce-admin.php:1394
+msgid "Mailchimp for WooCommerce requires a Store Name to connect your store."
+msgstr "Mailchimp for WooCommerce vereist een winkelnaam om met je winkel te verbinden."
+
+#: admin/class-mailchimp-woocommerce-admin.php:1390
+msgid "As part of the Mailchimp Terms of Use, we require a valid phone number for your store."
+msgstr "Als onderdeel van de gebruiksvoorwaarden van Mailchimp hebben we een geldig telefoonnummer voor je winkel nodig."
+
+#: admin/class-mailchimp-woocommerce-admin.php:1386
+msgid "As part of the Mailchimp Terms of Use, we require a contact email and a physical mailing address."
+msgstr "Als onderdeel van de gebruiksvoorwaarden van Mailchimp hebben we een e-mail met contactpersonen en een fysiek e-mailadres nodig."
+
+#: admin/class-mailchimp-woocommerce-admin.php:886
+msgid "Store Disconnect Failed"
+msgstr "Verbinding verbreken van winkel is mislukt"
+
+#: admin/class-mailchimp-woocommerce-admin.php:324
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:230
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:293
+msgid "Save all changes"
+msgstr "Alle wijzigingen opslaan"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:147
+msgid "Start sync"
+msgstr "Synchronisatie starten"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:229
+#: admin/v2/templates/confirmation/content.php:27
+msgid "Logs"
+msgstr "Logs"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:224
+#: admin/v2/templates/confirmation/content.php:18
+msgid "Overview"
+msgstr "Overzicht"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:207
+msgid "Log events from the Mailchimp plugin"
+msgstr "Log gebeurtenissen van de Mailchimp plugin"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:181
+msgid "Please provide a bit of information about your WooCommerce store"
+msgstr "Geef een beetje informatie over je WooCommerce winkel"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:174
+msgid "Add Mailchimp for WooCommerce to build custom segments, send automations, and track purchase activity in Mailchimp"
+msgstr "Voeg Mailchimp for WooCommerce toe om aangepaste segmenten te bouwen, verzenden te automatiseren en aankoopactiviteiten bij te houden in Mailchimp"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:255
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:170
+msgid "Mailchimp says: API Request Error"
+msgstr "Mailchimp zegt: API aanvraag fout"
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:249
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:164
+msgid "Mailchimp says: Please upgrade your PHP version to a minimum of 7.0"
+msgstr "Mailchimp zegt: upgrade je PHP versie tot een minimum van 7.0"
+
+#. translators: %s - Mailchimp Privacy Policy URL.
+#: admin/partials/tabs/store-sync.php:264
+msgid "By using this plugin, Mailchimp will process customer information in accordance with their <a href=%s target=_blank>Privacy Policy</a>."
+msgstr "Door gebruik te maken van deze plugin verwerkt Mailchimp klant informatie in overeenstemming met hun <a href=%s target=_blank>privacybeleid.</a>."
+
+#: admin/partials/tabs/store-sync.php:242
+msgid "Order and customer information will not sync if they contain an Amazon or generic email address."
+msgstr "Bestel en klantgegevens worden niet gesynchroniseerd als ze een Amazon of generiek e-mailadres bevatten."
+
+#: admin/partials/tabs/store-sync.php:207
+msgid "More Information"
+msgstr "Meer informatie"
+
+#: admin/partials/tabs/store-sync.php:284
+msgid "You can safely resync your audience at any time without losing any of your e-commerce data."
+msgstr "Je kun je doelgroep op elk gewenst moment opnieuw synchroniseren zonder je eCommerce gegevens te verliezen."
+
+#: admin/v2/templates/confirmation/content.php:30
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: admin/partials/tabs/store-sync.php:135
+msgid "Starting..."
+msgstr "Starten..."
+
+#: admin/partials/tabs/store-sync.php:130
+msgid "Last Updated:"
+msgstr "Laatst geüpdatet:"
+
+#: admin/partials/tabs/store-sync.php:125
+msgid "Initial sync in progress"
+msgstr "Eerste synchronisatie in uitvoering"
+
+#: admin/v2/templates/confirmation/tabs/overview.php:142
+msgid "Status:"
+msgstr "Status:"
+
+#: admin/partials/tabs/store-sync.php:109
+msgid "Audience Connected"
+msgstr "Verbonden doelgroep"
+
+#: admin/partials/tabs/store-sync.php:106
+msgid "Account Connected"
+msgstr "Account verbonden"
+
+#: admin/partials/tabs/store-sync.php:195
+msgid "Unsubscribed"
+msgstr "Uitgeschreven"
+
+#: admin/partials/tabs/store-sync.php:188
+msgid "Transactional"
+msgstr "Transactie"
+
+#: admin/partials/tabs/store-sync.php:181
+msgid "Subscribers"
+msgstr "Abonnees"
+
+#: admin/partials/tabs/store-sync.php:167
+#: admin/v2/templates/confirmation/tabs/overview.php:200
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: admin/partials/tabs/store-sync.php:157
+#: admin/v2/templates/confirmation/tabs/overview.php:232
+msgid "Products"
+msgstr "Producten"
+
+#: admin/partials/tabs/store-sync.php:147
+msgid "Coupons"
+msgstr "Waardebonnen"
+
+#: admin/partials/tabs/api-key.php:21
+#: admin/v2/templates/connect-accounts/button-actions.php:26
+msgid "Connected! Please wait while loading next step"
+msgstr "Verbonden! Wacht tijdens het laden van de volgende stap"
+
+#: admin/partials/tabs/api-key.php:20
+#: admin/v2/templates/connect-accounts/button-actions.php:25
+msgid "Connection in progress"
+msgstr "Verbinding in uitvoering"
+
+#: admin/partials/tabs/api-key.php:18
+#: admin/v2/templates/connect-accounts/button-actions.php:23
+msgid "Connecting. A new window will open with Mailchimp's OAuth service. Please log-in and we will take care of the rest."
+msgstr "Verbinden. Er wordt een nieuw venster geopend met de Mailchimp's OAuth dienst. Login en we zorgen voor de rest."
+
+#: admin/partials/mailchimp-woocommerce-admin-tabs.php:222
+msgid "Connect"
+msgstr "Verbinden"
+
+#: admin/partials/tabs/api-key.php:13
+#: admin/v2/templates/connect-accounts/button-actions.php:14
+msgid "Connect your store to Mailchimp"
+msgstr "Verbind je winkel met Mailchimp"
+
+#: admin/partials/tabs/notices.php:37 admin/v2/templates/tabs/notices.php:37
+msgid "Mailchimp says: Your re-sync has been started!"
+msgstr "Mailchimp zegt: je re-sync is gestart!"
+
+#: admin/partials/tabs/notices.php:24 admin/v2/templates/tabs/notices.php:24
+msgid "Mailchimp says: You are not fully ready to run the Store Sync, please verify your settings before proceeding."
+msgstr "Mailchimp zegt: je bent nog niet helemaal klaar om de winkel sync uit te voeren, controleer je instellingen voordat je verdergaat."
+
+#: admin/partials/tabs/notices.php:21 admin/v2/templates/tabs/notices.php:21
+msgid "Mailchimp says: Sorry you must set up your store before you proceed!"
+msgstr "Mailchimp zegt: je moet je winkel instellen voordat je verder gaat!"
+
+#: admin/partials/tabs/notices.php:18 admin/v2/templates/tabs/notices.php:18
+msgid "Mailchimp says: You must select a marketing audience."
+msgstr "Mailchimp zegt: je moet een marketing doelgroep selecteren."
+
+#: admin/partials/tabs/notices.php:15 admin/v2/templates/tabs/notices.php:15
+msgid "Mailchimp says: You must enter in a valid API key."
+msgstr "Mailchimp zegt: je moet een geldige API-sleutel invoeren."
+
+#: admin/partials/tabs/api-key.php:147
+#: admin/v2/templates/connect-accounts/create-account-page.php:221
+#: admin/v2/templates/connect-accounts/create-account-popup.php:132
+msgid "Timezone"
+msgstr "Tijdzone"
+
+#: admin/partials/tabs/store-info.php:138
+#: admin/v2/templates/confirmation/tabs/store-info.php:49
+msgid "Select store's locale"
+msgstr "De locale van de winkel selecteren"
+
+#: admin/partials/tabs/store-info.php:130
+#: admin/v2/templates/confirmation/tabs/store-info.php:46
+msgid "Locale"
+msgstr "Locale"
+
+#: admin/partials/tabs/store-info.php:132
+msgid "Please apply your locale settings. If you're unsure about these, use the defaults."
+msgstr "Pas je land instellingen toe. Als je hier niet zeker van bent, gebruik je de standaard instellingen."
+
+#: admin/partials/tabs/store-info.php:111
+msgid "Locale Settings"
+msgstr "Locale instellingen"
+
+#: admin/partials/tabs/store-info.php:105
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: admin/partials/tabs/api-key.php:130 admin/partials/tabs/store-info.php:94
+#: admin/v2/templates/connect-accounts/create-account-page.php:206
+#: admin/v2/templates/connect-accounts/create-account-popup.php:115
+msgid "Select a Country"
+msgstr "Selecteer een land"
+
+#: admin/partials/tabs/api-key.php:116 admin/partials/tabs/store-info.php:79
+#: admin/v2/templates/connect-accounts/create-account-page.php:192
+#: admin/v2/templates/connect-accounts/create-account-popup.php:101
+msgid "Country"
+msgstr "Land"
+
+#: admin/partials/tabs/store-info.php:72
+msgid "Postal Code"
+msgstr "Postcode"
+
+#: admin/partials/tabs/api-key.php:104 admin/partials/tabs/store-info.php:65
+#: admin/v2/templates/connect-accounts/create-account-popup.php:89
+msgid "State"
+msgstr "Provincie"
+
+#: admin/partials/tabs/api-key.php:98 admin/partials/tabs/store-info.php:58
+#: admin/v2/templates/connect-accounts/create-account-page.php:168
+#: admin/v2/templates/connect-accounts/create-account-popup.php:83
+msgid "City"
+msgstr "Stad"
+
+#: admin/partials/tabs/store-info.php:51
+msgid "Street address"
+msgstr "Straatnaam"
+
+#: admin/partials/tabs/api-key.php:60 admin/partials/tabs/store-info.php:44
+#: admin/v2/templates/connect-accounts/create-account-page.php:121
+#: admin/v2/templates/connect-accounts/create-account-popup.php:45
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/partials/tabs/store-info.php:37
+msgid "Name"
+msgstr "Naam"
+
+#: admin/partials/tabs/store-info.php:33
+msgid "Store Settings"
+msgstr "Winkel Instellingen"
+
+#: admin/partials/tabs/logs.php:120
+#: admin/v2/templates/confirmation/tabs/logs.php:130
+msgid "There are currently no logs to view."
+msgstr "Er zijn momenteel geen logs om te bekijken."
+
+#: admin/partials/tabs/logs.php:102
+#: admin/v2/templates/confirmation/tabs/logs.php:102
+msgid "Delete Log"
+msgstr "Log verwijderen"
+
+#: admin/partials/tabs/logs.php:81
+msgid "Recent Logs"
+msgstr "Recente logs"
+
+#: admin/partials/tabs/logs.php:69
+#: admin/v2/templates/confirmation/tabs/logs.php:60
+msgid "Standard"
+msgstr "Standaard"
+
+#: admin/partials/tabs/logs.php:68
+#: admin/v2/templates/confirmation/tabs/logs.php:59
+msgid "Debug"
+msgstr "Debug"
+
+#: admin/partials/tabs/logs.php:67
+#: admin/v2/templates/confirmation/tabs/logs.php:58
+msgid "None"
+msgstr "Geen"
+
+#: admin/partials/tabs/logs.php:51
+msgid ""
+"Advanced troubleshooting can be conducted with the logging capability turned on.\n"
+"            By default, it’s set to “standard” and you may toggle to either “debug” or “none” as needed.\n"
+"            With standard logging, you can see basic information about the data submission to Mailchimp including any errors.\n"
+"            “Debug” gives a much deeper insight that is useful to share with support if problems arise."
+msgstr ""
+"Geavanceerde probleemoplossing kan worden uitgevoerd met de registratiemogelijkheid ingeschakeld.\n"
+"            Standaard is het ingesteld op 'standaard' en je kunt togglen naar 'foutopsporing' of 'geen' als dat nodig is.\n"
+"            Met standaard logging kun je basisinformatie zien over de gegevens die bij Mailchimp worden ingediend, inclusief eventuele fouten.\n"
+"            \"Debug\" geeft een veel dieper inzicht dat nuttig is om te delen met ondersteuning als er problemen ontstaan."
+
+#: admin/partials/tabs/logs.php:40 admin/partials/tabs/logs.php:44
+msgid "Logging Preferences"
+msgstr "Logging voorkeuren"
+
+#: admin/v2/templates/confirmation/tabs/logs.php:51
+msgid "Logging preferences"
+msgstr "Logging voorkeur"
+
+#: admin/partials/tabs/newsletter-settings.php:317
+#: admin/v2/templates/confirmation/tabs/store-info.php:150
+msgid "Define the product image size used by abandoned carts, order notifications, and product recommendations."
+msgstr "Definieer de grootte van de productafbeelding die wordt gebruikt door verlaten winkelwagens, bestel meldingen en product aanbevelingen."
+
+#: admin/partials/tabs/newsletter-settings.php:313
+msgid "Product Image Size"
+msgstr "Afbeeldingsgrootte van het product"
+
+#: admin/partials/tabs/newsletter-settings.php:299
+#: admin/v2/templates/confirmation/tabs/store-info.php:106
+msgid "Enter a WooCommerce form action"
+msgstr "Voer een WooCommerce formulieractie in"
+
+#. translators: %s - Woocommerce Actions documentation URL.
+#: admin/partials/tabs/newsletter-settings.php:283
+msgid "To change the position of the opt-in <br/>checkbox at checkout, input one of the <a href=%s target=_blank>available WooCommerce form actions</a>."
+msgstr "Om de locatie van de opt-in <br/>selectievakje bij het afrekenen te wijzigen, voer een van de <a href=%s target=_blank>beschikbare WooCommerce formulieracties</a>in."
+
+#: admin/partials/tabs/newsletter-settings.php:227
+#: admin/v2/templates/confirmation/tabs/store-info.php:127
+msgid "Hidden, unchecked by default"
+msgstr "Verborgen, standaard niet aangevinkt"
+
+#: admin/partials/tabs/newsletter-settings.php:222
+#: admin/v2/templates/confirmation/tabs/store-info.php:121
+msgid "Visible, unchecked by default"
+msgstr "Zichtbaar, standaard niet aangevinkt"
+
+#: admin/partials/tabs/newsletter-settings.php:217
+#: admin/v2/templates/confirmation/tabs/store-info.php:115
+msgid "Visible, checked by default"
+msgstr "Zichtbaar, standaard aangevinkt"
+
+#: admin/partials/tabs/newsletter-settings.php:210
+#: admin/v2/templates/confirmation/tabs/store-info.php:110
+msgid "Checkbox display options"
+msgstr "Selectievak weergave opties"
+
+#: admin/partials/tabs/newsletter-settings.php:237
+#: admin/v2/templates/confirmation/tabs/store-info.php:137
+msgid "HTML tags allowed: <a href=\"\" target=\"\" title=\"\"></a> and <br>"
+msgstr "HTML tags toegestaan: <a href=\"\" target=\"\" title=\"\">\"notranslate\"></a> en <br>"
+
+#: admin/partials/tabs/newsletter-settings.php:232
+msgid "Message for the opt-in checkbox"
+msgstr "Bericht voor het selectievakje Opt-in"
+
+#: admin/partials/tabs/newsletter-settings.php:62
+#: admin/v2/templates/review-sync-settings/content.php:52
+msgid "Select Audience"
+msgstr "Doelgroep selecteren"
+
+#: admin/partials/tabs/newsletter-settings.php:59
+#: admin/v2/templates/review-sync-settings/content.php:49
+msgid "Create New Audience"
+msgstr "Nieuwe doelgroep maken"
+
+#: admin/partials/tabs/newsletter-settings.php:46
+msgid "Audience Settings"
+msgstr "Doelgroep instellingen"
+
+#. translators: %s - plugin name.
+#: admin/partials/tabs/newsletter-settings.php:132
+msgid "You were subscribed to the newsletter from %s"
+msgstr "Je bent geabonneerd op de nieuwsbrief van %s"
+
+#: admin/partials/tabs/newsletter-settings.php:125
+msgid "Permission reminder message"
+msgstr "Bericht met machtiging herinnering"
+
+#: admin/partials/tabs/newsletter-settings.php:105
+msgid "Store Newsletter"
+msgstr "Winkel nieuwsbrief"
+
+#: admin/partials/tabs/newsletter-settings.php:84
+msgid "Audience Defaults"
+msgstr "Standaardinstellingen voor doelgroepen"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:397
+msgid "Skip & Deactivate"
+msgstr "Overslaan & deactiveren"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:396
+msgid "Submit & Deactivate"
+msgstr "Inzenden & deactiveren"
+
+#: admin/class-mailchimp-woocommerce-admin.php:608
+#: admin/v2/templates/connect-accounts/create-account-page.php:55
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:377
+msgid "Mailchimp for Woocommerce"
+msgstr "Mailchimp for WooCommerce"
+
+#. translators: %s - plugin name.
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:376
+msgid "If you have a moment, please share why you are deactivating %s:"
+msgstr "Als je even tijd hebt, deel dan waarom je %s deactiveert:"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:369
+msgid "Close"
+msgstr "Sluit"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:368
+msgid "Quick Feedback"
+msgstr "Snelle feedback"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:359
+msgid "Please share the reason"
+msgstr "Wat is de reden"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:357
+msgid "Other"
+msgstr "Anders"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:353
+msgid "It's a temporary deactivation."
+msgstr "Het is een tijdelijke deactivering."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:349
+msgid "I no longer use this integration."
+msgstr "Ik gebruik deze integratie niet meer."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:345
+msgid "I was instructed to disconnect by Mailchimp Support."
+msgstr "Ik kreeg de opdracht om de verbinding te verbreken door Mailchimp ondersteuning."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:341
+msgid "I'm trying to troubleshoot the integration."
+msgstr "Ik probeer problemen met de integratie op te lossen."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:337
+msgid "The promo codes aren't showing up."
+msgstr "De promo codes komen niet opdagen."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:333
+msgid "The order data isn't syncing."
+msgstr "De ordergegevens worden niet gesynchroniseerd."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:329
+msgid "I want to change the site or store connected through this integration."
+msgstr "Ik wil de site of winkel verbonden veranderen door middel van deze integratie."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:325
+msgid "I want to change the audience associated with this integration."
+msgstr "Ik wil de doelgroep die aan deze integratie is gekoppeld, veranderen."
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:180
+msgid "Sending Feedback"
+msgstr "Het verzenden van feedback"
+
+#: includes/class-mailchimp-woocommerce-deactivation-survey.php:177
+msgid "Please select an option"
+msgstr "Selecteer een optie"
+
+#: admin/class-mailchimp-woocommerce-admin.php:137
+#: admin/class-mailchimp-woocommerce-admin.php:1359
+#: admin/partials/tabs/newsletter-settings.php:261
+#: admin/user-profile/mailchimp-user-profile.php:29
+#: includes/class-mailchimp-woocommerce-newsletter.php:53
+#: public/partials/mailchimp-woocommerce-my-account.php:10
+msgid "Subscribe to our newsletter"
+msgstr "Schrijf in voor onze nieuwsbrief"
+
+#: includes/class-mailchimp-woocommerce-rest-api.php:226
+#: includes/class-mailchimp-woocommerce-rest-api.php:552
+#: includes/class-mailchimp-woocommerce-rest-api.php:567
+msgid "D, M j, Y g:i A"
+msgstr "D, M j, Y g:i A"
+
+#: includes/class-mailchimp-woocommerce-privacy.php:82
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: includes/class-mailchimp-woocommerce-privacy.php:78
+msgid "MailChimp Shopping Cart Data"
+msgstr "Mailchimp winkelwagen gegevens"
+
+#: includes/class-mailchimp-woocommerce-privacy.php:65
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: includes/class-mailchimp-woocommerce-privacy.php:27
+#: includes/class-mailchimp-woocommerce-privacy.php:40
+msgid "MailChimp for WooCommerce"
+msgstr "Mailchimp for WooCommerce"
+
+#. translators: %s - Mailchimp Privacy Policy URL.
+#: includes/class-mailchimp-woocommerce-privacy.php:12
+msgid "When shopping, we keep a record of your email and the cart contents for up to 30 days on our server. This record is kept to repopulate the contents of your cart if you switch devices or needed to come back another day. Read our privacy policy <a href=\"%s\">here</a>."
+msgstr "Tijdens het winkelen houden we een register bij van je e-mail en de inhoud van de winkelwagen gedurende maximaal 30 dagen op onze server. Dit record wordt bijgehouden om de inhoud van je winkelwagen opnieuw te bevolken als je van apparaat wisselt of een andere dag moet terugkomen. Lees <a href=\"%s\">hier</a>ons privacybeleid."
+
+#. Author URI of the plugin
+#: mailchimp-woocommerce.php
+msgid "https://mailchimp.com"
+msgstr "https://mailchimp.com"
+
+#. Author of the plugin
+#: mailchimp-woocommerce.php admin/class-mailchimp-woocommerce-admin.php:212
+#: admin/class-mailchimp-woocommerce-admin.php:228
+#: admin/class-mailchimp-woocommerce-admin.php:248
+#: admin/class-mailchimp-woocommerce-admin.php:262
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#. Description of the plugin
+#: mailchimp-woocommerce.php
+msgid "Connects WooCommerce to Mailchimp to sync your store data, send targeted campaigns to your customers, and sell more stuff."
+msgstr "Verbindt WooCommerce met Mailchimp om je winkelgegevens te synchroniseren, gerichte campagnes naar jouw klanten te sturen en meer spullen te verkopen."
+
+#. Plugin URI of the plugin
+#: mailchimp-woocommerce.php
+msgid "https://mailchimp.com/connect-your-store/"
+msgstr "https://mailchimp.com/connect-your-store/"
+
+#. Plugin Name of the plugin
+#: mailchimp-woocommerce.php admin/class-mailchimp-woocommerce-admin.php:211
+#: admin/class-mailchimp-woocommerce-admin.php:247
+#: admin/class-mailchimp-woocommerce-admin.php:278
+#: admin/v2/templates/mailchimp-woocommerce-admin-pages.php:102
+msgid "Mailchimp for WooCommerce"
+msgstr "Mailchimp for WooCommerce"

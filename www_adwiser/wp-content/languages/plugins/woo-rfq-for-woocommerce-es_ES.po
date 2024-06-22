@@ -1,0 +1,862 @@
+# Translation of Plugins - NP Quote Request WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - NP Quote Request WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-21 06:31:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - NP Quote Request WooCommerce - Stable (latest release)\n"
+
+#: woocommerce/emails/plain/subscription-info.php:45
+#: woocommerce/emails/subscription-info.php:45
+msgid "Next payment: %s"
+msgstr "Siguiente pago: %s"
+
+#: woocommerce/emails/plain/subscription-info.php:27
+#: woocommerce/emails/subscription-info.php:27
+msgctxt "table heading"
+msgid "End date"
+msgstr "Fecha final"
+
+#: woocommerce/emails/plain/subscription-info.php:26
+#: woocommerce/emails/subscription-info.php:26
+msgctxt "table heading"
+msgid "Start date"
+msgstr "Fecha inicio"
+
+#: woocommerce/emails/plain/subscription-info.php:21
+#: woocommerce/emails/subscription-info.php:21
+msgid "Subscription information"
+msgstr "Información de la suscripción"
+
+#: woocommerce/emails/plain/subscription-info.php:25
+#: woocommerce/emails/subscription-info.php:25
+msgctxt "subscription ID table heading"
+msgid "ID"
+msgstr "ID"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:916
+msgid "After Add to Cart"
+msgstr "Después de añadir al carrito"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:915
+msgid "Before Add to Cart"
+msgstr "Antes de 'Añadir al carrito'"
+
+#: woo-rfq-includes/woo-rfq-functions.php:1045
+msgid "No payment"
+msgstr "Sin pago"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:546
+msgid "No Payment"
+msgstr "Sin pago"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:541
+msgid "No payment message"
+msgstr "Mensaje de «Sin pago»"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:238
+msgid "This controls the first paragrah contained within the email notification."
+msgstr "Controla el primer párrafo contenido en el aviso por correo electrónico."
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:236
+msgid "Content Intro"
+msgstr "Introducción al contenido"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:206
+#: includes/classes/emails/class-wc-email-new-rfq.php:193
+msgid "Available placeholders: %s"
+msgstr "Marcadores de posición disponibles: %s"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:287
+msgid "Include a PDF version of the quote to in the quote email"
+msgstr "Incluye una versión en PDF del presupuesto en el correo electrónico del presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:370
+msgid "Google ReCAPTCHA:"
+msgstr "Google ReCAPTCHA"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:287
+msgid "PDF Attachments"
+msgstr "Adjuntos PDF"
+
+#: woo-rfq-includes/woo-rfq-functions.php:900
+msgid "Get Premium!"
+msgstr "¡Obtener Premium!"
+
+#: woo-rfq-includes/woo-rfq-functions.php:827
+msgid "Available in Premium Version:"
+msgstr "Disponible en la versión Premium"
+
+#: woocommerce/woo-rfq/account_password.php:9
+msgid "Please choose a password"
+msgstr "Por favor, selecciona una contraseña"
+
+#: woocommerce/woo-rfq/account_password.php:8
+msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+msgstr "Sugerencia: La contraseña debe tener al menos doce caracteres. ¡Para hacerla más fuerte, usa letras mayúsculas y minúsculas, números y símbolos como ! \" ? $ % ^ & )."
+
+#: woocommerce/woo-rfq/account_password.php:13
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:55
+msgid "Such information include Quote request details such as products added, custom fields, date, name, address and email."
+msgstr "Dicha información incluye los detalles de la solicitud de presupuesto, así como los productos añadidos, los campos personalizados, la fecha, el nombre, la dirección y el correo electrónico."
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:53
+msgid "Our team have access to the information you provide while submitting your quote request to offer you the best quote."
+msgstr "Nuestro equipo tiene acceso a la información que proporcionas al enviar tu solicitud de presupuesto para ofrecerte el mejor presupuesto."
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:51
+msgid "We also use cookies to keep track of your quote request while you’re browsing our site."
+msgstr "También usamos cookies para hacer un seguimiento de tu solicitud de presupuesto mientras navegas por nuestro sitio."
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:49
+msgid "Email you with a quote regarding your quote request."
+msgstr "Te enviaremos un correo electrónico con un presupuesto en relación con tu solicitud de presupuesto."
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:48
+msgid "Process your quote request."
+msgstr "Procesar tu solicitud de presupuesto."
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:44
+msgid "While visiting our site, we collect information so we can:"
+msgstr "Mientras visitas nuestro sitio, recopilamos información para poder:"
+
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:42
+msgid ""
+"The following is a suggested policy text. Please consult legal professional and modify for your use case as needed.\n"
+"                      ."
+msgstr ""
+"El siguiente es un texto de política sugerido. Consulta a un profesional del derecho y modifícalo para tu caso de uso según sea necesario.\n"
+"                      ."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:845
+msgid "PHP Sessions"
+msgstr "Sesiones PHP"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:844
+msgid "Cookie"
+msgstr "Cookie"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:841
+msgid "Choose Session method"
+msgstr "Elige el método de sesión"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:498
+msgid "Allow quote items when they are out of stock"
+msgstr "Permitir la cotización de artículos cuando están agotados"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:500
+msgid "<br />Allow quote items when they are out of stock"
+msgstr "<br />Permite pedir un presupuesto en artículos cuando están agotados"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:862
+msgid "Days to keep items in quote cart(greater than 0)"
+msgstr "Días para mantener los artículos en el carrito del presupuesto (mayor que 0)"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:856
+msgid "Some caching platforms use this to avoid caching cookies."
+msgstr "Algunas plataformas de almacenamiento en caché utilizan esto para evitar el almacenamiento en caché de las cookies."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:854
+msgid "Cookie Name Starting Characters"
+msgstr "Caracteres iniciales del nombre de la cookie"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:888
+msgid "Add to Quote Button"
+msgstr "Botón de añadir al presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:100
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:108
+msgid "Quote Button"
+msgstr "Botón de presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:900
+msgid "Before the title"
+msgstr "Antes del título"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:899
+msgid "At the top"
+msgstr "En la parte superior"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:903
+msgid "Default position is at the bottom.\"."
+msgstr "La posición por defecto es al final."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:901
+msgid "After title"
+msgstr "Después del título"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:898
+msgid "At the bottom"
+msgstr "En la parte inferior"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:895
+msgid "Choose the position of \"add to quote\" in the shop and archive"
+msgstr "Elige la posición de «Añadir al presupuesto» en la tienda y archivo"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:50
+msgid "Proceed to Checkout"
+msgstr "Proceder al pago"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:118
+msgid "More Options"
+msgstr "Más opciones"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:239
+#: includes/classes/emails/class-wc-email-customer-rfq.php:249
+#: includes/classes/emails/class-wc-email-new-rfq.php:229
+msgid "N/A"
+msgstr "N/D"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:246
+#: includes/classes/emails/class-wc-email-new-rfq.php:226
+msgid "Additional content"
+msgstr "Contenido adicional"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:247
+#: includes/classes/emails/class-wc-email-new-rfq.php:227
+msgid "Text to appear below the main email content."
+msgstr "El texto que aparecerá debajo del contenido principal del correo electrónico."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:676
+#: includes/classes/checkout/gpls_woo_rfq_checkout.php:141
+#: includes/classes/gpls_woo_rfq_functions.php:1406
+msgid "Your quote request has been successfully submitted!"
+msgstr "¡Tu solicitud de presupuesto ha sido enviada correctamente!"
+
+#. Plugin Name of the plugin
+#: woo-rfq-for-woocommerce.php
+#: includes/classes/admin/privacy/gpls_woo_rfq_privacy.php:32
+msgid "NP Quote Request WooCommerce"
+msgstr "NP Quote Request WooCommerce"
+
+#: woocommerce/emails/customer-note.php:52
+#: woocommerce/emails/plain/customer-note.php:53
+msgid "here"
+msgstr "aquí"
+
+#: woocommerce/emails/customer-note.php:52
+#: woocommerce/emails/plain/customer-note.php:53
+msgid "You can respond by clicking %s"
+msgstr "Puedes responder haciendo clic %s"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:492
+msgid ""
+"Applicable to normal checkout option only.<br /> Prices are shown on the site but customer can inquire or checkout with selected products.< br />\n"
+"                            This allows customers to checkout using the published prices or to request a personalized quote.<br />  Premium version show prices in the email and thank you page also"
+msgstr ""
+"Aplicable solo a pago normal.<br /> Los precios se muestran en el sitio pero el cliente puede preguntar o pagar con los productos seleccionados.< br />\n"
+"                            Esto permite a los clientes pagar usando los productos publicados o solicitar un presupuesto personalizado.<br />  La versión premium muestra los precios en el correo electrónico y  también la página de agradecimiento"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:481
+msgid "Always Show Product Prices With RFQ Checkout"
+msgstr "Mostrar siempre los precios de los productos con pago RFQ "
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:483
+msgid "Applicable to RFQ checkout option only.<br /> Prices are shown for products but checkout is still a request for quote.<br /> Premium version show prices in the email and thank you page also."
+msgstr "Aplicable solo para la opción de pago RFQ.<br /> Los precios se muestran para los productos, pero el proceso de pago sigue siendo una solicitud de presupuesto.<br /> La versión premium muestra los precios en el correo electrónico y  también en la página de agradecimiento."
+
+#: woocommerce/woo-rfq/rfq-cart.php:592
+msgid "Your message to us"
+msgstr "Tu mensaje para nosotros"
+
+#: woocommerce/woo-rfq/rfq-cart.php:487
+msgid "State/County"
+msgstr "Provincia"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:516
+msgid "Hide Prices From Visitor. Visitors who are not logged in can only submit a quotes request. <br />Enable guest checkout so the customers can submit requests as guest"
+msgstr "Oculta los precios al visitante. Los visitantes que no están conectados solo pueden enviar solicitudes de presupuesto.<br />Activa el pago para invitados para que los clientes pueden enviar solicitudes como invitados"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:717
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1111
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1125
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1140
+msgid "Select options"
+msgstr "Seleccionar opciones"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:714
+msgid "Select Options"
+msgstr "Seleccionar opciones"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:819
+msgid "Request for Quote Page URL"
+msgstr "URL de la página para solicitud de presupuesto"
+
+#: woocommerce/woo-rfq/account_password.php:16
+msgid "Create an account?"
+msgstr "¿Crear una cuenta?"
+
+#: includes/classes/emails/class-wc-email-rfq.php:61
+msgid "Note"
+msgstr "Nota"
+
+#: woocommerce/woo-rfq/rfq-cart.php:388
+msgid "Required"
+msgstr "Obligatorio"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:443
+msgid "RFQ-ToolKit general options "
+msgstr "Opciones generales de RFQ-ToolKit"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:441
+msgid "RFQ-ToolKit General Options"
+msgstr "Opciones generales de RFQ-ToolKit"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:631
+msgid "Normal & RFQ Checkout - Submit Your Quote Label"
+msgstr "Pago normal y solicitud de presupuesto - Envía tu etiqueta de presupuesto"
+
+#: includes/classes/gpls_woo_rfq_functions.php:1493
+msgid "Invalid email address."
+msgstr "Dirección de correo electrónico no válida."
+
+#: includes/classes/gpls_woo_rfq_functions.php:1503
+msgid "Invalid phone number."
+msgstr "Número de teléfono no válido."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:698
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:701
+#: woocommerce/woo-rfq/rfq-cart.php:286
+msgid "Customer Information"
+msgstr "Información del cliente"
+
+#: includes/classes/gpls_woo_rfq_functions.php:195
+msgid "View cart"
+msgstr "Ver carrito"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:641
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:644
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1531
+#: includes/classes/gpls_woo_rfq_functions.php:817
+#: includes/classes/gpls_woo_rfq_functions.php:2980
+#: woocommerce/woo-rfq/link-to-cart-pages.php:9
+#: woocommerce/woo-rfq/link-to-cart-shop.php:8
+#: woocommerce/woo-rfq/link-to-cart.php:8
+msgid "View List"
+msgstr "Ver lista"
+
+#: woocommerce/woo-rfq/rfq-cart.php:586
+msgid "Customer Note"
+msgstr "Nota del cliente"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:668
+msgid "Choose the text for \"Added to Quote List\""
+msgstr "Elige el texto para «Añadido a lista de presupuestos»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:633
+msgid "Normal & RFQ Checkout- Choose the text for \"Submit Your Request For Quote\""
+msgstr "En finalizar la compra normal y RFQ Checkout. Elige el texto para «Enviar tu solicitud de presupuesto»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:623
+msgid "RFQ Checkout- Choose the text for \"Proceed To Submit Your Quote\""
+msgstr "RFQ Checkout- Elige el texto para «Procede a enviar tu presupuesto»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:614
+msgid "Normal Checkout Only. Choose the text for \"Already In Quote Request\""
+msgstr "Solo en finalizar la compra normal. Elige el texto para «Ya en la solicitud de presupuesto»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:605
+msgid "Normal Checkout Only. Choose the text for \"Request Quote\""
+msgstr "Solo en finalizar la compra normal. Elige el texto para «Solicitud de presupuesto»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:621
+msgid "RFQ Checkout- Proceed To Submit Your Quote Label"
+msgstr "Etiqueta «Proceder a enviar tu presupuesto»"
+
+#: woocommerce/emails/customer-note.php:39
+#: woocommerce/emails/plain/customer-note.php:39
+msgid "Hello, a note has just been added to your order:"
+msgstr "Hola, se acaba de añadir una nota a tu pedido:"
+
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/plain/customer-note.php:59
+msgid "For your reference, your order details are shown below."
+msgstr "Para tu referencia, los detalles de tu pedido se muestran a continuación."
+
+#: includes/classes/emails/class-wc-email-new-rfq.php:26
+msgid "RFQ-ToolKit New RFQ Admin"
+msgstr "RFQ-ToolKit Nuevo administrador de RFQ"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:29
+msgid "RFQ-ToolKit New Request for Quote"
+msgstr "RFQ-ToolKit Nueva solicitud de presupuesto"
+
+#: includes/classes/gpls_woo_rfq_functions.php:1481
+msgid "Please enter first name, last name and a valid email"
+msgstr "Por favor, introduce tu nombre, apellidos y un correo electrónico válido"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:706
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:709
+#: includes/classes/cart/gpls_woo_rfq_cart.php:894
+#: includes/classes/cart/gpls_woo_rfq_cart.php:912
+#: includes/classes/cart/gpls_woo_rfq_cart.php:936
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1168
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1907
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1957
+#: includes/classes/cart/gpls_woo_rfq_cart.php:2007
+#: includes/classes/cart/gpls_woo_rfq_cart.php:2263
+#: includes/classes/cart/gpls_woo_rfq_cart.php:2283
+msgid "Read more"
+msgstr "Leer más"
+
+#: includes/classes/cart/gpls_woo_rfq_cart.php:974
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1080
+msgid "In Quote List"
+msgstr "En la lista de presupuestos"
+
+#: includes/classes/checkout/gpls_woo_rfq_checkout.php:82
+msgid "required"
+msgstr "obligatorio"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:98
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:106
+msgid "Links"
+msgstr "Enlaces"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:96
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:104
+msgid "General"
+msgstr "General"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:579
+msgid "Manage labels and wordings"
+msgstr "Gestionar las etiquetas y redacciones"
+
+#: includes/classes/admin/metaboxes/gpls_woo_rfq_product_meta.php:39
+msgid "Enable quote requests for this product."
+msgstr "Activa la solicitud de presupuesto para este producto."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:794
+msgid "Default Request for Quote Page: Applicable In Normal Checkout Mode"
+msgstr "Página de solicitud de presupuesto por defecto: Aplicable en el modo de pago normal"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:739
+msgid "Manage links to \"Request Quote Page\" - (normal checkout)"
+msgstr "Gestionar los enlaces a la «Página de solicitud de presupuesto» - (pago normal)"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:596
+msgid "Choose the text for \"Already in the Cart\"- (Change to Add To Quote in RFQ Checkout) "
+msgstr "Elige el texto para «Ya en el carrito» - (Cambia a añadir a la cotización en RFQ pago) "
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:587
+msgid "Choose the text for \"Add to Cart\" - (Change to Add To Quote in RFQ Checkout)"
+msgstr "Elige el texto para «Añadir al carrito» - (Cambia a añadir a la cotización en RFQ pago)"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:612
+msgid "Add To Quote Request Again Label"
+msgstr "Etiqueta «Añadir solicitud de presupuesto nuevamente»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:690
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:693
+#: includes/classes/gpls_woo_rfq_functions.php:129
+#: includes/classes/gpls_woo_rfq_functions.php:870
+msgid "Update Quote Request"
+msgstr "Solicitud de actualización de presupuesto"
+
+#: includes/classes/gpls_woo_rfq_functions.php:1809
+msgid "You RFQ has been successfully submitted!"
+msgstr "¡Tu solicitud de presupuesto ha sido enviada correctamente!"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:685
+#: woocommerce/woo-rfq/rfq-cart-empty.php:22
+msgid "Your Quote Request List is Currently Empty."
+msgstr "Actualmente, tu lista de solicitudes de presupuesto está vacía."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:674
+msgid "Your Request Has Been Submitted"
+msgstr "Tu solicitud ha sido enviada"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:666
+msgid "Product Was Added To The Quote Request"
+msgstr "El producto ha siso añadido a la petición de presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:660
+msgid "Choose the text for \"Return To Shop In Quote Request Page\""
+msgstr "Elige el texto para «Volver a la página de petición de presupuesto de la tienda»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:658
+msgid "Return To Shop In Quote Request Page"
+msgstr "Volver a la página de petición de presupuesto de la tienda"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:653
+msgid "You quote request list is empty and was not submitted"
+msgstr "Tu lista de peticiones de presupuesto está vacía y no se ha enviado"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:682
+msgid "Your Quote Request List Is Currently Empty"
+msgstr "Actualmente, tu lista de solicitudes de presupuesto está vacía"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:677
+msgid "Your request has been successfully submitted!"
+msgstr "¡Tu solicitud ha sido enviada correctamente!"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:669
+msgid "Product was successfully added to quote request."
+msgstr "El producto se ha añadido correctamente a la solicitud de presupuesto."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:650
+msgid "Quote Request List Is Empty Label"
+msgstr "La lista de solicitudes de presupuesto está vacía"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:603
+msgid "Add To Quote Request Label"
+msgstr "Etiqueta de añadir al presupuesto"
+
+#: includes/classes/cart/gpls_woo_rfq_cart.php:2163
+msgid "Add to Quote"
+msgstr "Añadir al presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:606
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:615
+#: includes/classes/cart/gpls_woo_rfq_cart.php:980
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1086
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1516
+#: includes/classes/cart/gpls_woo_rfq_cart.php:1521
+msgid "Add To Quote"
+msgstr "Añadir al presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:750
+msgid "Show Link To Quote Request Page At The Bottom of the Product Archives Page"
+msgstr "Mostrar el enlace a la página de solicitud de presupuesto en la parte inferior de la página de archivos del producto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:743
+msgid "Show Link To Quote Request Page At The Top of the Product Archives Page"
+msgstr "Mostrar el enlace a la página de solicitud de presupuesto en la parte superior de la página de archivos del producto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:99
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:107
+msgid "Quote Request Page"
+msgstr "Página de solicitud de presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:774
+msgid "Show Link To Quote Request Page in the Thank you page"
+msgstr "Mostrar el enlace a la página de solicitud de presupuesto en la página de agradecimiento"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:757
+msgid "Show Link To Quote Request Page in WooCommerce Cart Page"
+msgstr "Mostrar el enlace a la página de solicitud de presupuesto en la página del carrito de WooCommerce"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:624
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:634
+msgid "Proceed To Submit Your Quote"
+msgstr "Continuar con el envío de tu presupuesto"
+
+#: includes/classes/checkout/gpls_woo_rfq_checkout.php:100
+msgid "Update country"
+msgstr "Actualizar país"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:24
+#: woo-rfq-for-woocommerce.php:567 woo-rfq-for-woocommerce.php:658
+msgid "Quote Request"
+msgstr "Solicitud de presupuesto"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:73
+msgid "Request For Quote"
+msgstr "Solicitud de presupuesto"
+
+#: woocommerce/woo-rfq/rfq-cart.php:516
+msgid "Address 2"
+msgstr "Dirección 2"
+
+#: woocommerce/woo-rfq/rfq-cart.php:356 woocommerce/woo-rfq/rfq-cart.php:363
+msgid "Company"
+msgstr "Empresa"
+
+#: includes/classes/gpls_woo_rfq_functions.php:819
+msgid "You have items in your Request for Quote Cart"
+msgstr "Tienes artículos en tu carrito de solicitud de presupuesto"
+
+#. Author URI of the plugin
+#: woo-rfq-for-woocommerce.php
+msgid "https://www.neahplugins.com/"
+msgstr "https://www.neahplugins.com/"
+
+#. Author of the plugin
+#: woo-rfq-for-woocommerce.php
+msgid "Neah Plugins"
+msgstr "Neah Plugins"
+
+#: woocommerce/woo-rfq/rfq-cart.php:554 woocommerce/woo-rfq/rfq-cart.php:559
+msgid "Zip"
+msgstr "Código postal"
+
+#: woocommerce/woo-rfq/rfq-cart.php:535 woocommerce/woo-rfq/rfq-cart.php:543
+msgid "City"
+msgstr "Ciudad"
+
+#: woocommerce/woo-rfq/rfq-cart.php:499 woocommerce/woo-rfq/rfq-cart.php:504
+msgid "Address"
+msgstr "Dirección"
+
+#: woocommerce/woo-rfq/rfq-cart.php:374 woocommerce/woo-rfq/rfq-cart.php:380
+msgid "Country"
+msgstr "País"
+
+#: woocommerce/woo-rfq/rfq-cart.php:303 woocommerce/woo-rfq/rfq-cart.php:310
+msgid "First Name"
+msgstr "Nombre"
+
+#: woocommerce/woo-rfq/rfq-cart.php:170
+msgid "Available on backorder"
+msgstr "Disponible para reserva"
+
+#: woocommerce/woo-rfq/rfq-cart.php:128
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#: woocommerce/emails/plain/rfqtk-email-order-items.php:48
+#: woocommerce/emails/rfqtk-email-order-items.php:48
+msgid "Product image"
+msgstr "Imagen del producto"
+
+#: woocommerce/emails/admin-new-rfq.php:42
+#: woocommerce/emails/customer-note.php:71
+#: woocommerce/emails/customer-rfq.php:50
+#: woocommerce/emails/plain/admin-new-rfq.php:42
+#: woocommerce/emails/plain/customer-note.php:72
+#: woocommerce/emails/plain/customer-rfq.php:50
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/emails/admin-new-rfq.php:40
+#: woocommerce/emails/customer-note.php:68
+#: woocommerce/emails/customer-rfq.php:47
+#: woocommerce/emails/plain/admin-new-rfq.php:40
+#: woocommerce/emails/plain/customer-note.php:69
+#: woocommerce/emails/plain/customer-rfq.php:47
+#: woocommerce/woo-rfq/rfq-cart.php:91 woocommerce/woo-rfq/rfq-cart.php:177
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/emails/admin-new-rfq.php:38
+#: woocommerce/emails/customer-note.php:66
+#: woocommerce/emails/customer-rfq.php:46
+#: woocommerce/emails/plain/admin-new-rfq.php:38
+#: woocommerce/emails/plain/customer-note.php:67
+#: woocommerce/emails/plain/customer-rfq.php:46
+#: woocommerce/woo-rfq/rfq-cart.php:90 woocommerce/woo-rfq/rfq-cart.php:152
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/emails/admin-new-rfq.php:29
+#: woocommerce/emails/customer-note.php:59
+#: woocommerce/emails/customer-rfq.php:40
+#: woocommerce/emails/plain/admin-new-rfq.php:29
+#: woocommerce/emails/plain/customer-note.php:60
+#: woocommerce/emails/plain/customer-rfq.php:40
+msgid "Order #%s"
+msgstr "Pedido #%s"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:84
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:77
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:70
+msgid "Title"
+msgstr "Título"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:218
+#: includes/classes/emails/class-wc-email-new-rfq.php:210
+msgid "Subject"
+msgstr "Asunto"
+
+#: woocommerce/woo-rfq/rfq-cart.php:326 woocommerce/woo-rfq/rfq-cart.php:333
+msgid "Email"
+msgstr "Correo eletrónico"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:454
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:129
+#: woo-rfq-includes/woo-rfq-functions.php:243
+msgid "RFQ"
+msgstr "RFQ"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:97
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:105
+msgid "Labels"
+msgstr "Etiquetas"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:62
+msgid "Proceed to checkout"
+msgstr "Proceder al pago"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:588
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:597
+#: includes/classes/cart/gpls_woo_rfq_cart.php:2166
+msgid "Add to Cart"
+msgstr "Añadir al carrito"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:577
+msgid "Custom Labels"
+msgstr "Etiquetas personalizadas"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:661
+#: woocommerce/woo-rfq/rfq-cart-empty.php:35
+msgid "Return To Shop"
+msgstr "Volver a la tienda"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:210
+#: includes/classes/emails/class-wc-email-new-rfq.php:197
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:64
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#. Plugin URI of the plugin
+#: woo-rfq-for-woocommerce.php
+msgid "https://wordpress.org/plugins/woo-rfq-for-woocommerce"
+msgstr "https://es.wordpress.org/plugins/woo-rfq-for-woocommerce"
+
+#: woocommerce/woo-rfq/rfq-cart.php:314 woocommerce/woo-rfq/rfq-cart.php:321
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: woocommerce/woo-rfq/rfq-cart.php:340 woocommerce/woo-rfq/rfq-cart.php:345
+msgid "Phone"
+msgstr "Teléfono"
+
+#: woocommerce/woo-rfq/rfq-cart.php:414 woocommerce/woo-rfq/rfq-cart.php:423
+msgid "State"
+msgstr "Estado"
+
+#: includes/classes/emails/class-wc-email-new-rfq.php:205
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr "Introduce los destinatarios (separados por comas) de este correo electrónico. Por defecto <code>%s</code>."
+
+#: includes/classes/emails/class-wc-email-new-rfq.php:203
+msgid "Recipient(s)"
+msgstr "Destinatario(s)"
+
+#: includes/classes/emails/class-wc-email-new-rfq.php:27
+msgid "New quote request emails are sent to the recipient list when an order is received."
+msgstr "Los nuevos correos electrónicos de solicitud de presupuesto se envían a la lista de destinatarios cuando se recibe un pedido."
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:737
+msgid "Show links to Quote Request Page"
+msgstr "Mostrar enlaces a la página de solicitud de presupuesto"
+
+#: includes/classes/gpls_woo_rfq_functions.php:1173
+#: includes/classes/gpls_woo_rfq_functions.php:1206
+#: includes/classes/gpls_woo_rfq_functions.php:1529
+#: includes/classes/gpls_woo_rfq_functions.php:1565
+msgid "You RFQ cart is empty and was not submitted"
+msgstr "Tu carrito RFQ está vacío y no se ha enviado"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:514
+msgid "Hide Prices from Visitors"
+msgstr "Ocultar los precios a los visitantes"
+
+#: includes/classes/admin/metaboxes/gpls_woo_rfq_product_meta.php:36
+msgid "Enable RFQ for this product."
+msgstr "Activar RFQ para este producto"
+
+#: includes/classes/emails/class-wc-email-new-rfq.php:69
+msgid "New customer quote request"
+msgstr "Nueva solicitud de presupuesto del cliente"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:450
+msgid "Checkout Option"
+msgstr "Opciones de pago"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:453
+msgid "Normal Checkout"
+msgstr "Pago normal"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:490
+msgid "Show Prices With Normal Checkout"
+msgstr "Mostrar los precios con el pago normal"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:75
+msgid "Thank you for your quote request"
+msgstr "Gracias por tu solicitud de presupuesto"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:30
+msgid "This is an quote request notification sent to customers containing their order details after quote request."
+msgstr "Este es un aviso de solicitud de presupuesto enviado a los clientes, conteniendo sus detalles de pedido, después de la solicitud de presupuesto."
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:64
+msgid "Your {site_title} quote request confirmation from {order_date}"
+msgstr "Tu confirmación de solicitud de presupuesto en {site_title} del {order_date}"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:594
+msgid "Add To Cart Again Label"
+msgstr "Etiqueta del botón «Añadir de nuevo al carrito»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:585
+msgid "Add To Cart Label"
+msgstr "Etiqueta de «Añadir al carrito»"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:54
+msgid "Proceed To Submit Your RFQ"
+msgstr "Continuar con el envío de tu solicitud de presupuesto"
+
+#: includes/classes/checkout/gpls_woo_rfq_checkout.php:166
+msgid "Submit Your Request For Quote"
+msgstr "Enviar tu solicitud de presupuesto"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:643
+msgid "Choose the text for \"View Your Quote Cart\""
+msgstr "Elige el texto para «Ver tu carrito de presupuestos»"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:652
+msgid "Choose the text for \"You Quote cart is empty and was not submitted\""
+msgstr "Elige el texto para «Tu carrito de presupuestos está vacío y no se ha enviado»"
+
+#: woocommerce/emails/admin-new-rfq.php:23
+#: woocommerce/emails/plain/admin-new-rfq.php:23
+msgid "You have received an request for a quote from %s. The request is as follows:"
+msgstr "Has recibido una solicitud de presupuesto de %s. La solicitud es la siguiente:"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:86
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr "Las instrucciones que se añadirán a la página de agradecimiento y a los correos electrónicos."
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:72
+msgid "This controls the title which the user sees during checkout."
+msgstr "Esto controla el título que el usuario ve durante el pago."
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:66
+msgid "Skip Payment For Quote Requests"
+msgstr "Omitir el pago para las solicitudes de presupuesto"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:258
+#: includes/classes/emails/class-wc-email-new-rfq.php:237
+msgid "Choose which format of email to send."
+msgstr "Elige qué formato de correo electrónico enviar."
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:25
+msgid "Allows RFQ to go through."
+msgstr "Permite que la solicitud de presupuesto continúe."
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:212
+#: includes/classes/emails/class-wc-email-new-rfq.php:199
+msgid "Enable this email notification"
+msgstr "Activar este aviso de correo electrónico"
+
+#: includes/classes/emails/class-wc-email-customer-rfq.php:256
+#: includes/classes/emails/class-wc-email-new-rfq.php:235
+msgid "Email type"
+msgstr "Tipo de correo electrónico"
+
+#: includes/classes/gateway/wc-gateway-gpls-request-quote.php:79
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Descripción del método de pago que el cliente verá al finalizar su compra."
+
+#: woocommerce/emails/customer-rfq.php:36
+#: woocommerce/emails/plain/customer-rfq.php:36
+msgid "Your request has been received and is now being reviewed. Your request details are shown below for your reference:"
+msgstr "Tu solicitud ha sido recibida y está siendo revisada. Los detalles de tu solicitud se muestran a continuación para tu referencia:"
+
+#: includes/classes/admin/settings/gpls_woo_rfq_settings.php:766
+msgid "Show Link To Quote Request Page in the Single Product Description"
+msgstr "Mostrar el enlace a la página de solicitud de presupuesto en la descripción de la página individual de producto"
